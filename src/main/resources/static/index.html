@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="">
+
+<head>
+    <meta charset="utf-8"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <link rel="stylesheet" href="css/libs/bootstrap.css">
+    <link rel="stylesheet" type="text/css" href="css/phoneBook.css"/>
+
+    <script defer src="js/libs/jquery.js"></script>
+    <script defer src="js/libs/bootstrap.bundle.js"></script>
+    <script defer src="js/libs/vue.js"></script>
+    <script defer src="js/phoneBook.js"></script>
+
+    <title>Phone book</title>
+</head>
+
+<body>
+<div id="app">
+    <div class="container" v-cloak>
+        <div class="row">
+            <h1 class="h2 col text-center m-3">Телефонная книга</h1>
+        </div>
+
+        <div v-for="contactDataInput in contactsDataInputs" :key="contactDataInput.id">
+            <div class="row mb-2 pl-4" :style="{ fontWeight: 700 }">
+                {{ contactDataInput.name }}
+            </div>
+            <div class="row mb-2">
+                <div class="col mb-2">
+                    <input v-model="contactDataInput.text"
+                           type="text"
+                           class="form-control"
+                           :class="{ 'is-invalid': contactDataInput.isInvalid }"
+                           maxlength='60'>
+                    <div class="invalid-feedback" :style="{ fontWeight: 700 }">{{ contactDataInput.errorMessage }}</div>
+                </div>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col text-center">
+                <button @click="addContact" type="button" class="btn btn-primary mt-2" aria-pressed="true">
+                    Добавить контакт
+                </button>
+            </div>
+        </div>
+
+        <div class="row mb-2">
+            <div class="col pl-4 font-weight-bold">Поиск</div>
+        </div>
+        <div class="row mb-2">
+            <div class="col">
+                <input v-model="filterInput" class="form-control" type="text" maxlength='60'>
+            </div>
+        </div>
+        <div class="row justify-content-center">
+            <div class="col text-center">
+                <button @click="loadFilteredContacts()" type="button" class="btn btn-primary mt-3 mr-3 add_button"
+                        aria-pressed="true">
+                    Поиск
+                </button>
+                <button @click="clearSearch" type="button" class="btn btn-secondary mt-3 add_button"
+                        aria-pressed="true">
+                    Очистить
+                </button>
+            </div>
+        </div>
+
+        <div class="table-responsive">
+            <table class="table table-bordered table-sm contacts-table mt-4">
+                <thead class="table-primary">
+                <tr>
+                    <th scope="col" @click="chooseAll" class="text-center limit-width">
+                        <template v-if="deleteAllCheckboxValue">
+                            <img src="./images/checked_checkbox.ico"
+                                 class="img-fluid justify-content-center"
+                                 alt="checked_checkbox"
+                                 title="Снять выделение">
+                        </template>
+                        <template v-else>
+                            <img src="./images/unchecked_checkbox.ico"
+                                 class="img-fluid"
+                                 alt="unchecked_checkbox"
+                                 title="Выделить все">
+                        </template>
+                    </th>
+                    <th scope="col" class="text-center">№</th>
+                    <th scope="col" class="pl-3">Фамилия</th>
+                    <th scope="col" class="pl-3">Имя</th>
+                    <th scope="col" class="pl-3">Номер телефона</th>
+                        <th v-if="isDeleteContactsButtonShow" scope="col"
+                            @click="deleteContacts"
+                            class="text-center delete-cell"
+                            title="Удалить выбранные">
+                            X
+                        </th>
+                        <th v-else scope="col" class="text-center pl-3"></th>
+                </tr>
+                </thead>
+                <tbody>
+                <template v-if="contacts.length === 0">
+                    <tr class="empty-row text-center">
+                        <td scope="row"></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                </template>
+                <tr v-for="(contact, index) in contacts" :key="contact.id">
+                    <td scope="row" class="text-center limit-width">
+                        <label class="justify-content-center mb-0">
+                            <input v-model="contact.isChecked" @click="checkIsAllChecked()" type="checkbox" class="select-me"/>
+                        </label>
+                    </td>
+                    <td class="text-center pl-2">{{ index + 1 }}</td>
+                    <td class="pl-3">{{ contact.lastName }}</td>
+                    <td class="pl-3">{{ contact.firstName }}</td>
+                    <td class="pl-3">{{ contact.phone }}</td>
+                    <td @click="deleteContact(contact)"
+                        class="text-center delete-cell"
+                        title="Удалить контакт">
+                        X
+                    </td>
+                </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
+
+</body>
+</html>

@@ -1,0 +1,928 @@
+2021-08-14 11:48:47.541  INFO 6768 --- [main] r.a.n.PhoneBookSpringApplicationTests    : Starting PhoneBookSpringApplicationTests using Java 16.0.2 on LAPTOP-6TOUT69J with PID 6768 (started by kinik in C:\Documents\IdeaProjects\PhoneBookSpring)
+2021-08-14 11:48:47.562 DEBUG 6768 --- [main] r.a.n.PhoneBookSpringApplicationTests    : Running with Spring Boot v2.5.3, Spring v5.3.9
+2021-08-14 11:48:47.568  INFO 6768 --- [main] r.a.n.PhoneBookSpringApplicationTests    : No active profile set, falling back to default profiles: default
+2021-08-14 11:48:51.906  INFO 6768 --- [main] r.a.n.PhoneBookSpringApplicationTests    : Started PhoneBookSpringApplicationTests in 5.121 seconds (JVM running for 7.496)
+2021-08-14 11:50:23.209  INFO 3328 --- [main] r.a.n.PhoneBookSpringApplicationTests    : Starting PhoneBookSpringApplicationTests using Java 16.0.2 on LAPTOP-6TOUT69J with PID 3328 (started by kinik in C:\Documents\IdeaProjects\PhoneBookSpring)
+2021-08-14 11:50:23.212 DEBUG 3328 --- [main] r.a.n.PhoneBookSpringApplicationTests    : Running with Spring Boot v2.5.3, Spring v5.3.9
+2021-08-14 11:50:23.216  INFO 3328 --- [main] r.a.n.PhoneBookSpringApplicationTests    : No active profile set, falling back to default profiles: default
+2021-08-14 11:50:27.226  INFO 3328 --- [main] r.a.n.PhoneBookSpringApplicationTests    : Started PhoneBookSpringApplicationTests in 4.837 seconds (JVM running for 7.65)
+2021-08-14 11:55:30.729  INFO 16760 --- [main] r.a.n.PhoneBookSpringApplicationTests    : Starting PhoneBookSpringApplicationTests using Java 16.0.2 on LAPTOP-6TOUT69J with PID 16760 (started by kinik in C:\Documents\IdeaProjects\PhoneBookSpring)
+2021-08-14 11:55:30.732 DEBUG 16760 --- [main] r.a.n.PhoneBookSpringApplicationTests    : Running with Spring Boot v2.5.3, Spring v5.3.9
+2021-08-14 11:55:30.736  INFO 16760 --- [main] r.a.n.PhoneBookSpringApplicationTests    : No active profile set, falling back to default profiles: default
+2021-08-14 11:55:34.470  INFO 16760 --- [main] r.a.n.PhoneBookSpringApplicationTests    : Started PhoneBookSpringApplicationTests in 4.636 seconds (JVM running for 7.641)
+2021-08-14 12:01:20.294  INFO 12308 --- [main] r.a.n.PhoneBookSpringApplicationTests    : Starting PhoneBookSpringApplicationTests using Java 16.0.2 on LAPTOP-6TOUT69J with PID 12308 (started by kinik in C:\Documents\IdeaProjects\PhoneBookSpring)
+2021-08-14 12:01:20.297 DEBUG 12308 --- [main] r.a.n.PhoneBookSpringApplicationTests    : Running with Spring Boot v2.5.3, Spring v5.3.9
+2021-08-14 12:01:20.302  INFO 12308 --- [main] r.a.n.PhoneBookSpringApplicationTests    : No active profile set, falling back to default profiles: default
+2021-08-14 12:01:24.470  INFO 12308 --- [main] r.a.n.PhoneBookSpringApplicationTests    : Started PhoneBookSpringApplicationTests in 4.927 seconds (JVM running for 7.856)
+2021-08-14 12:04:20.217  INFO 1364 --- [main] r.a.n.PhoneBookSpringApplicationTests    : Starting PhoneBookSpringApplicationTests using Java 16.0.2 on LAPTOP-6TOUT69J with PID 1364 (started by kinik in C:\Documents\IdeaProjects\PhoneBookSpring)
+2021-08-14 12:04:20.221 DEBUG 1364 --- [main] r.a.n.PhoneBookSpringApplicationTests    : Running with Spring Boot v2.5.3, Spring v5.3.9
+2021-08-14 12:04:20.225  INFO 1364 --- [main] r.a.n.PhoneBookSpringApplicationTests    : No active profile set, falling back to default profiles: default
+2021-08-14 12:04:24.410  INFO 1364 --- [main] r.a.n.PhoneBookSpringApplicationTests    : Started PhoneBookSpringApplicationTests in 5.023 seconds (JVM running for 7.968)
+2021-08-14 12:07:21.643  INFO 14464 --- [main] r.a.n.PhoneBookSpringApplicationTests    : Starting PhoneBookSpringApplicationTests using Java 16.0.2 on LAPTOP-6TOUT69J with PID 14464 (started by kinik in C:\Documents\IdeaProjects\PhoneBookSpring)
+2021-08-14 12:07:21.646 DEBUG 14464 --- [main] r.a.n.PhoneBookSpringApplicationTests    : Running with Spring Boot v2.5.3, Spring v5.3.9
+2021-08-14 12:07:21.650  INFO 14464 --- [main] r.a.n.PhoneBookSpringApplicationTests    : No active profile set, falling back to default profiles: default
+2021-08-14 12:07:25.656  INFO 14464 --- [main] r.a.n.PhoneBookSpringApplicationTests    : Started PhoneBookSpringApplicationTests in 5.249 seconds (JVM running for 7.462)
+2021-08-14 12:14:58.170  INFO 19276 --- [main] r.a.n.PhoneBookSpringApplicationTests    : Starting PhoneBookSpringApplicationTests using Java 16.0.2 on LAPTOP-6TOUT69J with PID 19276 (started by kinik in C:\Documents\IdeaProjects\PhoneBookSpring)
+2021-08-14 12:14:58.173 DEBUG 19276 --- [main] r.a.n.PhoneBookSpringApplicationTests    : Running with Spring Boot v2.5.3, Spring v5.3.9
+2021-08-14 12:14:58.177  INFO 19276 --- [main] r.a.n.PhoneBookSpringApplicationTests    : No active profile set, falling back to default profiles: default
+2021-08-14 12:15:02.473  INFO 19276 --- [main] r.a.n.PhoneBookSpringApplicationTests    : Started PhoneBookSpringApplicationTests in 5.282 seconds (JVM running for 7.581)
+2021-08-14 12:15:41.325  INFO 7968 --- [main] r.a.n.PhoneBookSpringApplicationTests    : Starting PhoneBookSpringApplicationTests using Java 16.0.2 on LAPTOP-6TOUT69J with PID 7968 (started by kinik in C:\Documents\IdeaProjects\PhoneBookSpring)
+2021-08-14 12:15:41.329 DEBUG 7968 --- [main] r.a.n.PhoneBookSpringApplicationTests    : Running with Spring Boot v2.5.3, Spring v5.3.9
+2021-08-14 12:15:41.332  INFO 7968 --- [main] r.a.n.PhoneBookSpringApplicationTests    : No active profile set, falling back to default profiles: default
+2021-08-14 12:15:45.699  INFO 7968 --- [main] r.a.n.PhoneBookSpringApplicationTests    : Started PhoneBookSpringApplicationTests in 5.32 seconds (JVM running for 7.691)
+2021-08-14 13:01:46.206  INFO 9332 --- [main] r.a.n.PhoneBookSpringApplicationTests    : Starting PhoneBookSpringApplicationTests using Java 16.0.2 on LAPTOP-6TOUT69J with PID 9332 (started by kinik in C:\Documents\IdeaProjects\PhoneBookSpring)
+2021-08-14 13:01:46.209 DEBUG 9332 --- [main] r.a.n.PhoneBookSpringApplicationTests    : Running with Spring Boot v2.5.3, Spring v5.3.9
+2021-08-14 13:01:46.212  INFO 9332 --- [main] r.a.n.PhoneBookSpringApplicationTests    : No active profile set, falling back to default profiles: default
+2021-08-14 13:01:50.351  INFO 9332 --- [main] r.a.n.PhoneBookSpringApplicationTests    : Started PhoneBookSpringApplicationTests in 5.117 seconds (JVM running for 7.48)
+2021-08-14 13:01:51.440  INFO 9332 --- [main] ru.academits.nikolenko.dao.ContactDao    : Contacts count = 0
+2021-08-14 13:01:51.466  INFO 9332 --- [main] ru.academits.nikolenko.dao.ContactDao    : Contacts count = 2
+2021-08-14 13:03:27.961  INFO 7156 --- [main] r.a.n.PhoneBookSpringApplicationTests    : Starting PhoneBookSpringApplicationTests using Java 16.0.2 on LAPTOP-6TOUT69J with PID 7156 (started by kinik in C:\Documents\IdeaProjects\PhoneBookSpring)
+2021-08-14 13:03:27.965 DEBUG 7156 --- [main] r.a.n.PhoneBookSpringApplicationTests    : Running with Spring Boot v2.5.3, Spring v5.3.9
+2021-08-14 13:03:27.970  INFO 7156 --- [main] r.a.n.PhoneBookSpringApplicationTests    : No active profile set, falling back to default profiles: default
+2021-08-14 13:03:32.088  INFO 7156 --- [main] r.a.n.PhoneBookSpringApplicationTests    : Started PhoneBookSpringApplicationTests in 5.068 seconds (JVM running for 7.582)
+2021-08-14 13:03:33.294  INFO 7156 --- [main] ru.academits.nikolenko.dao.ContactDao    : Contacts count = 0
+2021-08-14 13:03:33.323  INFO 7156 --- [main] ru.academits.nikolenko.dao.ContactDao    : Contacts count = 2
+2021-08-14 13:04:14.286  INFO 6924 --- [main] r.a.n.PhoneBookSpringApplicationTests    : Starting PhoneBookSpringApplicationTests using Java 16.0.2 on LAPTOP-6TOUT69J with PID 6924 (started by kinik in C:\Documents\IdeaProjects\PhoneBookSpring)
+2021-08-14 13:04:14.289 DEBUG 6924 --- [main] r.a.n.PhoneBookSpringApplicationTests    : Running with Spring Boot v2.5.3, Spring v5.3.9
+2021-08-14 13:04:14.292  INFO 6924 --- [main] r.a.n.PhoneBookSpringApplicationTests    : No active profile set, falling back to default profiles: default
+2021-08-14 13:04:18.548  INFO 6924 --- [main] r.a.n.PhoneBookSpringApplicationTests    : Started PhoneBookSpringApplicationTests in 5.209 seconds (JVM running for 7.664)
+2021-08-14 13:04:19.662  INFO 6924 --- [main] ru.academits.nikolenko.dao.ContactDao    : Contacts count = 0
+2021-08-14 13:04:19.684  INFO 6924 --- [main] ru.academits.nikolenko.dao.ContactDao    : Contacts count = 2
+2021-08-14 13:09:41.408  INFO 11136 --- [main] r.a.n.PhoneBookSpringApplicationTests    : Starting PhoneBookSpringApplicationTests using Java 16.0.2 on LAPTOP-6TOUT69J with PID 11136 (started by kinik in C:\Documents\IdeaProjects\PhoneBookSpring)
+2021-08-14 13:09:41.409 DEBUG 11136 --- [main] r.a.n.PhoneBookSpringApplicationTests    : Running with Spring Boot v2.5.3, Spring v5.3.9
+2021-08-14 13:09:41.412  INFO 11136 --- [main] r.a.n.PhoneBookSpringApplicationTests    : No active profile set, falling back to default profiles: default
+2021-08-14 13:09:43.819  INFO 11136 --- [main] r.a.n.PhoneBookSpringApplicationTests    : Started PhoneBookSpringApplicationTests in 2.972 seconds (JVM running for 4.429)
+2021-08-14 13:09:44.457  INFO 11136 --- [main] ru.academits.nikolenko.dao.ContactDao    : Contacts count = 2
+2021-08-14 13:09:44.462  INFO 11136 --- [main] ru.academits.nikolenko.dao.ContactDao    : Deleted contact with id = 2
+2021-08-14 13:09:44.462  INFO 11136 --- [main] ru.academits.nikolenko.dao.ContactDao    : Contacts count = 1
+2021-08-14 13:09:44.462  INFO 11136 --- [main] ru.academits.nikolenko.dao.ContactDao    : Deleted contact with id = 1
+2021-08-14 13:09:44.463  INFO 11136 --- [main] ru.academits.nikolenko.dao.ContactDao    : Contacts count = 0
+2021-08-14 13:09:44.477  INFO 11136 --- [main] ru.academits.nikolenko.dao.ContactDao    : Contacts count = 1
+2021-08-14 13:09:44.478  INFO 11136 --- [main] ru.academits.nikolenko.dao.ContactDao    : Contacts count = 1
+2021-08-14 13:09:44.479  INFO 11136 --- [main] ru.academits.nikolenko.dao.ContactDao    : Contacts count = 0
+2021-08-14 13:09:44.480  INFO 11136 --- [main] ru.academits.nikolenko.dao.ContactDao    : Contacts count = 0
+2021-08-14 13:09:44.487  INFO 11136 --- [main] ru.academits.nikolenko.dao.ContactDao    : Contacts count = 2
+2021-08-14 13:43:13.248  INFO 19144 --- [main] r.a.n.PhoneBookSpringApplicationTests    : Starting PhoneBookSpringApplicationTests using Java 16.0.2 on LAPTOP-6TOUT69J with PID 19144 (started by kinik in C:\Documents\IdeaProjects\PhoneBookSpring)
+2021-08-14 13:43:13.251 DEBUG 19144 --- [main] r.a.n.PhoneBookSpringApplicationTests    : Running with Spring Boot v2.5.3, Spring v5.3.9
+2021-08-14 13:43:13.254  INFO 19144 --- [main] r.a.n.PhoneBookSpringApplicationTests    : No active profile set, falling back to default profiles: default
+2021-08-14 13:43:17.356  INFO 19144 --- [main] r.a.n.PhoneBookSpringApplicationTests    : Started PhoneBookSpringApplicationTests in 5.096 seconds (JVM running for 7.489)
+2021-08-14 13:43:18.416  INFO 19144 --- [main] ru.academits.nikolenko.dao.ContactDao    : Contacts count = 2
+2021-08-14 13:45:58.241  INFO 19588 --- [main] r.a.n.PhoneBookSpringApplicationTests    : Starting PhoneBookSpringApplicationTests using Java 16.0.2 on LAPTOP-6TOUT69J with PID 19588 (started by kinik in C:\Documents\IdeaProjects\PhoneBookSpring)
+2021-08-14 13:45:58.245 DEBUG 19588 --- [main] r.a.n.PhoneBookSpringApplicationTests    : Running with Spring Boot v2.5.3, Spring v5.3.9
+2021-08-14 13:45:58.250  INFO 19588 --- [main] r.a.n.PhoneBookSpringApplicationTests    : No active profile set, falling back to default profiles: default
+2021-08-14 13:46:02.166  INFO 19588 --- [main] r.a.n.PhoneBookSpringApplicationTests    : Started PhoneBookSpringApplicationTests in 4.837 seconds (JVM running for 7.247)
+2021-08-14 13:46:03.217  INFO 19588 --- [main] ru.academits.nikolenko.dao.ContactDao    : Contacts count = 2
+2021-08-14 13:55:50.771  INFO 17804 --- [main] ru.academits.nikolenko.ContactDaoTest    : Starting ContactDaoTest using Java 16.0.2 on LAPTOP-6TOUT69J with PID 17804 (started by kinik in C:\Documents\IdeaProjects\PhoneBookSpring)
+2021-08-14 13:55:50.775 DEBUG 17804 --- [main] ru.academits.nikolenko.ContactDaoTest    : Running with Spring Boot v2.5.3, Spring v5.3.9
+2021-08-14 13:55:50.779  INFO 17804 --- [main] ru.academits.nikolenko.ContactDaoTest    : No active profile set, falling back to default profiles: default
+2021-08-14 13:55:54.754  INFO 17804 --- [main] ru.academits.nikolenko.ContactDaoTest    : Started ContactDaoTest in 4.857 seconds (JVM running for 6.994)
+2021-08-14 13:55:55.789  INFO 17804 --- [main] ru.academits.nikolenko.dao.ContactDao    : Contacts count = 2
+2021-08-14 13:55:55.798  INFO 17804 --- [main] ru.academits.nikolenko.dao.ContactDao    : Deleted contact with id = 2
+2021-08-14 13:55:55.799  INFO 17804 --- [main] ru.academits.nikolenko.dao.ContactDao    : Contacts count = 1
+2021-08-14 13:55:55.799  INFO 17804 --- [main] ru.academits.nikolenko.dao.ContactDao    : Deleted contact with id = 1
+2021-08-14 13:55:55.800  INFO 17804 --- [main] ru.academits.nikolenko.dao.ContactDao    : Contacts count = 0
+2021-08-14 13:55:55.819  INFO 17804 --- [main] ru.academits.nikolenko.dao.ContactDao    : Contacts count = 1
+2021-08-14 13:55:55.821  INFO 17804 --- [main] ru.academits.nikolenko.dao.ContactDao    : Contacts count = 1
+2021-08-14 13:55:55.821  INFO 17804 --- [main] ru.academits.nikolenko.dao.ContactDao    : Contacts count = 0
+2021-08-14 13:55:55.823  INFO 17804 --- [main] ru.academits.nikolenko.dao.ContactDao    : Contacts count = 0
+2021-08-14 13:55:55.831  INFO 17804 --- [main] ru.academits.nikolenko.dao.ContactDao    : Contacts count = 2
+2021-08-14 13:55:55.852  INFO 17804 --- [main] ru.academits.nikolenko.dao.ContactDao    : Contacts count = 2
+2021-08-14 15:22:33.143  INFO 6216 --- [main] ru.academits.nikolenko.ContactDaoTest    : Starting ContactDaoTest using Java 16.0.2 on LAPTOP-6TOUT69J with PID 6216 (started by kinik in C:\Documents\IdeaProjects\PhoneBookSpring)
+2021-08-14 15:22:33.146 DEBUG 6216 --- [main] ru.academits.nikolenko.ContactDaoTest    : Running with Spring Boot v2.5.3, Spring v5.3.9
+2021-08-14 15:22:33.149  INFO 6216 --- [main] ru.academits.nikolenko.ContactDaoTest    : No active profile set, falling back to default profiles: default
+2021-08-14 15:22:37.631  INFO 6216 --- [main] ru.academits.nikolenko.ContactDaoTest    : Started ContactDaoTest in 5.4 seconds (JVM running for 7.756)
+2021-08-14 15:22:38.747  INFO 6216 --- [main] ru.academits.nikolenko.dao.ContactDao    : Contacts count = 2
+2021-08-14 15:22:38.757  INFO 6216 --- [main] ru.academits.nikolenko.dao.ContactDao    : Deleted contact with id = 1
+2021-08-14 15:22:38.759  INFO 6216 --- [main] ru.academits.nikolenko.dao.ContactDao    : Contacts count = 1
+2021-08-14 15:22:38.759  INFO 6216 --- [main] ru.academits.nikolenko.dao.ContactDao    : Deleted contact with id = 2
+2021-08-14 15:22:38.760  INFO 6216 --- [main] ru.academits.nikolenko.dao.ContactDao    : Contacts count = 0
+2021-08-14 15:22:38.783  INFO 6216 --- [main] ru.academits.nikolenko.dao.ContactDao    : Contacts count = 1
+2021-08-14 15:22:38.785  INFO 6216 --- [main] ru.academits.nikolenko.dao.ContactDao    : Contacts count = 1
+2021-08-14 15:22:38.786  INFO 6216 --- [main] ru.academits.nikolenko.dao.ContactDao    : Contacts count = 0
+2021-08-14 15:22:38.787  INFO 6216 --- [main] ru.academits.nikolenko.dao.ContactDao    : Contacts count = 0
+2021-08-14 15:22:38.795  INFO 6216 --- [main] ru.academits.nikolenko.dao.ContactDao    : Contacts count = 2
+2021-08-14 15:22:38.806  INFO 6216 --- [main] ru.academits.nikolenko.ContactDaoTest    : initialContactTest passed
+2021-08-14 15:22:38.813  INFO 6216 --- [main] ru.academits.nikolenko.dao.ContactDao    : Contacts count = 2
+2021-08-14 15:29:31.338  INFO 7836 --- [main] ru.academits.nikolenko.ContactDaoTest    : Starting ContactDaoTest using Java 16.0.2 on LAPTOP-6TOUT69J with PID 7836 (started by kinik in C:\Documents\IdeaProjects\PhoneBookSpring)
+2021-08-14 15:29:31.342 DEBUG 7836 --- [main] ru.academits.nikolenko.ContactDaoTest    : Running with Spring Boot v2.5.3, Spring v5.3.9
+2021-08-14 15:29:31.346  INFO 7836 --- [main] ru.academits.nikolenko.ContactDaoTest    : No active profile set, falling back to default profiles: default
+2021-08-14 15:29:36.257  INFO 7836 --- [main] ru.academits.nikolenko.ContactDaoTest    : Started ContactDaoTest in 5.946 seconds (JVM running for 8.723)
+2021-08-14 15:29:37.309  INFO 7836 --- [main] ru.academits.nikolenko.dao.ContactDao    : Contacts count = 2
+2021-08-14 15:29:37.320  INFO 7836 --- [main] ru.academits.nikolenko.dao.ContactDao    : Deleted contact with id = 2
+2021-08-14 15:29:37.321  INFO 7836 --- [main] ru.academits.nikolenko.dao.ContactDao    : Contacts count = 1
+2021-08-14 15:29:37.322  INFO 7836 --- [main] ru.academits.nikolenko.dao.ContactDao    : Deleted contact with id = 1
+2021-08-14 15:29:37.322  INFO 7836 --- [main] ru.academits.nikolenko.dao.ContactDao    : Contacts count = 0
+2021-08-14 15:29:37.343  INFO 7836 --- [main] ru.academits.nikolenko.dao.ContactDao    : Contacts count = 1
+2021-08-14 15:29:37.344  INFO 7836 --- [main] ru.academits.nikolenko.dao.ContactDao    : Contacts count = 1
+2021-08-14 15:29:37.345  INFO 7836 --- [main] ru.academits.nikolenko.dao.ContactDao    : Contacts count = 0
+2021-08-14 15:29:37.347  INFO 7836 --- [main] ru.academits.nikolenko.dao.ContactDao    : Contacts count = 0
+2021-08-14 15:29:37.357  INFO 7836 --- [main] ru.academits.nikolenko.dao.ContactDao    : Contacts count = 2
+2021-08-14 15:29:37.398  INFO 7836 --- [main] ru.academits.nikolenko.dao.ContactDao    : Contacts count = 2
+2021-08-14 15:31:33.362  INFO 15464 --- [main] ru.academits.nikolenko.ContactDaoTest    : Starting ContactDaoTest using Java 16.0.2 on LAPTOP-6TOUT69J with PID 15464 (started by kinik in C:\Documents\IdeaProjects\PhoneBookSpring)
+2021-08-14 15:31:33.366 DEBUG 15464 --- [main] ru.academits.nikolenko.ContactDaoTest    : Running with Spring Boot v2.5.3, Spring v5.3.9
+2021-08-14 15:31:33.369  INFO 15464 --- [main] ru.academits.nikolenko.ContactDaoTest    : No active profile set, falling back to default profiles: default
+2021-08-14 15:31:37.795  INFO 15464 --- [main] ru.academits.nikolenko.ContactDaoTest    : Started ContactDaoTest in 5.39 seconds (JVM running for 8.244)
+2021-08-14 15:31:39.059  INFO 15464 --- [main] ru.academits.nikolenko.dao.ContactDao    : Contacts count = 2
+2021-08-14 15:31:39.070  INFO 15464 --- [main] ru.academits.nikolenko.dao.ContactDao    : Deleted contact with id = 1
+2021-08-14 15:31:39.071  INFO 15464 --- [main] ru.academits.nikolenko.dao.ContactDao    : Contacts count = 1
+2021-08-14 15:31:39.072  INFO 15464 --- [main] ru.academits.nikolenko.dao.ContactDao    : Deleted contact with id = 2
+2021-08-14 15:31:39.073  INFO 15464 --- [main] ru.academits.nikolenko.dao.ContactDao    : Contacts count = 0
+2021-08-14 15:31:39.073  INFO 15464 --- [main] ru.academits.nikolenko.ContactDaoTest    : deleteAnyContactTest
+2021-08-14 15:31:39.102  INFO 15464 --- [main] ru.academits.nikolenko.dao.ContactDao    : Contacts count = 1
+2021-08-14 15:31:39.104  INFO 15464 --- [main] ru.academits.nikolenko.dao.ContactDao    : Contacts count = 1
+2021-08-14 15:31:39.106  INFO 15464 --- [main] ru.academits.nikolenko.dao.ContactDao    : Contacts count = 0
+2021-08-14 15:31:39.107  INFO 15464 --- [main] ru.academits.nikolenko.dao.ContactDao    : Contacts count = 0
+2021-08-14 15:31:39.108  INFO 15464 --- [main] ru.academits.nikolenko.ContactDaoTest    : deleteContactTest passed
+2021-08-14 15:31:39.117  INFO 15464 --- [main] ru.academits.nikolenko.dao.ContactDao    : Contacts count = 2
+2021-08-14 15:31:39.123  INFO 15464 --- [main] ru.academits.nikolenko.ContactDaoTest    : addContactTest passed
+2021-08-14 15:31:39.160  INFO 15464 --- [main] ru.academits.nikolenko.dao.ContactDao    : Contacts count = 2
+2021-08-14 15:31:39.161  INFO 15464 --- [main] ru.academits.nikolenko.ContactDaoTest    : getFilteredContactsTest
+2021-08-14 15:32:05.478  INFO 15928 --- [main] ru.academits.nikolenko.ContactDaoTest    : Starting ContactDaoTest using Java 16.0.2 on LAPTOP-6TOUT69J with PID 15928 (started by kinik in C:\Documents\IdeaProjects\PhoneBookSpring)
+2021-08-14 15:32:05.481 DEBUG 15928 --- [main] ru.academits.nikolenko.ContactDaoTest    : Running with Spring Boot v2.5.3, Spring v5.3.9
+2021-08-14 15:32:05.485  INFO 15928 --- [main] ru.academits.nikolenko.ContactDaoTest    : No active profile set, falling back to default profiles: default
+2021-08-14 15:32:09.337  INFO 15928 --- [main] ru.academits.nikolenko.ContactDaoTest    : Started ContactDaoTest in 4.727 seconds (JVM running for 7.257)
+2021-08-14 15:32:10.571  INFO 15928 --- [main] ru.academits.nikolenko.dao.ContactDao    : Contacts count = 2
+2021-08-14 15:32:10.580  INFO 15928 --- [main] ru.academits.nikolenko.dao.ContactDao    : Deleted contact with id = 2
+2021-08-14 15:32:10.581  INFO 15928 --- [main] ru.academits.nikolenko.dao.ContactDao    : Contacts count = 1
+2021-08-14 15:32:10.581  INFO 15928 --- [main] ru.academits.nikolenko.dao.ContactDao    : Deleted contact with id = 1
+2021-08-14 15:32:10.581  INFO 15928 --- [main] ru.academits.nikolenko.dao.ContactDao    : Contacts count = 0
+2021-08-14 15:32:10.582  INFO 15928 --- [main] ru.academits.nikolenko.ContactDaoTest    : deleteAnyContactTest
+2021-08-14 15:32:10.601  INFO 15928 --- [main] ru.academits.nikolenko.dao.ContactDao    : Contacts count = 1
+2021-08-14 15:32:10.604  INFO 15928 --- [main] ru.academits.nikolenko.dao.ContactDao    : Contacts count = 1
+2021-08-14 15:32:10.605  INFO 15928 --- [main] ru.academits.nikolenko.dao.ContactDao    : Contacts count = 0
+2021-08-14 15:32:10.606  INFO 15928 --- [main] ru.academits.nikolenko.dao.ContactDao    : Contacts count = 0
+2021-08-14 15:32:10.606  INFO 15928 --- [main] ru.academits.nikolenko.ContactDaoTest    : deleteContactTest passed
+2021-08-14 15:32:10.615  INFO 15928 --- [main] ru.academits.nikolenko.dao.ContactDao    : Contacts count = 2
+2021-08-14 15:32:10.619  INFO 15928 --- [main] ru.academits.nikolenko.ContactDaoTest    : addContactTest passed
+2021-08-14 15:32:10.630  INFO 15928 --- [main] ru.academits.nikolenko.ContactDaoTest    : initialContactTest passed
+2021-08-14 15:32:10.640  INFO 15928 --- [main] ru.academits.nikolenko.dao.ContactDao    : Contacts count = 2
+2021-08-14 15:32:10.641  INFO 15928 --- [main] ru.academits.nikolenko.ContactDaoTest    : getFilteredContactsTest
+2021-08-14 17:54:36.451  INFO 11676 --- [main] r.a.nikolenko.ContactServiceTest         : Starting ContactServiceTest using Java 16.0.2 on LAPTOP-6TOUT69J with PID 11676 (started by kinik in C:\Documents\IdeaProjects\PhoneBookSpring)
+2021-08-14 17:54:36.458 DEBUG 11676 --- [main] r.a.nikolenko.ContactServiceTest         : Running with Spring Boot v2.5.3, Spring v5.3.9
+2021-08-14 17:54:36.463  INFO 11676 --- [main] r.a.nikolenko.ContactServiceTest         : No active profile set, falling back to default profiles: default
+2021-08-14 17:54:40.641  INFO 11676 --- [main] r.a.nikolenko.ContactServiceTest         : Started ContactServiceTest in 5.808 seconds (JVM running for 8.339)
+2021-08-14 17:54:42.306  INFO 11676 --- [main] ru.academits.nikolenko.dao.ContactDao    : Contacts count = 2
+2021-08-14 17:54:42.318  INFO 11676 --- [main] ru.academits.nikolenko.dao.ContactDao    : Deleted contact with id = 1
+2021-08-14 17:54:42.319  INFO 11676 --- [main] ru.academits.nikolenko.dao.ContactDao    : Contacts count = 1
+2021-08-14 17:54:42.319  INFO 11676 --- [main] ru.academits.nikolenko.dao.ContactDao    : Deleted contact with id = 2
+2021-08-14 17:54:42.320  INFO 11676 --- [main] ru.academits.nikolenko.dao.ContactDao    : Contacts count = 0
+2021-08-14 17:54:42.321  INFO 11676 --- [main] r.a.nikolenko.ContactServiceTest         : deleteAnyContactTest passed
+2021-08-14 17:54:42.361  INFO 11676 --- [main] ru.academits.nikolenko.dao.ContactDao    : Contacts count = 1
+2021-08-14 17:54:42.362  INFO 11676 --- [main] ru.academits.nikolenko.dao.ContactDao    : Contacts count = 0
+2021-08-14 17:54:42.363  INFO 11676 --- [main] ru.academits.nikolenko.dao.ContactDao    : Contacts count = 0
+2021-08-14 17:54:42.397  INFO 11676 --- [main] ru.academits.nikolenko.dao.ContactDao    : Contacts count = 2
+2021-08-14 17:54:42.400  INFO 11676 --- [main] r.a.nikolenko.ContactServiceTest         : addContactTest passed
+2021-08-14 17:54:42.414  INFO 11676 --- [main] ru.academits.nikolenko.dao.ContactDao    : Contacts count = 2
+2021-08-14 17:54:42.416  INFO 11676 --- [main] r.a.nikolenko.ContactServiceTest         : getFilteredContactsTest passed
+2021-08-14 17:55:18.625  INFO 20008 --- [main] r.a.nikolenko.ContactServiceTest         : Starting ContactServiceTest using Java 16.0.2 on LAPTOP-6TOUT69J with PID 20008 (started by kinik in C:\Documents\IdeaProjects\PhoneBookSpring)
+2021-08-14 17:55:18.629 DEBUG 20008 --- [main] r.a.nikolenko.ContactServiceTest         : Running with Spring Boot v2.5.3, Spring v5.3.9
+2021-08-14 17:55:18.635  INFO 20008 --- [main] r.a.nikolenko.ContactServiceTest         : No active profile set, falling back to default profiles: default
+2021-08-14 17:55:23.010  INFO 20008 --- [main] r.a.nikolenko.ContactServiceTest         : Started ContactServiceTest in 5.6 seconds (JVM running for 8.551)
+2021-08-14 17:55:24.308  INFO 20008 --- [main] ru.academits.nikolenko.dao.ContactDao    : Contacts count = 2
+2021-08-14 17:55:24.317  INFO 20008 --- [main] ru.academits.nikolenko.dao.ContactDao    : Deleted contact with id = 1
+2021-08-14 17:55:24.318  INFO 20008 --- [main] ru.academits.nikolenko.dao.ContactDao    : Contacts count = 1
+2021-08-14 17:55:24.319  INFO 20008 --- [main] ru.academits.nikolenko.dao.ContactDao    : Deleted contact with id = 2
+2021-08-14 17:55:24.320  INFO 20008 --- [main] ru.academits.nikolenko.dao.ContactDao    : Contacts count = 0
+2021-08-14 17:55:24.320  INFO 20008 --- [main] r.a.nikolenko.ContactServiceTest         : deleteAnyContactTest passed
+2021-08-14 17:55:24.345  INFO 20008 --- [main] ru.academits.nikolenko.dao.ContactDao    : Contacts count = 1
+2021-08-14 17:55:24.346  INFO 20008 --- [main] ru.academits.nikolenko.dao.ContactDao    : Contacts count = 0
+2021-08-14 17:55:24.347  INFO 20008 --- [main] ru.academits.nikolenko.dao.ContactDao    : Contacts count = 0
+2021-08-14 17:55:24.372  INFO 20008 --- [main] ru.academits.nikolenko.dao.ContactDao    : Contacts count = 2
+2021-08-14 17:55:24.376  INFO 20008 --- [main] r.a.nikolenko.ContactServiceTest         : addContactTest passed
+2021-08-14 17:55:24.384  INFO 20008 --- [main] ru.academits.nikolenko.dao.ContactDao    : Contacts count = 2
+2021-08-14 17:55:24.386  INFO 20008 --- [main] r.a.nikolenko.ContactServiceTest         : getFilteredContactsTest passed
+2021-08-14 17:57:11.933  INFO 18200 --- [main] r.a.nikolenko.ContactServiceTest         : Starting ContactServiceTest using Java 16.0.2 on LAPTOP-6TOUT69J with PID 18200 (started by kinik in C:\Documents\IdeaProjects\PhoneBookSpring)
+2021-08-14 17:57:11.939 DEBUG 18200 --- [main] r.a.nikolenko.ContactServiceTest         : Running with Spring Boot v2.5.3, Spring v5.3.9
+2021-08-14 17:57:11.944  INFO 18200 --- [main] r.a.nikolenko.ContactServiceTest         : No active profile set, falling back to default profiles: default
+2021-08-14 17:57:16.161  INFO 18200 --- [main] r.a.nikolenko.ContactServiceTest         : Started ContactServiceTest in 5.595 seconds (JVM running for 8.197)
+2021-08-14 17:57:17.333  INFO 18200 --- [main] ru.academits.nikolenko.dao.ContactDao    : Contacts count = 2
+2021-08-14 17:57:17.343  INFO 18200 --- [main] ru.academits.nikolenko.dao.ContactDao    : Deleted contact with id = 2
+2021-08-14 17:57:17.345  INFO 18200 --- [main] ru.academits.nikolenko.dao.ContactDao    : Contacts count = 1
+2021-08-14 17:57:17.345  INFO 18200 --- [main] ru.academits.nikolenko.dao.ContactDao    : Deleted contact with id = 1
+2021-08-14 17:57:17.346  INFO 18200 --- [main] ru.academits.nikolenko.dao.ContactDao    : Contacts count = 0
+2021-08-14 17:57:17.347  INFO 18200 --- [main] r.a.nikolenko.ContactServiceTest         : deleteAnyContactTest passed
+2021-08-14 17:57:17.381  INFO 18200 --- [main] ru.academits.nikolenko.dao.ContactDao    : Contacts count = 1
+2021-08-14 17:57:17.381  INFO 18200 --- [main] ru.academits.nikolenko.dao.ContactDao    : Contacts count = 0
+2021-08-14 17:57:17.382  INFO 18200 --- [main] ru.academits.nikolenko.dao.ContactDao    : Contacts count = 0
+2021-08-14 17:57:17.415  INFO 18200 --- [main] ru.academits.nikolenko.dao.ContactDao    : Contacts count = 2
+2021-08-14 17:57:17.418  INFO 18200 --- [main] r.a.nikolenko.ContactServiceTest         : addContactTest passed
+2021-08-14 17:57:17.429  INFO 18200 --- [main] ru.academits.nikolenko.dao.ContactDao    : Contacts count = 2
+2021-08-14 17:57:17.430  INFO 18200 --- [main] r.a.nikolenko.ContactServiceTest         : getFilteredContactsTest passed
+2021-08-14 17:58:14.754  INFO 15536 --- [main] r.a.nikolenko.ContactServiceTest         : Starting ContactServiceTest using Java 16.0.2 on LAPTOP-6TOUT69J with PID 15536 (started by kinik in C:\Documents\IdeaProjects\PhoneBookSpring)
+2021-08-14 17:58:14.760 DEBUG 15536 --- [main] r.a.nikolenko.ContactServiceTest         : Running with Spring Boot v2.5.3, Spring v5.3.9
+2021-08-14 17:58:14.766  INFO 15536 --- [main] r.a.nikolenko.ContactServiceTest         : No active profile set, falling back to default profiles: default
+2021-08-14 17:58:19.125  INFO 15536 --- [main] r.a.nikolenko.ContactServiceTest         : Started ContactServiceTest in 5.569 seconds (JVM running for 7.76)
+2021-08-14 17:58:20.475  INFO 15536 --- [main] ru.academits.nikolenko.dao.ContactDao    : Contacts count = 2
+2021-08-14 17:58:20.495  INFO 15536 --- [main] ru.academits.nikolenko.dao.ContactDao    : Deleted contact with id = 1
+2021-08-14 17:58:20.497  INFO 15536 --- [main] ru.academits.nikolenko.dao.ContactDao    : Contacts count = 1
+2021-08-14 17:58:20.497  INFO 15536 --- [main] ru.academits.nikolenko.dao.ContactDao    : Deleted contact with id = 2
+2021-08-14 17:58:20.499  INFO 15536 --- [main] ru.academits.nikolenko.dao.ContactDao    : Contacts count = 0
+2021-08-14 17:58:20.499  INFO 15536 --- [main] r.a.nikolenko.ContactServiceTest         : deleteAnyContactTest passed
+2021-08-14 17:58:20.542  INFO 15536 --- [main] ru.academits.nikolenko.dao.ContactDao    : Contacts count = 1
+2021-08-14 17:58:20.543  INFO 15536 --- [main] ru.academits.nikolenko.dao.ContactDao    : Contacts count = 0
+2021-08-14 17:58:20.544  INFO 15536 --- [main] ru.academits.nikolenko.dao.ContactDao    : Contacts count = 0
+2021-08-14 17:58:20.545  INFO 15536 --- [main] ru.academits.nikolenko.dao.ContactDao    : Contacts count = 1
+2021-08-14 17:58:20.546  INFO 15536 --- [main] ru.academits.nikolenko.dao.ContactDao    : Contacts count = 1
+2021-08-14 17:58:20.583  INFO 15536 --- [main] ru.academits.nikolenko.dao.ContactDao    : Contacts count = 2
+2021-08-14 17:58:20.590  INFO 15536 --- [main] r.a.nikolenko.ContactServiceTest         : addContactTest passed
+2021-08-14 17:58:20.611  INFO 15536 --- [main] ru.academits.nikolenko.dao.ContactDao    : Contacts count = 2
+2021-08-14 17:58:20.613  INFO 15536 --- [main] r.a.nikolenko.ContactServiceTest         : getFilteredContactsTest passed
+2021-08-14 17:59:48.927  INFO 17916 --- [main] r.a.nikolenko.ContactServiceTest         : Starting ContactServiceTest using Java 16.0.2 on LAPTOP-6TOUT69J with PID 17916 (started by kinik in C:\Documents\IdeaProjects\PhoneBookSpring)
+2021-08-14 17:59:48.930 DEBUG 17916 --- [main] r.a.nikolenko.ContactServiceTest         : Running with Spring Boot v2.5.3, Spring v5.3.9
+2021-08-14 17:59:48.933  INFO 17916 --- [main] r.a.nikolenko.ContactServiceTest         : No active profile set, falling back to default profiles: default
+2021-08-14 17:59:53.795  INFO 17916 --- [main] r.a.nikolenko.ContactServiceTest         : Started ContactServiceTest in 5.811 seconds (JVM running for 8.247)
+2021-08-14 17:59:54.855  INFO 17916 --- [main] ru.academits.nikolenko.dao.ContactDao    : Contacts count = 2
+2021-08-14 17:59:54.865  INFO 17916 --- [main] ru.academits.nikolenko.dao.ContactDao    : Deleted contact with id = 1
+2021-08-14 17:59:54.867  INFO 17916 --- [main] ru.academits.nikolenko.dao.ContactDao    : Contacts count = 1
+2021-08-14 17:59:54.867  INFO 17916 --- [main] ru.academits.nikolenko.dao.ContactDao    : Deleted contact with id = 2
+2021-08-14 17:59:54.868  INFO 17916 --- [main] ru.academits.nikolenko.dao.ContactDao    : Contacts count = 0
+2021-08-14 17:59:54.868  INFO 17916 --- [main] r.a.nikolenko.ContactServiceTest         : deleteAnyContactTest passed
+2021-08-14 17:59:54.900  INFO 17916 --- [main] ru.academits.nikolenko.dao.ContactDao    : Contacts count = 1
+2021-08-14 17:59:54.902  INFO 17916 --- [main] ru.academits.nikolenko.dao.ContactDao    : Contacts count = 0
+2021-08-14 17:59:54.904  INFO 17916 --- [main] ru.academits.nikolenko.dao.ContactDao    : Contacts count = 0
+2021-08-14 17:59:54.905  INFO 17916 --- [main] ru.academits.nikolenko.dao.ContactDao    : Contacts count = 1
+2021-08-14 17:59:54.905  INFO 17916 --- [main] ru.academits.nikolenko.dao.ContactDao    : Contacts count = 1
+2021-08-14 17:59:54.905  INFO 17916 --- [main] ru.academits.nikolenko.dao.ContactDao    : Contacts count = 0
+2021-08-14 17:59:54.907  INFO 17916 --- [main] r.a.nikolenko.ContactServiceTest         : deleteContactsTest passed
+2021-08-14 17:59:54.916  INFO 17916 --- [main] ru.academits.nikolenko.dao.ContactDao    : Contacts count = 2
+2021-08-14 17:59:54.917  INFO 17916 --- [main] r.a.nikolenko.ContactServiceTest         : addContactTest passed
+2021-08-14 17:59:54.931  INFO 17916 --- [main] ru.academits.nikolenko.dao.ContactDao    : Contacts count = 2
+2021-08-14 17:59:54.933  INFO 17916 --- [main] r.a.nikolenko.ContactServiceTest         : getFilteredContactsTest passed
+2021-08-14 18:21:34.085  INFO 18860 --- [main] r.a.nikolenko.PhoneBookControllerTest    : Starting PhoneBookControllerTest using Java 16.0.2 on LAPTOP-6TOUT69J with PID 18860 (started by kinik in C:\Documents\IdeaProjects\PhoneBookSpring)
+2021-08-14 18:21:34.090 DEBUG 18860 --- [main] r.a.nikolenko.PhoneBookControllerTest    : Running with Spring Boot v2.5.3, Spring v5.3.9
+2021-08-14 18:21:34.093  INFO 18860 --- [main] r.a.nikolenko.PhoneBookControllerTest    : No active profile set, falling back to default profiles: default
+2021-08-14 18:21:39.003  INFO 18860 --- [main] r.a.nikolenko.PhoneBookControllerTest    : Started PhoneBookControllerTest in 5.984 seconds (JVM running for 8.26)
+2021-08-14 18:21:40.159  INFO 18860 --- [main] r.a.n.phonebook.PhoneBookController      : Called method getAllContacts in PhoneBookController
+2021-08-14 18:30:04.085  INFO 18008 --- [main] r.a.nikolenko.PhoneBookControllerTest    : Starting PhoneBookControllerTest using Java 16.0.2 on LAPTOP-6TOUT69J with PID 18008 (started by kinik in C:\Documents\IdeaProjects\PhoneBookSpring)
+2021-08-14 18:30:04.089 DEBUG 18008 --- [main] r.a.nikolenko.PhoneBookControllerTest    : Running with Spring Boot v2.5.3, Spring v5.3.9
+2021-08-14 18:30:04.093  INFO 18008 --- [main] r.a.nikolenko.PhoneBookControllerTest    : No active profile set, falling back to default profiles: default
+2021-08-14 18:30:08.772  INFO 18008 --- [main] r.a.nikolenko.PhoneBookControllerTest    : Started PhoneBookControllerTest in 5.894 seconds (JVM running for 8.241)
+2021-08-14 18:30:09.873  INFO 18008 --- [main] r.a.n.phonebook.PhoneBookController      : Called method deleteContacts in PhoneBookController
+2021-08-14 18:30:09.886  INFO 18008 --- [main] r.a.n.phonebook.PhoneBookController      : Called method deleteContacts in PhoneBookController
+2021-08-14 18:30:09.888  INFO 18008 --- [main] r.a.n.phonebook.PhoneBookController      : Called method deleteContacts in PhoneBookController
+2021-08-14 18:30:09.895  INFO 18008 --- [main] ru.academits.nikolenko.dao.ContactDao    : Contacts count = 1
+2021-08-14 18:30:09.896  INFO 18008 --- [main] ru.academits.nikolenko.dao.ContactDao    : Contacts count = 0
+2021-08-14 18:30:09.897  INFO 18008 --- [main] ru.academits.nikolenko.dao.ContactDao    : Contacts count = 0
+2021-08-14 18:30:09.897  INFO 18008 --- [main] r.a.n.phonebook.PhoneBookController      : Called method addContact in PhoneBookController
+2021-08-14 18:30:09.897  INFO 18008 --- [main] ru.academits.nikolenko.dao.ContactDao    : Contacts count = 1
+2021-08-14 18:30:09.898  INFO 18008 --- [main] ru.academits.nikolenko.dao.ContactDao    : Contacts count = 1
+2021-08-14 18:30:09.899  INFO 18008 --- [main] r.a.n.phonebook.PhoneBookController      : Called method addContact in PhoneBookController
+2021-08-14 18:30:09.899  INFO 18008 --- [main] ru.academits.nikolenko.dao.ContactDao    : Contacts count = 0
+2021-08-14 18:30:09.900  INFO 18008 --- [main] r.a.nikolenko.PhoneBookControllerTest    : deleteContactsTest passed
+2021-08-14 18:30:09.922  INFO 18008 --- [main] r.a.n.phonebook.PhoneBookController      : Called method getAllContacts in PhoneBookController
+2021-08-14 18:30:09.923  INFO 18008 --- [main] r.a.n.phonebook.PhoneBookController      : Called method addContact in PhoneBookController
+2021-08-14 18:30:09.923  INFO 18008 --- [main] ru.academits.nikolenko.dao.ContactDao    : Contacts count = 2
+2021-08-14 18:30:09.923  INFO 18008 --- [main] r.a.n.phonebook.PhoneBookController      : Called method addContact in PhoneBookController
+2021-08-14 18:30:09.923  INFO 18008 --- [main] r.a.n.phonebook.PhoneBookController      : Called method addContact in PhoneBookController
+2021-08-14 18:30:09.923  INFO 18008 --- [main] r.a.n.phonebook.PhoneBookController      : Called method addContact in PhoneBookController
+2021-08-14 18:30:09.924  INFO 18008 --- [main] r.a.n.phonebook.PhoneBookController      : Called method addContact in PhoneBookController
+2021-08-14 18:30:09.924  INFO 18008 --- [main] r.a.nikolenko.PhoneBookControllerTest    : addContactTest passed
+2021-08-14 18:30:09.932  INFO 18008 --- [main] r.a.n.phonebook.PhoneBookController      : Called method getAllContacts in PhoneBookController
+2021-08-14 18:30:09.941  INFO 18008 --- [main] r.a.n.phonebook.PhoneBookController      : Called method addContact in PhoneBookController
+2021-08-14 18:30:09.941  INFO 18008 --- [main] ru.academits.nikolenko.dao.ContactDao    : Contacts count = 2
+2021-08-14 18:30:09.942  INFO 18008 --- [main] r.a.n.phonebook.PhoneBookController      : Called method getFilteredContacts in PhoneBookController
+2021-08-14 18:30:09.942  INFO 18008 --- [main] r.a.n.phonebook.PhoneBookController      : Called method getFilteredContacts in PhoneBookController
+2021-08-14 18:33:31.902  INFO 19320 --- [main] r.a.nikolenko.PhoneBookControllerTest    : Starting PhoneBookControllerTest using Java 16.0.2 on LAPTOP-6TOUT69J with PID 19320 (started by kinik in C:\Documents\IdeaProjects\PhoneBookSpring)
+2021-08-14 18:33:31.906 DEBUG 19320 --- [main] r.a.nikolenko.PhoneBookControllerTest    : Running with Spring Boot v2.5.3, Spring v5.3.9
+2021-08-14 18:33:31.910  INFO 19320 --- [main] r.a.nikolenko.PhoneBookControllerTest    : No active profile set, falling back to default profiles: default
+2021-08-14 18:33:36.860  INFO 19320 --- [main] r.a.nikolenko.PhoneBookControllerTest    : Started PhoneBookControllerTest in 6.039 seconds (JVM running for 8.414)
+2021-08-14 18:33:37.895  INFO 19320 --- [main] r.a.n.phonebook.PhoneBookController      : Called method deleteContacts in PhoneBookController
+2021-08-14 18:33:37.904  INFO 19320 --- [main] r.a.n.phonebook.PhoneBookController      : Called method deleteContacts in PhoneBookController
+2021-08-14 18:33:37.905  INFO 19320 --- [main] r.a.n.phonebook.PhoneBookController      : Called method deleteContacts in PhoneBookController
+2021-08-14 18:33:37.909  INFO 19320 --- [main] ru.academits.nikolenko.dao.ContactDao    : Contacts count = 1
+2021-08-14 18:33:37.910  INFO 19320 --- [main] ru.academits.nikolenko.dao.ContactDao    : Contacts count = 0
+2021-08-14 18:33:37.910  INFO 19320 --- [main] ru.academits.nikolenko.dao.ContactDao    : Contacts count = 0
+2021-08-14 18:33:37.911  INFO 19320 --- [main] r.a.n.phonebook.PhoneBookController      : Called method addContact in PhoneBookController
+2021-08-14 18:33:37.911  INFO 19320 --- [main] ru.academits.nikolenko.dao.ContactDao    : Contacts count = 1
+2021-08-14 18:33:37.912  INFO 19320 --- [main] ru.academits.nikolenko.dao.ContactDao    : Contacts count = 1
+2021-08-14 18:33:37.913  INFO 19320 --- [main] r.a.n.phonebook.PhoneBookController      : Called method addContact in PhoneBookController
+2021-08-14 18:33:37.914  INFO 19320 --- [main] ru.academits.nikolenko.dao.ContactDao    : Contacts count = 0
+2021-08-14 18:33:37.915  INFO 19320 --- [main] r.a.nikolenko.PhoneBookControllerTest    : deleteContactsTest passed
+2021-08-14 18:33:37.937  INFO 19320 --- [main] r.a.n.phonebook.PhoneBookController      : Called method getAllContacts in PhoneBookController
+2021-08-14 18:33:37.938  INFO 19320 --- [main] r.a.n.phonebook.PhoneBookController      : Called method addContact in PhoneBookController
+2021-08-14 18:33:37.938  INFO 19320 --- [main] ru.academits.nikolenko.dao.ContactDao    : Contacts count = 2
+2021-08-14 18:33:37.938  INFO 19320 --- [main] r.a.n.phonebook.PhoneBookController      : Called method addContact in PhoneBookController
+2021-08-14 18:33:37.939  INFO 19320 --- [main] r.a.n.phonebook.PhoneBookController      : Called method addContact in PhoneBookController
+2021-08-14 18:33:37.939  INFO 19320 --- [main] r.a.n.phonebook.PhoneBookController      : Called method addContact in PhoneBookController
+2021-08-14 18:33:37.939  INFO 19320 --- [main] r.a.n.phonebook.PhoneBookController      : Called method addContact in PhoneBookController
+2021-08-14 18:33:37.939  INFO 19320 --- [main] r.a.nikolenko.PhoneBookControllerTest    : addContactTest passed
+2021-08-14 18:33:37.947  INFO 19320 --- [main] r.a.n.phonebook.PhoneBookController      : Called method getAllContacts in PhoneBookController
+2021-08-14 18:33:37.958  INFO 19320 --- [main] r.a.n.phonebook.PhoneBookController      : Called method addContact in PhoneBookController
+2021-08-14 18:33:37.959  INFO 19320 --- [main] ru.academits.nikolenko.dao.ContactDao    : Contacts count = 2
+2021-08-14 18:33:37.959  INFO 19320 --- [main] r.a.n.phonebook.PhoneBookController      : Called method getFilteredContacts in PhoneBookController
+2021-08-14 18:33:37.959  INFO 19320 --- [main] r.a.n.phonebook.PhoneBookController      : Called method getFilteredContacts in PhoneBookController
+2021-08-14 18:33:37.960  INFO 19320 --- [main] r.a.n.phonebook.PhoneBookController      : Called method getFilteredContacts in PhoneBookController
+2021-08-14 18:33:37.960  INFO 19320 --- [main] r.a.n.phonebook.PhoneBookController      : Called method getFilteredContacts in PhoneBookController
+2021-08-14 18:33:37.960  INFO 19320 --- [main] r.a.n.phonebook.PhoneBookController      : Called method getFilteredContacts in PhoneBookController
+2021-08-14 18:33:37.961  INFO 19320 --- [main] r.a.nikolenko.PhoneBookControllerTest    : getFilteredContactsTest passed
+2021-08-14 19:06:08.306  INFO 12104 --- [main] ru.academits.nikolenko.ContactDaoTest    : Starting ContactDaoTest using Java 16.0.2 on LAPTOP-6TOUT69J with PID 12104 (started by kinik in C:\Documents\IdeaProjects\PhoneBookSpring)
+2021-08-14 19:06:08.311 DEBUG 12104 --- [main] ru.academits.nikolenko.ContactDaoTest    : Running with Spring Boot v2.5.3, Spring v5.3.9
+2021-08-14 19:06:08.317  INFO 12104 --- [main] ru.academits.nikolenko.ContactDaoTest    : No active profile set, falling back to default profiles: default
+2021-08-14 19:06:12.534  INFO 12104 --- [main] ru.academits.nikolenko.ContactDaoTest    : Started ContactDaoTest in 5.241 seconds (JVM running for 8.065)
+2021-08-14 19:06:13.909  INFO 12104 --- [main] ru.academits.nikolenko.dao.ContactDao    : Contacts count = 2
+2021-08-14 19:06:13.919  INFO 12104 --- [main] ru.academits.nikolenko.dao.ContactDao    : Deleted contact with id = 2
+2021-08-14 19:06:13.922  INFO 12104 --- [main] ru.academits.nikolenko.dao.ContactDao    : Contacts count = 1
+2021-08-14 19:06:13.922  INFO 12104 --- [main] ru.academits.nikolenko.dao.ContactDao    : Deleted contact with id = 1
+2021-08-14 19:06:13.923  INFO 12104 --- [main] ru.academits.nikolenko.dao.ContactDao    : Contacts count = 0
+2021-08-14 19:06:13.923  INFO 12104 --- [main] ru.academits.nikolenko.ContactDaoTest    : deleteAnyContactTest passed
+2021-08-14 19:06:13.952  INFO 12104 --- [main] ru.academits.nikolenko.dao.ContactDao    : Contacts count = 1
+2021-08-14 19:06:13.954  INFO 12104 --- [main] ru.academits.nikolenko.dao.ContactDao    : Contacts count = 1
+2021-08-14 19:06:13.955  INFO 12104 --- [main] ru.academits.nikolenko.dao.ContactDao    : Contacts count = 0
+2021-08-14 19:06:13.957  INFO 12104 --- [main] ru.academits.nikolenko.dao.ContactDao    : Contacts count = 0
+2021-08-14 19:06:13.958  INFO 12104 --- [main] ru.academits.nikolenko.ContactDaoTest    : deleteContactTest passed
+2021-08-14 19:06:13.969  INFO 12104 --- [main] ru.academits.nikolenko.dao.ContactDao    : Contacts count = 2
+2021-08-14 19:06:13.978  INFO 12104 --- [main] ru.academits.nikolenko.ContactDaoTest    : addContactTest passed
+2021-08-14 19:06:13.998  INFO 12104 --- [main] ru.academits.nikolenko.ContactDaoTest    : initialContactTest passed
+2021-08-14 19:06:14.020  INFO 12104 --- [main] ru.academits.nikolenko.dao.ContactDao    : Contacts count = 2
+2021-08-14 19:06:14.022  INFO 12104 --- [main] ru.academits.nikolenko.ContactDaoTest    : getFilteredContactsTest passed
+2021-08-14 19:06:14.055  INFO 12104 --- [main] ru.academits.nikolenko.dao.ContactDao    : Contacts count = 2
+2021-08-14 19:06:14.056  INFO 12104 --- [main] ru.academits.nikolenko.dao.ContactDao    : Deleted contact with id = 2
+2021-08-14 19:06:14.056  INFO 12104 --- [main] ru.academits.nikolenko.dao.ContactDao    : Contacts count = 1
+2021-08-14 19:06:14.056  INFO 12104 --- [main] ru.academits.nikolenko.dao.ContactDao    : Deleted contact with id = 1
+2021-08-14 19:06:14.056  INFO 12104 --- [main] ru.academits.nikolenko.dao.ContactDao    : Contacts count = 0
+2021-08-14 19:06:14.057  INFO 12104 --- [main] r.a.nikolenko.ContactServiceTest         : deleteAnyContactTest passed
+2021-08-14 19:06:14.072  INFO 12104 --- [main] ru.academits.nikolenko.dao.ContactDao    : Contacts count = 1
+2021-08-14 19:06:14.072  INFO 12104 --- [main] ru.academits.nikolenko.dao.ContactDao    : Contacts count = 0
+2021-08-14 19:06:14.073  INFO 12104 --- [main] ru.academits.nikolenko.dao.ContactDao    : Contacts count = 0
+2021-08-14 19:06:14.075  INFO 12104 --- [main] ru.academits.nikolenko.dao.ContactDao    : Contacts count = 1
+2021-08-14 19:06:14.076  INFO 12104 --- [main] ru.academits.nikolenko.dao.ContactDao    : Contacts count = 1
+2021-08-14 19:06:14.078  INFO 12104 --- [main] ru.academits.nikolenko.dao.ContactDao    : Contacts count = 0
+2021-08-14 19:06:14.081  INFO 12104 --- [main] r.a.nikolenko.ContactServiceTest         : deleteContactsTest passed
+2021-08-14 19:06:14.102  INFO 12104 --- [main] ru.academits.nikolenko.dao.ContactDao    : Contacts count = 2
+2021-08-14 19:06:14.103  INFO 12104 --- [main] r.a.nikolenko.ContactServiceTest         : addContactTest passed
+2021-08-14 19:06:14.116  INFO 12104 --- [main] ru.academits.nikolenko.dao.ContactDao    : Contacts count = 2
+2021-08-14 19:06:14.118  INFO 12104 --- [main] r.a.nikolenko.ContactServiceTest         : getFilteredContactsTest passed
+2021-08-14 19:06:14.149  INFO 12104 --- [main] r.a.n.phonebook.PhoneBookController      : Called method deleteContacts in PhoneBookController
+2021-08-14 19:06:14.150  INFO 12104 --- [main] r.a.n.phonebook.PhoneBookController      : Called method deleteContacts in PhoneBookController
+2021-08-14 19:06:14.152  INFO 12104 --- [main] r.a.n.phonebook.PhoneBookController      : Called method deleteContacts in PhoneBookController
+2021-08-14 19:06:14.153  INFO 12104 --- [main] ru.academits.nikolenko.dao.ContactDao    : Contacts count = 1
+2021-08-14 19:06:14.153  INFO 12104 --- [main] ru.academits.nikolenko.dao.ContactDao    : Contacts count = 0
+2021-08-14 19:06:14.153  INFO 12104 --- [main] ru.academits.nikolenko.dao.ContactDao    : Contacts count = 0
+2021-08-14 19:06:14.154  INFO 12104 --- [main] r.a.n.phonebook.PhoneBookController      : Called method addContact in PhoneBookController
+2021-08-14 19:06:14.154  INFO 12104 --- [main] ru.academits.nikolenko.dao.ContactDao    : Contacts count = 1
+2021-08-14 19:06:14.154  INFO 12104 --- [main] ru.academits.nikolenko.dao.ContactDao    : Contacts count = 1
+2021-08-14 19:06:14.154  INFO 12104 --- [main] r.a.n.phonebook.PhoneBookController      : Called method addContact in PhoneBookController
+2021-08-14 19:06:14.155  INFO 12104 --- [main] ru.academits.nikolenko.dao.ContactDao    : Contacts count = 0
+2021-08-14 19:06:14.157  INFO 12104 --- [main] r.a.nikolenko.PhoneBookControllerTest    : deleteContactsTest passed
+2021-08-14 19:06:14.176  INFO 12104 --- [main] r.a.n.phonebook.PhoneBookController      : Called method getAllContacts in PhoneBookController
+2021-08-14 19:06:14.179  INFO 12104 --- [main] r.a.n.phonebook.PhoneBookController      : Called method addContact in PhoneBookController
+2021-08-14 19:06:14.180  INFO 12104 --- [main] ru.academits.nikolenko.dao.ContactDao    : Contacts count = 2
+2021-08-14 19:06:14.181  INFO 12104 --- [main] r.a.n.phonebook.PhoneBookController      : Called method addContact in PhoneBookController
+2021-08-14 19:06:14.181  INFO 12104 --- [main] r.a.n.phonebook.PhoneBookController      : Called method addContact in PhoneBookController
+2021-08-14 19:06:14.181  INFO 12104 --- [main] r.a.n.phonebook.PhoneBookController      : Called method addContact in PhoneBookController
+2021-08-14 19:06:14.182  INFO 12104 --- [main] r.a.n.phonebook.PhoneBookController      : Called method addContact in PhoneBookController
+2021-08-14 19:06:14.182  INFO 12104 --- [main] r.a.nikolenko.PhoneBookControllerTest    : addContactTest passed
+2021-08-14 19:06:14.203  INFO 12104 --- [main] r.a.n.phonebook.PhoneBookController      : Called method getAllContacts in PhoneBookController
+2021-08-14 19:06:14.225  INFO 12104 --- [main] r.a.n.phonebook.PhoneBookController      : Called method addContact in PhoneBookController
+2021-08-14 19:06:14.228  INFO 12104 --- [main] ru.academits.nikolenko.dao.ContactDao    : Contacts count = 2
+2021-08-14 19:06:14.231  INFO 12104 --- [main] r.a.n.phonebook.PhoneBookController      : Called method getFilteredContacts in PhoneBookController
+2021-08-14 19:06:14.233  INFO 12104 --- [main] r.a.n.phonebook.PhoneBookController      : Called method getFilteredContacts in PhoneBookController
+2021-08-14 19:06:14.234  INFO 12104 --- [main] r.a.n.phonebook.PhoneBookController      : Called method getFilteredContacts in PhoneBookController
+2021-08-14 19:06:14.236  INFO 12104 --- [main] r.a.n.phonebook.PhoneBookController      : Called method getFilteredContacts in PhoneBookController
+2021-08-14 19:06:14.238  INFO 12104 --- [main] r.a.n.phonebook.PhoneBookController      : Called method getFilteredContacts in PhoneBookController
+2021-08-14 19:06:14.239  INFO 12104 --- [main] r.a.nikolenko.PhoneBookControllerTest    : getFilteredContactsTest passed
+2021-08-14 19:09:02.827  INFO 3792 --- [main] r.a.n.PhoneBookSpringApplication         : Starting PhoneBookSpringApplication using Java 16.0.2 on LAPTOP-6TOUT69J with PID 3792 (C:\Documents\IdeaProjects\PhoneBookSpring\target\classes started by kinik in C:\Documents\IdeaProjects\PhoneBookSpring)
+2021-08-14 19:09:02.832 DEBUG 3792 --- [main] r.a.n.PhoneBookSpringApplication         : Running with Spring Boot v2.5.3, Spring v5.3.9
+2021-08-14 19:09:02.833  INFO 3792 --- [main] r.a.n.PhoneBookSpringApplication         : No active profile set, falling back to default profiles: default
+2021-08-14 19:09:05.737  INFO 3792 --- [main] r.a.n.PhoneBookSpringApplication         : Started PhoneBookSpringApplication in 3.725 seconds (JVM running for 5.134)
+2021-08-14 19:09:07.715  INFO 3792 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2021-08-14 19:09:07.717  INFO 3792 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2021-08-14 19:09:08.708  INFO 3792 --- [http-nio-8080-exec-7] r.a.n.phonebook.PhoneBookController      : Called method getAllContacts in PhoneBookController
+2021-08-14 19:09:13.288  INFO 3792 --- [http-nio-8080-exec-9] r.a.n.phonebook.PhoneBookController      : Called method addContact in PhoneBookController
+2021-08-14 19:09:13.290  INFO 3792 --- [http-nio-8080-exec-9] ru.academits.nikolenko.dao.ContactDao    : Contacts count = 2
+2021-08-14 19:09:13.363  INFO 3792 --- [http-nio-8080-exec-10] r.a.n.phonebook.PhoneBookController      : Called method getAllContacts in PhoneBookController
+2021-08-14 19:09:16.981  INFO 3792 --- [http-nio-8080-exec-1] r.a.n.phonebook.PhoneBookController      : Called method addContact in PhoneBookController
+2021-08-14 19:09:16.982  INFO 3792 --- [http-nio-8080-exec-1] ru.academits.nikolenko.dao.ContactDao    : Contacts count = 3
+2021-08-14 19:09:17.009  INFO 3792 --- [http-nio-8080-exec-2] r.a.n.phonebook.PhoneBookController      : Called method getAllContacts in PhoneBookController
+2021-08-14 19:09:20.824  INFO 3792 --- [http-nio-8080-exec-4] r.a.n.phonebook.PhoneBookController      : Called method addContact in PhoneBookController
+2021-08-14 19:09:20.826  INFO 3792 --- [http-nio-8080-exec-4] ru.academits.nikolenko.dao.ContactDao    : Contacts count = 4
+2021-08-14 19:09:20.851  INFO 3792 --- [http-nio-8080-exec-3] r.a.n.phonebook.PhoneBookController      : Called method getAllContacts in PhoneBookController
+2021-08-14 19:09:25.182  INFO 3792 --- [http-nio-8080-exec-5] r.a.n.phonebook.PhoneBookController      : Called method addContact in PhoneBookController
+2021-08-14 19:09:25.185  INFO 3792 --- [http-nio-8080-exec-5] ru.academits.nikolenko.dao.ContactDao    : Contacts count = 5
+2021-08-14 19:09:25.445  INFO 3792 --- [http-nio-8080-exec-6] r.a.n.phonebook.PhoneBookController      : Called method getAllContacts in PhoneBookController
+2021-08-14 19:09:33.157  INFO 3792 --- [http-nio-8080-exec-7] r.a.n.phonebook.PhoneBookController      : Called method addContact in PhoneBookController
+2021-08-14 19:09:33.159  INFO 3792 --- [http-nio-8080-exec-7] ru.academits.nikolenko.dao.ContactDao    : Contacts count = 6
+2021-08-14 19:09:33.201  INFO 3792 --- [http-nio-8080-exec-8] r.a.n.phonebook.PhoneBookController      : Called method getAllContacts in PhoneBookController
+2021-08-14 19:09:35.720  INFO 3792 --- [scheduling-1] r.a.n.schedule.DeleteContactScheduler    : Called scheduled function deleteAnyContact is called in DeleteContactScheduler
+2021-08-14 19:09:35.721  INFO 3792 --- [scheduling-1] ru.academits.nikolenko.dao.ContactDao    : Deleted contact with id = 4
+2021-08-14 19:09:35.722  INFO 3792 --- [scheduling-1] ru.academits.nikolenko.dao.ContactDao    : Contacts count = 5
+2021-08-14 19:09:36.939  INFO 3792 --- [http-nio-8080-exec-9] r.a.n.phonebook.PhoneBookController      : Called method getFilteredContacts in PhoneBookController
+2021-08-14 19:09:39.000  INFO 3792 --- [http-nio-8080-exec-10] r.a.n.phonebook.PhoneBookController      : Called method getAllContacts in PhoneBookController
+2021-08-14 19:09:42.585  INFO 3792 --- [http-nio-8080-exec-1] r.a.n.phonebook.PhoneBookController      : Called method getFilteredContacts in PhoneBookController
+2021-08-14 19:09:57.224  INFO 3792 --- [http-nio-8080-exec-5] r.a.n.phonebook.PhoneBookController      : Called method getAllContacts in PhoneBookController
+2021-08-14 19:10:05.733  INFO 3792 --- [scheduling-1] r.a.n.schedule.DeleteContactScheduler    : Called scheduled function deleteAnyContact is called in DeleteContactScheduler
+2021-08-14 19:10:05.734  INFO 3792 --- [scheduling-1] ru.academits.nikolenko.dao.ContactDao    : Deleted contact with id = 3
+2021-08-14 19:10:05.735  INFO 3792 --- [scheduling-1] ru.academits.nikolenko.dao.ContactDao    : Contacts count = 4
+2021-08-14 19:10:35.740  INFO 3792 --- [scheduling-1] r.a.n.schedule.DeleteContactScheduler    : Called scheduled function deleteAnyContact is called in DeleteContactScheduler
+2021-08-14 19:10:35.741  INFO 3792 --- [scheduling-1] ru.academits.nikolenko.dao.ContactDao    : Deleted contact with id = 2
+2021-08-14 19:10:35.742  INFO 3792 --- [scheduling-1] ru.academits.nikolenko.dao.ContactDao    : Contacts count = 3
+2021-08-14 19:15:04.498  INFO 7464 --- [main] r.a.n.PhoneBookSpringApplication         : Starting PhoneBookSpringApplication using Java 16.0.2 on LAPTOP-6TOUT69J with PID 7464 (C:\Documents\IdeaProjects\PhoneBookSpring\target\classes started by kinik in C:\Documents\IdeaProjects\PhoneBookSpring)
+2021-08-14 19:15:04.504 DEBUG 7464 --- [main] r.a.n.PhoneBookSpringApplication         : Running with Spring Boot v2.5.3, Spring v5.3.9
+2021-08-14 19:15:04.505  INFO 7464 --- [main] r.a.n.PhoneBookSpringApplication         : No active profile set, falling back to default profiles: default
+2021-08-14 19:15:07.429  INFO 7464 --- [main] r.a.n.PhoneBookSpringApplication         : Started PhoneBookSpringApplication in 4.069 seconds (JVM running for 5.621)
+2021-08-14 19:15:10.469  INFO 7464 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2021-08-14 19:15:10.472  INFO 7464 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 2 ms
+2021-08-14 19:15:10.914  INFO 7464 --- [http-nio-8080-exec-5] r.a.n.phonebook.PhoneBookController      : Called method getAllContacts in PhoneBookController
+2021-08-14 19:15:37.419  INFO 7464 --- [scheduling-1] r.a.n.schedule.DeleteContactScheduler    : Called scheduled function deleteAnyContact is called in DeleteContactScheduler
+2021-08-14 19:15:37.421  INFO 7464 --- [scheduling-1] ru.academits.nikolenko.dao.ContactDao    : Deleted contact with id = 1
+2021-08-14 19:15:37.422  INFO 7464 --- [scheduling-1] ru.academits.nikolenko.dao.ContactDao    : Contacts count = 0
+2021-08-14 19:15:39.543  INFO 7464 --- [http-nio-8080-exec-3] r.a.n.phonebook.PhoneBookController      : Called method getAllContacts in PhoneBookController
+2021-08-14 19:15:46.822  INFO 7464 --- [http-nio-8080-exec-10] r.a.n.phonebook.PhoneBookController      : Called method addContact in PhoneBookController
+2021-08-14 19:15:46.823  INFO 7464 --- [http-nio-8080-exec-10] ru.academits.nikolenko.dao.ContactDao    : Contacts count = 1
+2021-08-14 19:15:46.838  INFO 7464 --- [http-nio-8080-exec-9] r.a.n.phonebook.PhoneBookController      : Called method getAllContacts in PhoneBookController
+2021-08-14 19:15:50.351  INFO 7464 --- [http-nio-8080-exec-3] r.a.n.phonebook.PhoneBookController      : Called method addContact in PhoneBookController
+2021-08-14 19:15:50.352  INFO 7464 --- [http-nio-8080-exec-3] ru.academits.nikolenko.dao.ContactDao    : Contacts count = 2
+2021-08-14 19:15:50.362  INFO 7464 --- [http-nio-8080-exec-5] r.a.n.phonebook.PhoneBookController      : Called method getAllContacts in PhoneBookController
+2021-08-14 19:15:53.551  INFO 7464 --- [http-nio-8080-exec-1] r.a.n.phonebook.PhoneBookController      : Called method addContact in PhoneBookController
+2021-08-14 19:15:53.552  INFO 7464 --- [http-nio-8080-exec-1] ru.academits.nikolenko.dao.ContactDao    : Contacts count = 3
+2021-08-14 19:15:53.561  INFO 7464 --- [http-nio-8080-exec-7] r.a.n.phonebook.PhoneBookController      : Called method getAllContacts in PhoneBookController
+2021-08-14 19:16:07.435  INFO 7464 --- [scheduling-1] r.a.n.schedule.DeleteContactScheduler    : Called scheduled function deleteAnyContact is called in DeleteContactScheduler
+2021-08-14 19:16:07.436  INFO 7464 --- [scheduling-1] ru.academits.nikolenko.dao.ContactDao    : Deleted contact with id = 3
+2021-08-14 19:16:07.436  INFO 7464 --- [scheduling-1] ru.academits.nikolenko.dao.ContactDao    : Contacts count = 2
+2021-08-14 19:16:07.742  INFO 7464 --- [http-nio-8080-exec-7] r.a.n.phonebook.PhoneBookController      : Called method getAllContacts in PhoneBookController
+2021-08-14 19:16:37.448  INFO 7464 --- [scheduling-1] r.a.n.schedule.DeleteContactScheduler    : Called scheduled function deleteAnyContact is called in DeleteContactScheduler
+2021-08-14 19:16:37.449  INFO 7464 --- [scheduling-1] ru.academits.nikolenko.dao.ContactDao    : Deleted contact with id = 4
+2021-08-14 19:16:37.450  INFO 7464 --- [scheduling-1] ru.academits.nikolenko.dao.ContactDao    : Contacts count = 1
+2021-08-14 19:17:07.455  INFO 7464 --- [scheduling-1] r.a.n.schedule.DeleteContactScheduler    : Called scheduled function deleteAnyContact is called in DeleteContactScheduler
+2021-08-14 19:17:07.456  INFO 7464 --- [scheduling-1] ru.academits.nikolenko.dao.ContactDao    : Deleted contact with id = 2
+2021-08-14 19:17:07.457  INFO 7464 --- [scheduling-1] ru.academits.nikolenko.dao.ContactDao    : Contacts count = 0
+2021-08-14 19:17:37.467  INFO 7464 --- [scheduling-1] r.a.n.schedule.DeleteContactScheduler    : Called scheduled function deleteAnyContact is called in DeleteContactScheduler
+2021-08-14 19:18:13.548  INFO 13892 --- [main] r.a.n.PhoneBookSpringApplication         : Starting PhoneBookSpringApplication using Java 16.0.2 on LAPTOP-6TOUT69J with PID 13892 (C:\Documents\IdeaProjects\PhoneBookSpring\target\classes started by kinik in C:\Documents\IdeaProjects\PhoneBookSpring)
+2021-08-14 19:18:13.555 DEBUG 13892 --- [main] r.a.n.PhoneBookSpringApplication         : Running with Spring Boot v2.5.3, Spring v5.3.9
+2021-08-14 19:18:13.556  INFO 13892 --- [main] r.a.n.PhoneBookSpringApplication         : No active profile set, falling back to default profiles: default
+2021-08-14 19:18:16.739  INFO 13892 --- [main] r.a.n.PhoneBookSpringApplication         : Started PhoneBookSpringApplication in 4.101 seconds (JVM running for 5.498)
+2021-08-14 19:18:17.962  INFO 13892 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2021-08-14 19:18:17.967  INFO 13892 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 3 ms
+2021-08-14 19:18:18.394  INFO 13892 --- [http-nio-8080-exec-4] r.a.n.phonebook.PhoneBookController      : Called method getAllContacts in PhoneBookController
+2021-08-14 19:18:23.039  INFO 13892 --- [http-nio-8080-exec-5] r.a.n.phonebook.PhoneBookController      : Called method addContact in PhoneBookController
+2021-08-14 19:18:23.041  INFO 13892 --- [http-nio-8080-exec-5] ru.academits.nikolenko.dao.ContactDao    : Contacts count = 2
+2021-08-14 19:18:23.247  INFO 13892 --- [http-nio-8080-exec-6] r.a.n.phonebook.PhoneBookController      : Called method getAllContacts in PhoneBookController
+2021-08-14 19:18:27.666  INFO 13892 --- [http-nio-8080-exec-7] r.a.n.phonebook.PhoneBookController      : Called method addContact in PhoneBookController
+2021-08-14 19:18:27.668  INFO 13892 --- [http-nio-8080-exec-7] ru.academits.nikolenko.dao.ContactDao    : Contacts count = 3
+2021-08-14 19:18:27.705  INFO 13892 --- [http-nio-8080-exec-8] r.a.n.phonebook.PhoneBookController      : Called method getAllContacts in PhoneBookController
+2021-08-14 19:18:35.511  INFO 13892 --- [http-nio-8080-exec-4] r.a.n.phonebook.PhoneBookController      : Called method getAllContacts in PhoneBookController
+2021-08-14 19:18:46.790  INFO 13892 --- [http-nio-8080-exec-4] r.a.n.phonebook.PhoneBookController      : Called method getAllContacts in PhoneBookController
+2021-08-14 19:18:52.018  INFO 13892 --- [http-nio-8080-exec-5] r.a.n.phonebook.PhoneBookController      : Called method getAllContacts in PhoneBookController
+2021-08-14 19:50:33.072  INFO 7000 --- [main] r.a.n.PhoneBookSpringApplication         : Starting PhoneBookSpringApplication using Java 16.0.2 on LAPTOP-6TOUT69J with PID 7000 (C:\Documents\IdeaProjects\PhoneBookSpring\target\classes started by kinik in C:\Documents\IdeaProjects\PhoneBookSpring)
+2021-08-14 19:50:33.076 DEBUG 7000 --- [main] r.a.n.PhoneBookSpringApplication         : Running with Spring Boot v2.5.3, Spring v5.3.9
+2021-08-14 19:50:33.077  INFO 7000 --- [main] r.a.n.PhoneBookSpringApplication         : No active profile set, falling back to default profiles: default
+2021-08-14 19:50:35.276  INFO 7000 --- [main] r.a.n.PhoneBookSpringApplication         : Started PhoneBookSpringApplication in 2.892 seconds (JVM running for 4.029)
+2021-08-14 19:50:36.923  INFO 7000 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2021-08-14 19:50:36.927  INFO 7000 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 3 ms
+2021-08-14 19:50:36.971  INFO 7000 --- [http-nio-8080-exec-1] r.a.n.phonebook.PhoneBookController      : Called method getAllContacts in PhoneBookController
+2021-08-14 19:50:42.504  INFO 7000 --- [http-nio-8080-exec-2] r.a.n.phonebook.PhoneBookController      : Called method addContact in PhoneBookController
+2021-08-14 19:50:42.505  INFO 7000 --- [http-nio-8080-exec-2] ru.academits.nikolenko.dao.ContactDao    : Contacts count = 2
+2021-08-14 19:50:42.525  INFO 7000 --- [http-nio-8080-exec-3] r.a.n.phonebook.PhoneBookController      : Called method getAllContacts in PhoneBookController
+2021-08-14 19:51:05.284  INFO 7000 --- [scheduling-1] r.a.n.schedule.DeleteContactScheduler    : Called scheduled function deleteAnyContact is called in DeleteContactScheduler
+2021-08-14 19:51:05.289  INFO 7000 --- [scheduling-1] ru.academits.nikolenko.dao.ContactDao    : Deleted contact with id = 1
+2021-08-14 19:51:05.290  INFO 7000 --- [scheduling-1] ru.academits.nikolenko.dao.ContactDao    : Contacts count = 1
+2021-08-14 19:51:11.877  INFO 7000 --- [http-nio-8080-exec-4] r.a.n.phonebook.PhoneBookController      : Called method addContact in PhoneBookController
+2021-08-14 19:51:11.878  INFO 7000 --- [http-nio-8080-exec-4] ru.academits.nikolenko.dao.ContactDao    : Contacts count = 2
+2021-08-14 19:51:11.899  INFO 7000 --- [http-nio-8080-exec-5] r.a.n.phonebook.PhoneBookController      : Called method getAllContacts in PhoneBookController
+2021-08-14 19:51:15.477  INFO 7000 --- [http-nio-8080-exec-6] r.a.n.phonebook.PhoneBookController      : Called method addContact in PhoneBookController
+2021-08-14 19:51:15.478  INFO 7000 --- [http-nio-8080-exec-6] ru.academits.nikolenko.dao.ContactDao    : Contacts count = 3
+2021-08-14 19:51:15.502  INFO 7000 --- [http-nio-8080-exec-7] r.a.n.phonebook.PhoneBookController      : Called method getAllContacts in PhoneBookController
+2021-08-14 19:51:17.488  INFO 7000 --- [http-nio-8080-exec-8] r.a.n.phonebook.PhoneBookController      : Called method getFilteredContacts in PhoneBookController
+2021-08-14 19:51:21.272  INFO 7000 --- [http-nio-8080-exec-9] r.a.n.phonebook.PhoneBookController      : Called method getAllContacts in PhoneBookController
+2021-08-14 19:51:26.316  INFO 7000 --- [http-nio-8080-exec-10] r.a.n.phonebook.PhoneBookController      : Called method addContact in PhoneBookController
+2021-08-14 19:51:26.317  INFO 7000 --- [http-nio-8080-exec-10] ru.academits.nikolenko.dao.ContactDao    : Contacts count = 4
+2021-08-14 19:51:26.335  INFO 7000 --- [http-nio-8080-exec-1] r.a.n.phonebook.PhoneBookController      : Called method getAllContacts in PhoneBookController
+2021-08-14 19:51:28.636  INFO 7000 --- [http-nio-8080-exec-2] r.a.n.phonebook.PhoneBookController      : Called method getFilteredContacts in PhoneBookController
+2021-08-14 19:51:31.316  INFO 7000 --- [http-nio-8080-exec-3] r.a.n.phonebook.PhoneBookController      : Called method deleteContacts in PhoneBookController
+2021-08-14 19:51:31.317  INFO 7000 --- [http-nio-8080-exec-3] ru.academits.nikolenko.dao.ContactDao    : Contacts count = 3
+2021-08-14 19:51:31.338  INFO 7000 --- [http-nio-8080-exec-4] r.a.n.phonebook.PhoneBookController      : Called method getAllContacts in PhoneBookController
+2021-08-14 19:51:35.300  INFO 7000 --- [scheduling-1] r.a.n.schedule.DeleteContactScheduler    : Called scheduled function deleteAnyContact is called in DeleteContactScheduler
+2021-08-14 19:51:35.301  INFO 7000 --- [scheduling-1] ru.academits.nikolenko.dao.ContactDao    : Deleted contact with id = 3
+2021-08-14 19:51:35.302  INFO 7000 --- [scheduling-1] ru.academits.nikolenko.dao.ContactDao    : Contacts count = 2
+2021-08-14 20:29:47.038  INFO 10756 --- [main] r.a.n.PhoneBookSpringApplication         : Starting PhoneBookSpringApplication using Java 16.0.2 on LAPTOP-6TOUT69J with PID 10756 (C:\Documents\IdeaProjects\PhoneBookSpring\target\classes started by kinik in C:\Documents\IdeaProjects\PhoneBookSpring)
+2021-08-14 20:29:47.043 DEBUG 10756 --- [main] r.a.n.PhoneBookSpringApplication         : Running with Spring Boot v2.5.3, Spring v5.3.9
+2021-08-14 20:29:47.044  INFO 10756 --- [main] r.a.n.PhoneBookSpringApplication         : No active profile set, falling back to default profiles: default
+2021-08-14 20:29:50.272  INFO 10756 --- [main] r.a.n.PhoneBookSpringApplication         : Started PhoneBookSpringApplication in 4.079 seconds (JVM running for 5.612)
+2021-08-14 20:29:51.779  INFO 10756 --- [http-nio-8080-exec-3] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2021-08-14 20:29:51.783  INFO 10756 --- [http-nio-8080-exec-3] o.s.web.servlet.DispatcherServlet        : Completed initialization in 2 ms
+2021-08-14 20:29:52.321  INFO 10756 --- [http-nio-8080-exec-4] r.a.n.phonebook.PhoneBookController      : Called method getAllContacts in PhoneBookController
+2021-08-14 20:30:47.304  INFO 6384 --- [main] r.a.n.PhoneBookSpringApplication         : Starting PhoneBookSpringApplication using Java 16.0.2 on LAPTOP-6TOUT69J with PID 6384 (C:\Documents\IdeaProjects\PhoneBookSpring\target\classes started by kinik in C:\Documents\IdeaProjects\PhoneBookSpring)
+2021-08-14 20:30:47.309 DEBUG 6384 --- [main] r.a.n.PhoneBookSpringApplication         : Running with Spring Boot v2.5.3, Spring v5.3.9
+2021-08-14 20:30:47.309  INFO 6384 --- [main] r.a.n.PhoneBookSpringApplication         : No active profile set, falling back to default profiles: default
+2021-08-14 20:30:48.941 DEBUG 6384 --- [main] o.a.catalina.core.AprLifecycleListener   : The Apache Tomcat Native library could not be found using names [tcnative-1, libtcnative-1] on the java.library.path [C:\Program Files\Java\jdk-16.0.2\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Python39\Scripts\;C:\Python39\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\PuTTY\;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Documents\IdeaProjects\infa\apache-maven-3.8.1\bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\kinik\AppData\Local\Microsoft\WindowsApps;;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.1.2\bin;C:\Users\kinik\AppData\Local\Programs\Fiddler;C:\Users\kinik\AppData\Roaming\npm;C:\Users\kinik\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA 2021.2\bin;;.]. The errors reported were [Can't load library: C:\Documents\IdeaProjects\PhoneBookSpring\bin\tcnative-1.dll, Can't load library: C:\Documents\IdeaProjects\PhoneBookSpring\bin\libtcnative-1.dll, no tcnative-1 in java.library.path: C:\Program Files\Java\jdk-16.0.2\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Python39\Scripts\;C:\Python39\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\PuTTY\;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Documents\IdeaProjects\infa\apache-maven-3.8.1\bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\kinik\AppData\Local\Microsoft\WindowsApps;;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.1.2\bin;C:\Users\kinik\AppData\Local\Programs\Fiddler;C:\Users\kinik\AppData\Roaming\npm;C:\Users\kinik\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA 2021.2\bin;;., no libtcnative-1 in java.library.path: C:\Program Files\Java\jdk-16.0.2\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Python39\Scripts\;C:\Python39\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\PuTTY\;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Documents\IdeaProjects\infa\apache-maven-3.8.1\bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\kinik\AppData\Local\Microsoft\WindowsApps;;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.1.2\bin;C:\Users\kinik\AppData\Local\Programs\Fiddler;C:\Users\kinik\AppData\Roaming\npm;C:\Users\kinik\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA 2021.2\bin;;.]
+
+org.apache.tomcat.jni.LibraryNotFoundError: Can't load library: C:\Documents\IdeaProjects\PhoneBookSpring\bin\tcnative-1.dll, Can't load library: C:\Documents\IdeaProjects\PhoneBookSpring\bin\libtcnative-1.dll, no tcnative-1 in java.library.path: C:\Program Files\Java\jdk-16.0.2\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Python39\Scripts\;C:\Python39\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\PuTTY\;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Documents\IdeaProjects\infa\apache-maven-3.8.1\bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\kinik\AppData\Local\Microsoft\WindowsApps;;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.1.2\bin;C:\Users\kinik\AppData\Local\Programs\Fiddler;C:\Users\kinik\AppData\Roaming\npm;C:\Users\kinik\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA 2021.2\bin;;., no libtcnative-1 in java.library.path: C:\Program Files\Java\jdk-16.0.2\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Python39\Scripts\;C:\Python39\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\PuTTY\;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Documents\IdeaProjects\infa\apache-maven-3.8.1\bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\kinik\AppData\Local\Microsoft\WindowsApps;;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.1.2\bin;C:\Users\kinik\AppData\Local\Programs\Fiddler;C:\Users\kinik\AppData\Roaming\npm;C:\Users\kinik\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA 2021.2\bin;;.
+	at org.apache.tomcat.jni.Library.<init>(Library.java:101) ~[tomcat-embed-core-9.0.50.jar:9.0.50]
+	at org.apache.tomcat.jni.Library.initialize(Library.java:211) ~[tomcat-embed-core-9.0.50.jar:9.0.50]
+	at org.apache.catalina.core.AprLifecycleListener.init(AprLifecycleListener.java:192) ~[tomcat-embed-core-9.0.50.jar:9.0.50]
+	at org.apache.catalina.core.AprLifecycleListener.isAprAvailable(AprLifecycleListener.java:101) ~[tomcat-embed-core-9.0.50.jar:9.0.50]
+	at org.springframework.boot.web.embedded.tomcat.TomcatServletWebServerFactory.getDefaultLifecycleListeners(TomcatServletWebServerFactory.java:173) ~[spring-boot-2.5.3.jar:2.5.3]
+	at org.springframework.boot.web.embedded.tomcat.TomcatServletWebServerFactory.<init>(TomcatServletWebServerFactory.java:120) ~[spring-boot-2.5.3.jar:2.5.3]
+	at org.springframework.boot.autoconfigure.web.servlet.ServletWebServerFactoryConfiguration$EmbeddedTomcat.tomcatServletWebServerFactory(ServletWebServerFactoryConfiguration.java:76) ~[spring-boot-autoconfigure-2.5.3.jar:2.5.3]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:78) ~[na:na]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:na]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:567) ~[na:na]
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:154) ~[spring-beans-5.3.9.jar:5.3.9]
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiate(ConstructorResolver.java:653) ~[spring-beans-5.3.9.jar:5.3.9]
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiateUsingFactoryMethod(ConstructorResolver.java:638) ~[spring-beans-5.3.9.jar:5.3.9]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateUsingFactoryMethod(AbstractAutowireCapableBeanFactory.java:1334) ~[spring-beans-5.3.9.jar:5.3.9]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1177) ~[spring-beans-5.3.9.jar:5.3.9]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:564) ~[spring-beans-5.3.9.jar:5.3.9]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:524) ~[spring-beans-5.3.9.jar:5.3.9]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:335) ~[spring-beans-5.3.9.jar:5.3.9]
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234) ~[spring-beans-5.3.9.jar:5.3.9]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:333) ~[spring-beans-5.3.9.jar:5.3.9]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:213) ~[spring-beans-5.3.9.jar:5.3.9]
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.getWebServerFactory(ServletWebServerApplicationContext.java:217) ~[spring-boot-2.5.3.jar:2.5.3]
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.createWebServer(ServletWebServerApplicationContext.java:180) ~[spring-boot-2.5.3.jar:2.5.3]
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.onRefresh(ServletWebServerApplicationContext.java:160) ~[spring-boot-2.5.3.jar:2.5.3]
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:577) ~[spring-context-5.3.9.jar:5.3.9]
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:145) ~[spring-boot-2.5.3.jar:2.5.3]
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:754) ~[spring-boot-2.5.3.jar:2.5.3]
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:434) ~[spring-boot-2.5.3.jar:2.5.3]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:338) ~[spring-boot-2.5.3.jar:2.5.3]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1343) ~[spring-boot-2.5.3.jar:2.5.3]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1332) ~[spring-boot-2.5.3.jar:2.5.3]
+	at ru.academits.nikolenko.PhoneBookSpringApplication.main(PhoneBookSpringApplication.java:18) ~[classes/:na]
+
+2021-08-14 20:30:49.344 DEBUG 6384 --- [main] o.apache.tomcat.util.IntrospectionUtils  : IntrospectionUtils: setProperty(class org.apache.coyote.http11.Http11NioProtocol port=8080)
+2021-08-14 20:30:49.368 DEBUG 6384 --- [main] o.apache.tomcat.util.IntrospectionUtils  : IntrospectionUtils: setProperty(class org.apache.coyote.http11.Http11NioProtocol bindOnInit=false)
+2021-08-14 20:30:49.369 DEBUG 6384 --- [main] o.apache.tomcat.util.IntrospectionUtils  : IntrospectionUtils: setProperty(class org.apache.tomcat.util.net.NioEndpoint bindOnInit=false)
+2021-08-14 20:30:49.375 DEBUG 6384 --- [main] o.apache.tomcat.util.IntrospectionUtils  : IntrospectionUtils: setProperty(class org.apache.coyote.http11.Http11NioProtocol maxPostSize=2097152)
+2021-08-14 20:30:49.376 DEBUG 6384 --- [main] o.apache.tomcat.util.IntrospectionUtils  : IntrospectionUtils: setProperty(class org.apache.tomcat.util.net.NioEndpoint maxPostSize=2097152)
+2021-08-14 20:30:49.405 DEBUG 6384 --- [main] org.apache.catalina.core.ContainerBase   : Add child StandardHost[localhost] StandardEngine[Tomcat]
+2021-08-14 20:30:49.450 DEBUG 6384 --- [main] org.apache.catalina.core.ContainerBase   : Add child TomcatEmbeddedContext[] StandardEngine[Tomcat].StandardHost[localhost]
+2021-08-14 20:30:49.476 DEBUG 6384 --- [main] o.apache.tomcat.util.IntrospectionUtils  : IntrospectionUtils: setProperty(class org.apache.coyote.http11.Http11NioProtocol parseBodyMethods=POST)
+2021-08-14 20:30:49.477 DEBUG 6384 --- [main] o.apache.tomcat.util.IntrospectionUtils  : IntrospectionUtils: setProperty(class org.apache.tomcat.util.net.NioEndpoint parseBodyMethods=POST)
+2021-08-14 20:30:49.478  INFO 6384 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2021-08-14 20:30:49.479  INFO 6384 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.50]
+2021-08-14 20:30:49.483 DEBUG 6384 --- [main] o.apache.catalina.core.StandardContext   : Starting ROOT
+2021-08-14 20:30:49.511 DEBUG 6384 --- [main] o.apache.catalina.core.StandardContext   : Configuring default Resources
+2021-08-14 20:30:49.618 DEBUG 6384 --- [main] o.apache.catalina.core.StandardContext   : Processing standard container startup
+2021-08-14 20:30:49.619 DEBUG 6384 --- [main] org.apache.catalina.loader.WebappLoader  : Starting this Loader
+2021-08-14 20:30:49.688 DEBUG 6384 --- [main] o.a.c.authenticator.AuthenticatorBase    : No SingleSignOn Valve is present
+2021-08-14 20:30:49.690 DEBUG 6384 --- [main] o.apache.catalina.core.StandardContext   : No manager found. Checking if cluster manager should be used. Cluster configured: [false], Application distributable: [false]
+2021-08-14 20:30:49.696 DEBUG 6384 --- [main] o.apache.catalina.core.StandardContext   : Configured a manager of class [org.apache.catalina.session.StandardManager]
+2021-08-14 20:30:49.717  INFO 6384 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2021-08-14 20:30:49.755 DEBUG 6384 --- [main] org.apache.catalina.core.ContainerBase   : Add child StandardWrapper[dispatcherServlet] StandardEngine[Tomcat].StandardHost[localhost].TomcatEmbeddedContext[]
+2021-08-14 20:30:49.789 DEBUG 6384 --- [main] o.apache.catalina.core.StandardContext   : Configuring application event listeners
+2021-08-14 20:30:49.789 DEBUG 6384 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Sending application start events
+2021-08-14 20:30:49.792 DEBUG 6384 --- [main] o.a.catalina.session.StandardManager     : Start: Loading persisted sessions
+2021-08-14 20:30:49.792 DEBUG 6384 --- [main] o.a.catalina.session.StandardManager     : Loading persisted sessions from [SESSIONS.ser]
+2021-08-14 20:30:49.794 DEBUG 6384 --- [main] o.a.catalina.session.StandardManager     : No persisted data file found
+2021-08-14 20:30:49.794 DEBUG 6384 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Starting filters
+2021-08-14 20:30:49.795 DEBUG 6384 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       :  Starting filter 'requestContextFilter'
+2021-08-14 20:30:49.801 DEBUG 6384 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       :  Starting filter 'Tomcat WebSocket (JSR356) Filter'
+2021-08-14 20:30:49.803 DEBUG 6384 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       :  Starting filter 'characterEncodingFilter'
+2021-08-14 20:30:49.804 DEBUG 6384 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       :  Starting filter 'formContentFilter'
+2021-08-14 20:30:49.804 DEBUG 6384 --- [main] o.apache.catalina.core.StandardContext   : Starting completed
+2021-08-14 20:30:49.811 DEBUG 6384 --- [main] org.apache.catalina.mapper.Mapper        : Registered host [localhost]
+2021-08-14 20:30:49.813 DEBUG 6384 --- [main] o.apache.catalina.mapper.MapperListener  : Register Wrapper [dispatcherServlet] in Context [] for service [StandardService[Tomcat]]
+2021-08-14 20:30:49.816 DEBUG 6384 --- [main] o.apache.catalina.mapper.MapperListener  : Register Context [] for service [StandardService[Tomcat]]
+2021-08-14 20:30:49.817 DEBUG 6384 --- [main] o.apache.catalina.mapper.MapperListener  : Register host [localhost] at domain [null] for service [StandardService[Tomcat]]
+2021-08-14 20:30:50.640 DEBUG 6384 --- [http-nio-8080-Acceptor] o.apache.tomcat.util.threads.LimitLatch  : Counting up[http-nio-8080-Acceptor] latch=0
+2021-08-14 20:30:50.667  INFO 6384 --- [main] r.a.n.PhoneBookSpringApplication         : Started PhoneBookSpringApplication in 4.154 seconds (JVM running for 5.627)
+2021-08-14 20:30:51.411 DEBUG 6384 --- [http-nio-8080-Acceptor] o.apache.tomcat.util.threads.LimitLatch  : Counting up[http-nio-8080-Acceptor] latch=1
+2021-08-14 20:30:53.587 DEBUG 6384 --- [http-nio-8080-exec-1] o.a.tomcat.util.net.SocketWrapperBase    : Socket: [org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper@6d6b54a9:org.apache.tomcat.util.net.NioChannel@2f29ebc6:java.nio.channels.SocketChannel[connected local=/127.0.0.1:8080 remote=/127.0.0.1:59262]], Read from buffer: [0]
+2021-08-14 20:30:53.588 DEBUG 6384 --- [http-nio-8080-exec-1] org.apache.tomcat.util.net.NioEndpoint   : Socket: [org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper@6d6b54a9:org.apache.tomcat.util.net.NioChannel@2f29ebc6:java.nio.channels.SocketChannel[connected local=/127.0.0.1:8080 remote=/127.0.0.1:59262]], Read direct from socket: [431]
+2021-08-14 20:30:53.622 DEBUG 6384 --- [http-nio-8080-exec-1] org.apache.tomcat.util.http.Parameters   : Set query string encoding to UTF-8
+2021-08-14 20:30:53.626 DEBUG 6384 --- [http-nio-8080-exec-1] o.a.c.authenticator.AuthenticatorBase    : Security checking request GET /phoneBook/rpc/api/v1/getAllContacts
+2021-08-14 20:30:53.627 DEBUG 6384 --- [http-nio-8080-exec-1] org.apache.catalina.realm.RealmBase      :   No applicable constraints defined
+2021-08-14 20:30:53.638 DEBUG 6384 --- [http-nio-8080-exec-1] o.a.c.a.jaspic.AuthConfigFactoryImpl     : Loading persistent provider registrations from [C:\Users\kinik\AppData\Local\Temp\tomcat.8080.10234010483728827517\conf\jaspic-providers.xml]
+2021-08-14 20:30:53.639 DEBUG 6384 --- [http-nio-8080-exec-1] o.a.c.authenticator.AuthenticatorBase    : Not subject to any constraint
+2021-08-14 20:30:53.643  INFO 6384 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-08-14 20:30:53.643  INFO 6384 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2021-08-14 20:30:53.645  INFO 6384 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 2 ms
+2021-08-14 20:30:53.694  INFO 6384 --- [http-nio-8080-exec-1] r.a.n.phonebook.PhoneBookController      : Called method getAllContacts in PhoneBookController
+2021-08-14 20:30:53.841 DEBUG 6384 --- [http-nio-8080-exec-1] org.apache.tomcat.util.net.NioEndpoint   : Registered write interest for [org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper@6d6b54a9:org.apache.tomcat.util.net.NioChannel@2f29ebc6:java.nio.channels.SocketChannel[connected local=/127.0.0.1:8080 remote=/127.0.0.1:59262]]
+2021-08-14 20:30:53.844 DEBUG 6384 --- [http-nio-8080-exec-1] org.apache.tomcat.util.net.NioEndpoint   : Registered write interest for [org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper@6d6b54a9:org.apache.tomcat.util.net.NioChannel@2f29ebc6:java.nio.channels.SocketChannel[connected local=/127.0.0.1:8080 remote=/127.0.0.1:59262]]
+2021-08-14 20:30:53.851 DEBUG 6384 --- [http-nio-8080-exec-1] o.a.tomcat.util.net.SocketWrapperBase    : Socket: [org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper@6d6b54a9:org.apache.tomcat.util.net.NioChannel@2f29ebc6:java.nio.channels.SocketChannel[connected local=/127.0.0.1:8080 remote=/127.0.0.1:59262]], Read from buffer: [0]
+2021-08-14 20:30:53.854 DEBUG 6384 --- [http-nio-8080-exec-1] org.apache.tomcat.util.net.NioEndpoint   : Socket: [org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper@6d6b54a9:org.apache.tomcat.util.net.NioChannel@2f29ebc6:java.nio.channels.SocketChannel[connected local=/127.0.0.1:8080 remote=/127.0.0.1:59262]], Read direct from socket: [0]
+2021-08-14 20:30:53.855 DEBUG 6384 --- [http-nio-8080-exec-1] org.apache.tomcat.util.net.NioEndpoint   : Registered read interest for [org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper@6d6b54a9:org.apache.tomcat.util.net.NioChannel@2f29ebc6:java.nio.channels.SocketChannel[connected local=/127.0.0.1:8080 remote=/127.0.0.1:59262]]
+2021-08-14 20:31:20.662  INFO 6384 --- [scheduling-1] r.a.n.schedule.DeleteContactScheduler    : Called scheduled function deleteAnyContact is called in DeleteContactScheduler
+2021-08-14 20:31:20.665  INFO 6384 --- [scheduling-1] ru.academits.nikolenko.dao.ContactDao    : Deleted contact with id = 1
+2021-08-14 20:31:20.666  INFO 6384 --- [scheduling-1] ru.academits.nikolenko.dao.ContactDao    : Contacts count = 0
+2021-08-14 20:31:49.860 DEBUG 6384 --- [Catalina-utility-2] org.apache.catalina.session.ManagerBase  : Start expire sessions StandardManager at 1628947909857 sessioncount 0
+2021-08-14 20:31:49.862 DEBUG 6384 --- [Catalina-utility-2] org.apache.catalina.session.ManagerBase  : End expire sessions StandardManager processingTime 4 expired sessions: 0
+2021-08-14 20:31:50.672  INFO 6384 --- [scheduling-1] r.a.n.schedule.DeleteContactScheduler    : Called scheduled function deleteAnyContact is called in DeleteContactScheduler
+2021-08-14 20:31:54.319 DEBUG 6384 --- [http-nio-8080-exec-2] o.apache.tomcat.util.threads.LimitLatch  : Counting down[http-nio-8080-exec-2] latch=1
+2021-08-14 20:31:54.321 DEBUG 6384 --- [http-nio-8080-exec-2] org.apache.tomcat.util.net.NioEndpoint   : Calling [org.apache.tomcat.util.net.NioEndpoint@58b31d6f].closeSocket([org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper@6d6b54a9:org.apache.tomcat.util.net.NioChannel@2f29ebc6:java.nio.channels.SocketChannel[connected local=/127.0.0.1:8080 remote=/127.0.0.1:59262]])
+2021-08-14 20:32:20.678  INFO 6384 --- [scheduling-1] r.a.n.schedule.DeleteContactScheduler    : Called scheduled function deleteAnyContact is called in DeleteContactScheduler
+2021-08-14 20:32:49.910 DEBUG 6384 --- [Catalina-utility-2] org.apache.catalina.session.ManagerBase  : Start expire sessions StandardManager at 1628947969910 sessioncount 0
+2021-08-14 20:32:49.968 DEBUG 6384 --- [Catalina-utility-2] org.apache.catalina.session.ManagerBase  : End expire sessions StandardManager processingTime 57 expired sessions: 0
+2021-08-14 20:32:50.683  INFO 6384 --- [scheduling-1] r.a.n.schedule.DeleteContactScheduler    : Called scheduled function deleteAnyContact is called in DeleteContactScheduler
+2021-08-14 20:33:20.694  INFO 6384 --- [scheduling-1] r.a.n.schedule.DeleteContactScheduler    : Called scheduled function deleteAnyContact is called in DeleteContactScheduler
+2021-08-14 20:33:50.032 DEBUG 6384 --- [Catalina-utility-2] org.apache.catalina.session.ManagerBase  : Start expire sessions StandardManager at 1628948030032 sessioncount 0
+2021-08-14 20:33:50.033 DEBUG 6384 --- [Catalina-utility-2] org.apache.catalina.session.ManagerBase  : End expire sessions StandardManager processingTime 1 expired sessions: 0
+2021-08-14 20:33:50.700  INFO 6384 --- [scheduling-1] r.a.n.schedule.DeleteContactScheduler    : Called scheduled function deleteAnyContact is called in DeleteContactScheduler
+2021-08-14 20:37:38.502  INFO 15728 --- [main] r.a.n.PhoneBookSpringApplication         : Starting PhoneBookSpringApplication using Java 16.0.2 on LAPTOP-6TOUT69J with PID 15728 (C:\Documents\IdeaProjects\PhoneBookSpring\target\classes started by kinik in C:\Documents\IdeaProjects\PhoneBookSpring)
+2021-08-14 20:37:38.511 DEBUG 15728 --- [main] r.a.n.PhoneBookSpringApplication         : Running with Spring Boot v2.5.3, Spring v5.3.9
+2021-08-14 20:37:38.511  INFO 15728 --- [main] r.a.n.PhoneBookSpringApplication         : No active profile set, falling back to default profiles: default
+2021-08-14 20:37:40.226 DEBUG 15728 --- [main] o.a.catalina.core.AprLifecycleListener   : The Apache Tomcat Native library could not be found using names [tcnative-1, libtcnative-1] on the java.library.path [C:\Program Files\Java\jdk-16.0.2\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Python39\Scripts\;C:\Python39\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\PuTTY\;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Documents\IdeaProjects\infa\apache-maven-3.8.1\bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\kinik\AppData\Local\Microsoft\WindowsApps;;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.1.2\bin;C:\Users\kinik\AppData\Local\Programs\Fiddler;C:\Users\kinik\AppData\Roaming\npm;C:\Users\kinik\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA 2021.2\bin;;.]. The errors reported were [Can't load library: C:\Documents\IdeaProjects\PhoneBookSpring\bin\tcnative-1.dll, Can't load library: C:\Documents\IdeaProjects\PhoneBookSpring\bin\libtcnative-1.dll, no tcnative-1 in java.library.path: C:\Program Files\Java\jdk-16.0.2\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Python39\Scripts\;C:\Python39\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\PuTTY\;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Documents\IdeaProjects\infa\apache-maven-3.8.1\bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\kinik\AppData\Local\Microsoft\WindowsApps;;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.1.2\bin;C:\Users\kinik\AppData\Local\Programs\Fiddler;C:\Users\kinik\AppData\Roaming\npm;C:\Users\kinik\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA 2021.2\bin;;., no libtcnative-1 in java.library.path: C:\Program Files\Java\jdk-16.0.2\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Python39\Scripts\;C:\Python39\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\PuTTY\;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Documents\IdeaProjects\infa\apache-maven-3.8.1\bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\kinik\AppData\Local\Microsoft\WindowsApps;;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.1.2\bin;C:\Users\kinik\AppData\Local\Programs\Fiddler;C:\Users\kinik\AppData\Roaming\npm;C:\Users\kinik\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA 2021.2\bin;;.]
+
+org.apache.tomcat.jni.LibraryNotFoundError: Can't load library: C:\Documents\IdeaProjects\PhoneBookSpring\bin\tcnative-1.dll, Can't load library: C:\Documents\IdeaProjects\PhoneBookSpring\bin\libtcnative-1.dll, no tcnative-1 in java.library.path: C:\Program Files\Java\jdk-16.0.2\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Python39\Scripts\;C:\Python39\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\PuTTY\;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Documents\IdeaProjects\infa\apache-maven-3.8.1\bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\kinik\AppData\Local\Microsoft\WindowsApps;;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.1.2\bin;C:\Users\kinik\AppData\Local\Programs\Fiddler;C:\Users\kinik\AppData\Roaming\npm;C:\Users\kinik\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA 2021.2\bin;;., no libtcnative-1 in java.library.path: C:\Program Files\Java\jdk-16.0.2\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Python39\Scripts\;C:\Python39\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\PuTTY\;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Documents\IdeaProjects\infa\apache-maven-3.8.1\bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\kinik\AppData\Local\Microsoft\WindowsApps;;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.1.2\bin;C:\Users\kinik\AppData\Local\Programs\Fiddler;C:\Users\kinik\AppData\Roaming\npm;C:\Users\kinik\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA 2021.2\bin;;.
+	at org.apache.tomcat.jni.Library.<init>(Library.java:101) ~[tomcat-embed-core-9.0.50.jar:9.0.50]
+	at org.apache.tomcat.jni.Library.initialize(Library.java:211) ~[tomcat-embed-core-9.0.50.jar:9.0.50]
+	at org.apache.catalina.core.AprLifecycleListener.init(AprLifecycleListener.java:192) ~[tomcat-embed-core-9.0.50.jar:9.0.50]
+	at org.apache.catalina.core.AprLifecycleListener.isAprAvailable(AprLifecycleListener.java:101) ~[tomcat-embed-core-9.0.50.jar:9.0.50]
+	at org.springframework.boot.web.embedded.tomcat.TomcatServletWebServerFactory.getDefaultLifecycleListeners(TomcatServletWebServerFactory.java:173) ~[spring-boot-2.5.3.jar:2.5.3]
+	at org.springframework.boot.web.embedded.tomcat.TomcatServletWebServerFactory.<init>(TomcatServletWebServerFactory.java:120) ~[spring-boot-2.5.3.jar:2.5.3]
+	at org.springframework.boot.autoconfigure.web.servlet.ServletWebServerFactoryConfiguration$EmbeddedTomcat.tomcatServletWebServerFactory(ServletWebServerFactoryConfiguration.java:76) ~[spring-boot-autoconfigure-2.5.3.jar:2.5.3]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:78) ~[na:na]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:na]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:567) ~[na:na]
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:154) ~[spring-beans-5.3.9.jar:5.3.9]
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiate(ConstructorResolver.java:653) ~[spring-beans-5.3.9.jar:5.3.9]
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiateUsingFactoryMethod(ConstructorResolver.java:638) ~[spring-beans-5.3.9.jar:5.3.9]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateUsingFactoryMethod(AbstractAutowireCapableBeanFactory.java:1334) ~[spring-beans-5.3.9.jar:5.3.9]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1177) ~[spring-beans-5.3.9.jar:5.3.9]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:564) ~[spring-beans-5.3.9.jar:5.3.9]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:524) ~[spring-beans-5.3.9.jar:5.3.9]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:335) ~[spring-beans-5.3.9.jar:5.3.9]
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234) ~[spring-beans-5.3.9.jar:5.3.9]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:333) ~[spring-beans-5.3.9.jar:5.3.9]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:213) ~[spring-beans-5.3.9.jar:5.3.9]
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.getWebServerFactory(ServletWebServerApplicationContext.java:217) ~[spring-boot-2.5.3.jar:2.5.3]
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.createWebServer(ServletWebServerApplicationContext.java:180) ~[spring-boot-2.5.3.jar:2.5.3]
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.onRefresh(ServletWebServerApplicationContext.java:160) ~[spring-boot-2.5.3.jar:2.5.3]
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:577) ~[spring-context-5.3.9.jar:5.3.9]
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:145) ~[spring-boot-2.5.3.jar:2.5.3]
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:754) ~[spring-boot-2.5.3.jar:2.5.3]
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:434) ~[spring-boot-2.5.3.jar:2.5.3]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:338) ~[spring-boot-2.5.3.jar:2.5.3]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1343) ~[spring-boot-2.5.3.jar:2.5.3]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1332) ~[spring-boot-2.5.3.jar:2.5.3]
+	at ru.academits.nikolenko.PhoneBookSpringApplication.main(PhoneBookSpringApplication.java:18) ~[classes/:na]
+
+2021-08-14 20:37:40.603 DEBUG 15728 --- [main] o.apache.tomcat.util.IntrospectionUtils  : IntrospectionUtils: setProperty(class org.apache.coyote.http11.Http11NioProtocol port=8080)
+2021-08-14 20:37:40.633 DEBUG 15728 --- [main] o.apache.tomcat.util.IntrospectionUtils  : IntrospectionUtils: setProperty(class org.apache.coyote.http11.Http11NioProtocol bindOnInit=false)
+2021-08-14 20:37:40.634 DEBUG 15728 --- [main] o.apache.tomcat.util.IntrospectionUtils  : IntrospectionUtils: setProperty(class org.apache.tomcat.util.net.NioEndpoint bindOnInit=false)
+2021-08-14 20:37:40.643 DEBUG 15728 --- [main] o.apache.tomcat.util.IntrospectionUtils  : IntrospectionUtils: setProperty(class org.apache.coyote.http11.Http11NioProtocol maxPostSize=2097152)
+2021-08-14 20:37:40.645 DEBUG 15728 --- [main] o.apache.tomcat.util.IntrospectionUtils  : IntrospectionUtils: setProperty(class org.apache.tomcat.util.net.NioEndpoint maxPostSize=2097152)
+2021-08-14 20:37:40.684 DEBUG 15728 --- [main] org.apache.catalina.core.ContainerBase   : Add child StandardHost[localhost] StandardEngine[Tomcat]
+2021-08-14 20:37:40.744 DEBUG 15728 --- [main] org.apache.catalina.core.ContainerBase   : Add child TomcatEmbeddedContext[] StandardEngine[Tomcat].StandardHost[localhost]
+2021-08-14 20:37:40.772 DEBUG 15728 --- [main] o.apache.tomcat.util.IntrospectionUtils  : IntrospectionUtils: setProperty(class org.apache.coyote.http11.Http11NioProtocol parseBodyMethods=POST)
+2021-08-14 20:37:40.774 DEBUG 15728 --- [main] o.apache.tomcat.util.IntrospectionUtils  : IntrospectionUtils: setProperty(class org.apache.tomcat.util.net.NioEndpoint parseBodyMethods=POST)
+2021-08-14 20:37:40.775  INFO 15728 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2021-08-14 20:37:40.776  INFO 15728 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.50]
+2021-08-14 20:37:40.781 DEBUG 15728 --- [main] o.apache.catalina.core.StandardContext   : Starting ROOT
+2021-08-14 20:37:40.812 DEBUG 15728 --- [main] o.apache.catalina.core.StandardContext   : Configuring default Resources
+2021-08-14 20:37:40.961 DEBUG 15728 --- [main] o.apache.catalina.core.StandardContext   : Processing standard container startup
+2021-08-14 20:37:40.963 DEBUG 15728 --- [main] org.apache.catalina.loader.WebappLoader  : Starting this Loader
+2021-08-14 20:37:41.046 DEBUG 15728 --- [main] o.a.c.authenticator.AuthenticatorBase    : No SingleSignOn Valve is present
+2021-08-14 20:37:41.051 DEBUG 15728 --- [main] o.apache.catalina.core.StandardContext   : No manager found. Checking if cluster manager should be used. Cluster configured: [false], Application distributable: [false]
+2021-08-14 20:37:41.066 DEBUG 15728 --- [main] o.apache.catalina.core.StandardContext   : Configured a manager of class [org.apache.catalina.session.StandardManager]
+2021-08-14 20:37:41.094  INFO 15728 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2021-08-14 20:37:41.131 DEBUG 15728 --- [main] org.apache.catalina.core.ContainerBase   : Add child StandardWrapper[dispatcherServlet] StandardEngine[Tomcat].StandardHost[localhost].TomcatEmbeddedContext[]
+2021-08-14 20:37:41.166 DEBUG 15728 --- [main] o.apache.catalina.core.StandardContext   : Configuring application event listeners
+2021-08-14 20:37:41.167 DEBUG 15728 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Sending application start events
+2021-08-14 20:37:41.169 DEBUG 15728 --- [main] o.a.catalina.session.StandardManager     : Start: Loading persisted sessions
+2021-08-14 20:37:41.170 DEBUG 15728 --- [main] o.a.catalina.session.StandardManager     : Loading persisted sessions from [SESSIONS.ser]
+2021-08-14 20:37:41.172 DEBUG 15728 --- [main] o.a.catalina.session.StandardManager     : No persisted data file found
+2021-08-14 20:37:41.174 DEBUG 15728 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Starting filters
+2021-08-14 20:37:41.174 DEBUG 15728 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       :  Starting filter 'requestContextFilter'
+2021-08-14 20:37:41.184 DEBUG 15728 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       :  Starting filter 'Tomcat WebSocket (JSR356) Filter'
+2021-08-14 20:37:41.187 DEBUG 15728 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       :  Starting filter 'characterEncodingFilter'
+2021-08-14 20:37:41.190 DEBUG 15728 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       :  Starting filter 'formContentFilter'
+2021-08-14 20:37:41.191 DEBUG 15728 --- [main] o.apache.catalina.core.StandardContext   : Starting completed
+2021-08-14 20:37:41.201 DEBUG 15728 --- [main] org.apache.catalina.mapper.Mapper        : Registered host [localhost]
+2021-08-14 20:37:41.204 DEBUG 15728 --- [main] o.apache.catalina.mapper.MapperListener  : Register Wrapper [dispatcherServlet] in Context [] for service [StandardService[Tomcat]]
+2021-08-14 20:37:41.210 DEBUG 15728 --- [main] o.apache.catalina.mapper.MapperListener  : Register Context [] for service [StandardService[Tomcat]]
+2021-08-14 20:37:41.211 DEBUG 15728 --- [main] o.apache.catalina.mapper.MapperListener  : Register host [localhost] at domain [null] for service [StandardService[Tomcat]]
+2021-08-14 20:37:42.026 DEBUG 15728 --- [http-nio-8080-Acceptor] o.apache.tomcat.util.threads.LimitLatch  : Counting up[http-nio-8080-Acceptor] latch=0
+2021-08-14 20:37:42.051  INFO 15728 --- [main] r.a.n.PhoneBookSpringApplication         : Started PhoneBookSpringApplication in 4.577 seconds (JVM running for 6.367)
+2021-08-14 20:37:42.841 DEBUG 15728 --- [http-nio-8080-Acceptor] o.apache.tomcat.util.threads.LimitLatch  : Counting up[http-nio-8080-Acceptor] latch=1
+2021-08-14 20:37:45.173 DEBUG 15728 --- [http-nio-8080-Acceptor] o.apache.tomcat.util.threads.LimitLatch  : Counting up[http-nio-8080-Acceptor] latch=2
+2021-08-14 20:37:45.280 DEBUG 15728 --- [http-nio-8080-exec-2] o.a.tomcat.util.net.SocketWrapperBase    : Socket: [org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper@27ca83d1:org.apache.tomcat.util.net.NioChannel@4bdb56f2:java.nio.channels.SocketChannel[connected local=/127.0.0.1:8080 remote=/127.0.0.1:59593]], Read from buffer: [0]
+2021-08-14 20:37:45.280 DEBUG 15728 --- [http-nio-8080-exec-1] o.a.tomcat.util.net.SocketWrapperBase    : Socket: [org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper@33b660e4:org.apache.tomcat.util.net.NioChannel@5baff44e:java.nio.channels.SocketChannel[connected local=/127.0.0.1:8080 remote=/127.0.0.1:50895]], Read from buffer: [0]
+2021-08-14 20:37:45.282 DEBUG 15728 --- [http-nio-8080-exec-2] org.apache.tomcat.util.net.NioEndpoint   : Socket: [org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper@27ca83d1:org.apache.tomcat.util.net.NioChannel@4bdb56f2:java.nio.channels.SocketChannel[connected local=/127.0.0.1:8080 remote=/127.0.0.1:59593]], Read direct from socket: [405]
+2021-08-14 20:37:45.282 DEBUG 15728 --- [http-nio-8080-exec-1] org.apache.tomcat.util.net.NioEndpoint   : Socket: [org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper@33b660e4:org.apache.tomcat.util.net.NioChannel@5baff44e:java.nio.channels.SocketChannel[connected local=/127.0.0.1:8080 remote=/127.0.0.1:50895]], Read direct from socket: [403]
+2021-08-14 20:37:45.328 DEBUG 15728 --- [http-nio-8080-exec-1] org.apache.tomcat.util.http.Parameters   : Set query string encoding to UTF-8
+2021-08-14 20:37:45.328 DEBUG 15728 --- [http-nio-8080-exec-2] org.apache.tomcat.util.http.Parameters   : Set query string encoding to UTF-8
+2021-08-14 20:37:45.342 DEBUG 15728 --- [http-nio-8080-exec-1] o.a.c.authenticator.AuthenticatorBase    : Security checking request GET /images/checked_checkbox.ico
+2021-08-14 20:37:45.342 DEBUG 15728 --- [http-nio-8080-exec-2] o.a.c.authenticator.AuthenticatorBase    : Security checking request GET /images/unchecked_checkbox.ico
+2021-08-14 20:37:45.343 DEBUG 15728 --- [http-nio-8080-exec-2] org.apache.catalina.realm.RealmBase      :   No applicable constraints defined
+2021-08-14 20:37:45.343 DEBUG 15728 --- [http-nio-8080-exec-1] org.apache.catalina.realm.RealmBase      :   No applicable constraints defined
+2021-08-14 20:37:45.357 DEBUG 15728 --- [http-nio-8080-exec-1] o.a.c.a.jaspic.AuthConfigFactoryImpl     : Loading persistent provider registrations from [C:\Users\kinik\AppData\Local\Temp\tomcat.8080.17055886087056598583\conf\jaspic-providers.xml]
+2021-08-14 20:37:45.358 DEBUG 15728 --- [http-nio-8080-Acceptor] o.apache.tomcat.util.threads.LimitLatch  : Counting up[http-nio-8080-Acceptor] latch=3
+2021-08-14 20:37:45.359 DEBUG 15728 --- [http-nio-8080-exec-1] o.a.c.authenticator.AuthenticatorBase    : Not subject to any constraint
+2021-08-14 20:37:45.359 DEBUG 15728 --- [http-nio-8080-exec-2] o.a.c.authenticator.AuthenticatorBase    : Not subject to any constraint
+2021-08-14 20:37:45.367  INFO 15728 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-08-14 20:37:45.372 DEBUG 15728 --- [http-nio-8080-exec-3] o.a.tomcat.util.net.SocketWrapperBase    : Socket: [org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper@58b31d6f:org.apache.tomcat.util.net.NioChannel@5674e809:java.nio.channels.SocketChannel[connected local=/127.0.0.1:8080 remote=/127.0.0.1:59594]], Read from buffer: [0]
+2021-08-14 20:37:49.470  INFO 15728 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2021-08-14 20:37:49.473 DEBUG 15728 --- [http-nio-8080-exec-3] org.apache.tomcat.util.net.NioEndpoint   : Socket: [org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper@58b31d6f:org.apache.tomcat.util.net.NioChannel@5674e809:java.nio.channels.SocketChannel[connected local=/127.0.0.1:8080 remote=/127.0.0.1:59594]], Read direct from socket: [431]
+2021-08-14 20:37:49.479 DEBUG 15728 --- [http-nio-8080-exec-3] org.apache.tomcat.util.http.Parameters   : Set query string encoding to UTF-8
+2021-08-14 20:37:49.475  INFO 15728 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 2 ms
+2021-08-14 20:37:49.483 DEBUG 15728 --- [http-nio-8080-exec-3] o.a.c.authenticator.AuthenticatorBase    : Security checking request GET /phoneBook/rpc/api/v1/getAllContacts
+2021-08-14 20:37:49.485 DEBUG 15728 --- [http-nio-8080-exec-3] org.apache.catalina.realm.RealmBase      :   No applicable constraints defined
+2021-08-14 20:37:49.486 DEBUG 15728 --- [http-nio-8080-exec-3] o.a.c.authenticator.AuthenticatorBase    : Not subject to any constraint
+2021-08-14 20:37:49.549  INFO 15728 --- [http-nio-8080-exec-3] r.a.n.phonebook.PhoneBookController      : Called method getAllContacts in PhoneBookController
+2021-08-14 20:37:49.598 DEBUG 15728 --- [http-nio-8080-exec-2] org.apache.tomcat.util.net.NioEndpoint   : Registered write interest for [org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper@27ca83d1:org.apache.tomcat.util.net.NioChannel@4bdb56f2:java.nio.channels.SocketChannel[connected local=/127.0.0.1:8080 remote=/127.0.0.1:59593]]
+2021-08-14 20:37:49.598 DEBUG 15728 --- [http-nio-8080-exec-1] org.apache.tomcat.util.net.NioEndpoint   : Registered write interest for [org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper@33b660e4:org.apache.tomcat.util.net.NioChannel@5baff44e:java.nio.channels.SocketChannel[connected local=/127.0.0.1:8080 remote=/127.0.0.1:50895]]
+2021-08-14 20:37:49.602 DEBUG 15728 --- [http-nio-8080-exec-1] org.apache.tomcat.util.net.NioEndpoint   : Registered write interest for [org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper@33b660e4:org.apache.tomcat.util.net.NioChannel@5baff44e:java.nio.channels.SocketChannel[connected local=/127.0.0.1:8080 remote=/127.0.0.1:50895]]
+2021-08-14 20:37:49.602 DEBUG 15728 --- [http-nio-8080-exec-2] org.apache.tomcat.util.net.NioEndpoint   : Registered write interest for [org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper@27ca83d1:org.apache.tomcat.util.net.NioChannel@4bdb56f2:java.nio.channels.SocketChannel[connected local=/127.0.0.1:8080 remote=/127.0.0.1:59593]]
+2021-08-14 20:37:49.604 DEBUG 15728 --- [http-nio-8080-exec-1] o.a.tomcat.util.net.SocketWrapperBase    : Socket: [org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper@33b660e4:org.apache.tomcat.util.net.NioChannel@5baff44e:java.nio.channels.SocketChannel[connected local=/127.0.0.1:8080 remote=/127.0.0.1:50895]], Read from buffer: [0]
+2021-08-14 20:37:49.604 DEBUG 15728 --- [http-nio-8080-exec-2] o.a.tomcat.util.net.SocketWrapperBase    : Socket: [org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper@27ca83d1:org.apache.tomcat.util.net.NioChannel@4bdb56f2:java.nio.channels.SocketChannel[connected local=/127.0.0.1:8080 remote=/127.0.0.1:59593]], Read from buffer: [0]
+2021-08-14 20:37:49.607 DEBUG 15728 --- [http-nio-8080-exec-1] o.apache.tomcat.util.threads.LimitLatch  : Counting down[http-nio-8080-exec-1] latch=2
+2021-08-14 20:37:49.607 DEBUG 15728 --- [http-nio-8080-exec-2] o.apache.tomcat.util.threads.LimitLatch  : Counting down[http-nio-8080-exec-2] latch=2
+2021-08-14 20:37:49.608 DEBUG 15728 --- [http-nio-8080-exec-2] org.apache.tomcat.util.net.NioEndpoint   : Calling [org.apache.tomcat.util.net.NioEndpoint@5d1471d5].closeSocket([org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper@27ca83d1:org.apache.tomcat.util.net.NioChannel@4bdb56f2:java.nio.channels.SocketChannel[connected local=/127.0.0.1:8080 remote=/127.0.0.1:59593]])
+2021-08-14 20:37:49.608 DEBUG 15728 --- [http-nio-8080-exec-1] org.apache.tomcat.util.net.NioEndpoint   : Calling [org.apache.tomcat.util.net.NioEndpoint@5d1471d5].closeSocket([org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper@33b660e4:org.apache.tomcat.util.net.NioChannel@5baff44e:java.nio.channels.SocketChannel[connected local=/127.0.0.1:8080 remote=/127.0.0.1:50895]])
+2021-08-14 20:37:49.708 DEBUG 15728 --- [http-nio-8080-exec-3] org.apache.tomcat.util.net.NioEndpoint   : Registered write interest for [org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper@58b31d6f:org.apache.tomcat.util.net.NioChannel@5674e809:java.nio.channels.SocketChannel[connected local=/127.0.0.1:8080 remote=/127.0.0.1:59594]]
+2021-08-14 20:37:49.710 DEBUG 15728 --- [http-nio-8080-exec-3] org.apache.tomcat.util.net.NioEndpoint   : Registered write interest for [org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper@58b31d6f:org.apache.tomcat.util.net.NioChannel@5674e809:java.nio.channels.SocketChannel[connected local=/127.0.0.1:8080 remote=/127.0.0.1:59594]]
+2021-08-14 20:37:49.714 DEBUG 15728 --- [http-nio-8080-exec-3] o.a.tomcat.util.net.SocketWrapperBase    : Socket: [org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper@58b31d6f:org.apache.tomcat.util.net.NioChannel@5674e809:java.nio.channels.SocketChannel[connected local=/127.0.0.1:8080 remote=/127.0.0.1:59594]], Read from buffer: [0]
+2021-08-14 20:37:49.716 DEBUG 15728 --- [http-nio-8080-exec-3] org.apache.tomcat.util.net.NioEndpoint   : Socket: [org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper@58b31d6f:org.apache.tomcat.util.net.NioChannel@5674e809:java.nio.channels.SocketChannel[connected local=/127.0.0.1:8080 remote=/127.0.0.1:59594]], Read direct from socket: [0]
+2021-08-14 20:37:49.717 DEBUG 15728 --- [http-nio-8080-exec-3] org.apache.tomcat.util.net.NioEndpoint   : Registered read interest for [org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper@58b31d6f:org.apache.tomcat.util.net.NioChannel@5674e809:java.nio.channels.SocketChannel[connected local=/127.0.0.1:8080 remote=/127.0.0.1:59594]]
+2021-08-14 20:37:53.257 DEBUG 15728 --- [http-nio-8080-Acceptor] o.apache.tomcat.util.threads.LimitLatch  : Counting up[http-nio-8080-Acceptor] latch=2
+2021-08-14 20:37:53.259 DEBUG 15728 --- [http-nio-8080-Acceptor] o.apache.tomcat.util.threads.LimitLatch  : Counting up[http-nio-8080-Acceptor] latch=3
+2021-08-14 20:37:53.266 DEBUG 15728 --- [http-nio-8080-exec-4] o.a.tomcat.util.net.SocketWrapperBase    : Socket: [org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper@41619f8a:org.apache.tomcat.util.net.NioChannel@4bdb56f2:java.nio.channels.SocketChannel[connected local=/[0:0:0:0:0:0:0:1]:8080 remote=/[0:0:0:0:0:0:0:1]:61596]], Read from buffer: [0]
+2021-08-14 20:37:53.267 DEBUG 15728 --- [http-nio-8080-exec-4] org.apache.tomcat.util.net.NioEndpoint   : Socket: [org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper@41619f8a:org.apache.tomcat.util.net.NioChannel@4bdb56f2:java.nio.channels.SocketChannel[connected local=/[0:0:0:0:0:0:0:1]:8080 remote=/[0:0:0:0:0:0:0:1]:61596]], Read direct from socket: [754]
+2021-08-14 20:37:53.268 DEBUG 15728 --- [http-nio-8080-exec-4] o.a.t.util.http.Rfc6265CookieProcessor   : Cookies: Parsing b[]: Idea-2825574c=f24336ef-1e75-4bda-907d-a5d2aa3f6748
+2021-08-14 20:37:53.272 DEBUG 15728 --- [http-nio-8080-exec-4] o.a.c.authenticator.AuthenticatorBase    : Security checking request GET /
+2021-08-14 20:37:53.273 DEBUG 15728 --- [http-nio-8080-exec-4] org.apache.catalina.realm.RealmBase      :   No applicable constraints defined
+2021-08-14 20:37:53.273 DEBUG 15728 --- [http-nio-8080-exec-4] o.a.c.authenticator.AuthenticatorBase    : Not subject to any constraint
+2021-08-14 20:37:53.297 DEBUG 15728 --- [http-nio-8080-exec-4] org.apache.tomcat.util.net.NioEndpoint   : Registered write interest for [org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper@41619f8a:org.apache.tomcat.util.net.NioChannel@4bdb56f2:java.nio.channels.SocketChannel[connected local=/[0:0:0:0:0:0:0:1]:8080 remote=/[0:0:0:0:0:0:0:1]:61596]]
+2021-08-14 20:37:53.298 DEBUG 15728 --- [http-nio-8080-exec-4] o.a.c.c.C.[.[.[/].[dispatcherServlet]    :  Disabling the response for further output
+2021-08-14 20:37:53.300 DEBUG 15728 --- [http-nio-8080-exec-4] org.apache.tomcat.util.net.NioEndpoint   : Registered write interest for [org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper@41619f8a:org.apache.tomcat.util.net.NioChannel@4bdb56f2:java.nio.channels.SocketChannel[connected local=/[0:0:0:0:0:0:0:1]:8080 remote=/[0:0:0:0:0:0:0:1]:61596]]
+2021-08-14 20:37:53.301 DEBUG 15728 --- [http-nio-8080-exec-4] o.a.tomcat.util.net.SocketWrapperBase    : Socket: [org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper@41619f8a:org.apache.tomcat.util.net.NioChannel@4bdb56f2:java.nio.channels.SocketChannel[connected local=/[0:0:0:0:0:0:0:1]:8080 remote=/[0:0:0:0:0:0:0:1]:61596]], Read from buffer: [0]
+2021-08-14 20:37:53.302 DEBUG 15728 --- [http-nio-8080-exec-4] org.apache.tomcat.util.net.NioEndpoint   : Socket: [org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper@41619f8a:org.apache.tomcat.util.net.NioChannel@4bdb56f2:java.nio.channels.SocketChannel[connected local=/[0:0:0:0:0:0:0:1]:8080 remote=/[0:0:0:0:0:0:0:1]:61596]], Read direct from socket: [0]
+2021-08-14 20:37:53.302 DEBUG 15728 --- [http-nio-8080-exec-4] org.apache.tomcat.util.net.NioEndpoint   : Registered read interest for [org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper@41619f8a:org.apache.tomcat.util.net.NioChannel@4bdb56f2:java.nio.channels.SocketChannel[connected local=/[0:0:0:0:0:0:0:1]:8080 remote=/[0:0:0:0:0:0:0:1]:61596]]
+2021-08-14 20:37:53.483 DEBUG 15728 --- [http-nio-8080-Acceptor] o.apache.tomcat.util.threads.LimitLatch  : Counting up[http-nio-8080-Acceptor] latch=4
+2021-08-14 20:37:53.486 DEBUG 15728 --- [http-nio-8080-exec-6] o.a.tomcat.util.net.SocketWrapperBase    : Socket: [org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper@17e80c5e:org.apache.tomcat.util.net.NioChannel@192fe0d3:java.nio.channels.SocketChannel[connected local=/[0:0:0:0:0:0:0:1]:8080 remote=/[0:0:0:0:0:0:0:1]:50438]], Read from buffer: [0]
+2021-08-14 20:37:53.454 DEBUG 15728 --- [http-nio-8080-exec-5] o.a.tomcat.util.net.SocketWrapperBase    : Socket: [org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper@40bd456:org.apache.tomcat.util.net.NioChannel@5baff44e:java.nio.channels.SocketChannel[connected local=/[0:0:0:0:0:0:0:1]:8080 remote=/[0:0:0:0:0:0:0:1]:58439]], Read from buffer: [0]
+2021-08-14 20:37:54.636 DEBUG 15728 --- [http-nio-8080-exec-6] org.apache.tomcat.util.net.NioEndpoint   : Socket: [org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper@17e80c5e:org.apache.tomcat.util.net.NioChannel@192fe0d3:java.nio.channels.SocketChannel[connected local=/[0:0:0:0:0:0:0:1]:8080 remote=/[0:0:0:0:0:0:0:1]:50438]], Read direct from socket: [626]
+2021-08-14 20:37:54.636 DEBUG 15728 --- [http-nio-8080-Acceptor] o.apache.tomcat.util.threads.LimitLatch  : Counting up[http-nio-8080-Acceptor] latch=5
+2021-08-14 20:37:54.636 DEBUG 15728 --- [http-nio-8080-exec-5] org.apache.tomcat.util.net.NioEndpoint   : Socket: [org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper@40bd456:org.apache.tomcat.util.net.NioChannel@5baff44e:java.nio.channels.SocketChannel[connected local=/[0:0:0:0:0:0:0:1]:8080 remote=/[0:0:0:0:0:0:0:1]:58439]], Read direct from socket: [640]
+2021-08-14 20:37:54.636 DEBUG 15728 --- [http-nio-8080-exec-7] o.a.tomcat.util.net.SocketWrapperBase    : Socket: [org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper@41619f8a:org.apache.tomcat.util.net.NioChannel@4bdb56f2:java.nio.channels.SocketChannel[connected local=/[0:0:0:0:0:0:0:1]:8080 remote=/[0:0:0:0:0:0:0:1]:61596]], Read from buffer: [0]
+2021-08-14 20:37:54.637 DEBUG 15728 --- [http-nio-8080-exec-6] o.a.t.util.http.Rfc6265CookieProcessor   : Cookies: Parsing b[]: Idea-2825574c=f24336ef-1e75-4bda-907d-a5d2aa3f6748
+2021-08-14 20:37:54.637 DEBUG 15728 --- [http-nio-8080-exec-8] o.a.tomcat.util.net.SocketWrapperBase    : Socket: [org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper@636c39ca:org.apache.tomcat.util.net.NioChannel@6dabcbd7:java.nio.channels.SocketChannel[connected local=/[0:0:0:0:0:0:0:1]:8080 remote=/[0:0:0:0:0:0:0:1]:59982]], Read from buffer: [0]
+2021-08-14 20:37:54.637 DEBUG 15728 --- [http-nio-8080-Acceptor] o.apache.tomcat.util.threads.LimitLatch  : Counting up[http-nio-8080-Acceptor] latch=6
+2021-08-14 20:37:54.637 DEBUG 15728 --- [http-nio-8080-exec-6] o.a.c.authenticator.AuthenticatorBase    : Security checking request GET /js/libs/jquery.js
+2021-08-14 20:37:54.637 DEBUG 15728 --- [http-nio-8080-exec-7] org.apache.tomcat.util.net.NioEndpoint   : Socket: [org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper@41619f8a:org.apache.tomcat.util.net.NioChannel@4bdb56f2:java.nio.channels.SocketChannel[connected local=/[0:0:0:0:0:0:0:1]:8080 remote=/[0:0:0:0:0:0:0:1]:61596]], Read direct from socket: [645]
+2021-08-14 20:37:54.637 DEBUG 15728 --- [http-nio-8080-exec-8] org.apache.tomcat.util.net.NioEndpoint   : Socket: [org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper@636c39ca:org.apache.tomcat.util.net.NioChannel@6dabcbd7:java.nio.channels.SocketChannel[connected local=/[0:0:0:0:0:0:0:1]:8080 remote=/[0:0:0:0:0:0:0:1]:59982]], Read direct from socket: [636]
+2021-08-14 20:37:54.638 DEBUG 15728 --- [http-nio-8080-Acceptor] o.apache.tomcat.util.threads.LimitLatch  : Counting up[http-nio-8080-Acceptor] latch=7
+2021-08-14 20:37:54.637 DEBUG 15728 --- [http-nio-8080-exec-6] org.apache.catalina.realm.RealmBase      :   No applicable constraints defined
+2021-08-14 20:37:54.642 DEBUG 15728 --- [http-nio-8080-exec-7] o.a.t.util.http.Rfc6265CookieProcessor   : Cookies: Parsing b[]: Idea-2825574c=f24336ef-1e75-4bda-907d-a5d2aa3f6748
+2021-08-14 20:37:54.639 DEBUG 15728 --- [http-nio-8080-exec-10] o.a.tomcat.util.net.SocketWrapperBase    : Socket: [org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper@3bb1465b:org.apache.tomcat.util.net.NioChannel@3576af5d:java.nio.channels.SocketChannel[connected local=/[0:0:0:0:0:0:0:1]:8080 remote=/[0:0:0:0:0:0:0:1]:55484]], Read from buffer: [0]
+2021-08-14 20:37:54.644 DEBUG 15728 --- [http-nio-8080-exec-7] o.a.c.authenticator.AuthenticatorBase    : Security checking request GET /css/libs/bootstrap.css
+2021-08-14 20:37:54.645 DEBUG 15728 --- [http-nio-8080-exec-7] org.apache.catalina.realm.RealmBase      :   No applicable constraints defined
+2021-08-14 20:37:54.646 DEBUG 15728 --- [http-nio-8080-exec-10] org.apache.tomcat.util.net.NioEndpoint   : Socket: [org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper@3bb1465b:org.apache.tomcat.util.net.NioChannel@3576af5d:java.nio.channels.SocketChannel[connected local=/[0:0:0:0:0:0:0:1]:8080 remote=/[0:0:0:0:0:0:0:1]:55484]], Read direct from socket: [624]
+2021-08-14 20:37:54.646 DEBUG 15728 --- [http-nio-8080-exec-7] o.a.c.authenticator.AuthenticatorBase    : Not subject to any constraint
+2021-08-14 20:37:54.654 DEBUG 15728 --- [http-nio-8080-exec-10] org.apache.tomcat.util.http.Parameters   : Set query string encoding to UTF-8
+2021-08-14 20:37:54.639 DEBUG 15728 --- [http-nio-8080-exec-9] o.a.tomcat.util.net.SocketWrapperBase    : Socket: [org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper@33d074a1:org.apache.tomcat.util.net.NioChannel@3d178cab:java.nio.channels.SocketChannel[connected local=/[0:0:0:0:0:0:0:1]:8080 remote=/[0:0:0:0:0:0:0:1]:56738]], Read from buffer: [0]
+2021-08-14 20:37:54.638 DEBUG 15728 --- [http-nio-8080-exec-5] o.a.t.util.http.Rfc6265CookieProcessor   : Cookies: Parsing b[]: Idea-2825574c=f24336ef-1e75-4bda-907d-a5d2aa3f6748
+2021-08-14 20:37:54.643 DEBUG 15728 --- [http-nio-8080-exec-6] o.a.c.authenticator.AuthenticatorBase    : Not subject to any constraint
+2021-08-14 20:37:54.642 DEBUG 15728 --- [http-nio-8080-exec-8] org.apache.tomcat.util.http.Parameters   : Set query string encoding to UTF-8
+2021-08-14 20:37:54.655 DEBUG 15728 --- [http-nio-8080-exec-10] o.a.t.util.http.Rfc6265CookieProcessor   : Cookies: Parsing b[]: Idea-2825574c=f24336ef-1e75-4bda-907d-a5d2aa3f6748
+2021-08-14 20:37:54.680 DEBUG 15728 --- [http-nio-8080-exec-10] o.a.c.authenticator.AuthenticatorBase    : Security checking request GET /js/phoneBook.js
+2021-08-14 20:37:54.681 DEBUG 15728 --- [http-nio-8080-exec-10] org.apache.catalina.realm.RealmBase      :   No applicable constraints defined
+2021-08-14 20:37:54.681 DEBUG 15728 --- [http-nio-8080-exec-10] o.a.c.authenticator.AuthenticatorBase    : Not subject to any constraint
+2021-08-14 20:37:54.663 DEBUG 15728 --- [http-nio-8080-exec-9] org.apache.tomcat.util.net.NioEndpoint   : Socket: [org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper@33d074a1:org.apache.tomcat.util.net.NioChannel@3d178cab:java.nio.channels.SocketChannel[connected local=/[0:0:0:0:0:0:0:1]:8080 remote=/[0:0:0:0:0:0:0:1]:56738]], Read direct from socket: [623]
+2021-08-14 20:37:54.663 DEBUG 15728 --- [http-nio-8080-exec-7] org.apache.tomcat.util.net.NioEndpoint   : Registered write interest for [org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper@41619f8a:org.apache.tomcat.util.net.NioChannel@4bdb56f2:java.nio.channels.SocketChannel[connected local=/[0:0:0:0:0:0:0:1]:8080 remote=/[0:0:0:0:0:0:0:1]:61596]]
+2021-08-14 20:37:54.663 DEBUG 15728 --- [http-nio-8080-exec-5] o.a.c.authenticator.AuthenticatorBase    : Security checking request GET /css/phoneBook.css
+2021-08-14 20:37:54.665 DEBUG 15728 --- [http-nio-8080-exec-8] o.a.t.util.http.Rfc6265CookieProcessor   : Cookies: Parsing b[]: Idea-2825574c=f24336ef-1e75-4bda-907d-a5d2aa3f6748
+2021-08-14 20:37:54.685 DEBUG 15728 --- [http-nio-8080-exec-5] org.apache.catalina.realm.RealmBase      :   No applicable constraints defined
+2021-08-14 20:37:54.685 DEBUG 15728 --- [http-nio-8080-exec-8] o.a.c.authenticator.AuthenticatorBase    : Security checking request GET /js/libs/bootstrap.bundle.js
+2021-08-14 20:37:54.685 DEBUG 15728 --- [http-nio-8080-exec-5] o.a.c.authenticator.AuthenticatorBase    : Not subject to any constraint
+2021-08-14 20:37:54.685 DEBUG 15728 --- [http-nio-8080-exec-8] org.apache.catalina.realm.RealmBase      :   No applicable constraints defined
+2021-08-14 20:37:54.685 DEBUG 15728 --- [http-nio-8080-exec-7] org.apache.tomcat.util.net.NioEndpoint   : Registered write interest for [org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper@41619f8a:org.apache.tomcat.util.net.NioChannel@4bdb56f2:java.nio.channels.SocketChannel[connected local=/[0:0:0:0:0:0:0:1]:8080 remote=/[0:0:0:0:0:0:0:1]:61596]]
+2021-08-14 20:37:54.685 DEBUG 15728 --- [http-nio-8080-exec-8] o.a.c.authenticator.AuthenticatorBase    : Not subject to any constraint
+2021-08-14 20:37:54.683 DEBUG 15728 --- [http-nio-8080-exec-6] org.apache.tomcat.util.net.NioEndpoint   : Registered write interest for [org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper@17e80c5e:org.apache.tomcat.util.net.NioChannel@192fe0d3:java.nio.channels.SocketChannel[connected local=/[0:0:0:0:0:0:0:1]:8080 remote=/[0:0:0:0:0:0:0:1]:50438]]
+2021-08-14 20:37:54.689 DEBUG 15728 --- [http-nio-8080-exec-9] org.apache.tomcat.util.http.Parameters   : Set query string encoding to UTF-8
+2021-08-14 20:37:54.694 DEBUG 15728 --- [http-nio-8080-exec-6] org.apache.tomcat.util.net.NioEndpoint   : Registered write interest for [org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper@17e80c5e:org.apache.tomcat.util.net.NioChannel@192fe0d3:java.nio.channels.SocketChannel[connected local=/[0:0:0:0:0:0:0:1]:8080 remote=/[0:0:0:0:0:0:0:1]:50438]]
+2021-08-14 20:37:54.698 DEBUG 15728 --- [http-nio-8080-exec-8] org.apache.tomcat.util.net.NioEndpoint   : Registered write interest for [org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper@636c39ca:org.apache.tomcat.util.net.NioChannel@6dabcbd7:java.nio.channels.SocketChannel[connected local=/[0:0:0:0:0:0:0:1]:8080 remote=/[0:0:0:0:0:0:0:1]:59982]]
+2021-08-14 20:37:54.695 DEBUG 15728 --- [http-nio-8080-exec-5] org.apache.tomcat.util.net.NioEndpoint   : Registered write interest for [org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper@40bd456:org.apache.tomcat.util.net.NioChannel@5baff44e:java.nio.channels.SocketChannel[connected local=/[0:0:0:0:0:0:0:1]:8080 remote=/[0:0:0:0:0:0:0:1]:58439]]
+2021-08-14 20:37:54.691 DEBUG 15728 --- [http-nio-8080-exec-10] org.apache.tomcat.util.net.NioEndpoint   : Registered write interest for [org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper@3bb1465b:org.apache.tomcat.util.net.NioChannel@3576af5d:java.nio.channels.SocketChannel[connected local=/[0:0:0:0:0:0:0:1]:8080 remote=/[0:0:0:0:0:0:0:1]:55484]]
+2021-08-14 20:37:54.686 DEBUG 15728 --- [http-nio-8080-exec-7] o.a.tomcat.util.net.SocketWrapperBase    : Socket: [org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper@41619f8a:org.apache.tomcat.util.net.NioChannel@4bdb56f2:java.nio.channels.SocketChannel[connected local=/[0:0:0:0:0:0:0:1]:8080 remote=/[0:0:0:0:0:0:0:1]:61596]], Read from buffer: [0]
+2021-08-14 20:37:54.762 DEBUG 15728 --- [http-nio-8080-exec-7] org.apache.tomcat.util.net.NioEndpoint   : Socket: [org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper@41619f8a:org.apache.tomcat.util.net.NioChannel@4bdb56f2:java.nio.channels.SocketChannel[connected local=/[0:0:0:0:0:0:0:1]:8080 remote=/[0:0:0:0:0:0:0:1]:61596]], Read direct from socket: [0]
+2021-08-14 20:37:54.763 DEBUG 15728 --- [http-nio-8080-exec-6] o.a.tomcat.util.net.SocketWrapperBase    : Socket: [org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper@17e80c5e:org.apache.tomcat.util.net.NioChannel@192fe0d3:java.nio.channels.SocketChannel[connected local=/[0:0:0:0:0:0:0:1]:8080 remote=/[0:0:0:0:0:0:0:1]:50438]], Read from buffer: [0]
+2021-08-14 20:37:54.763 DEBUG 15728 --- [http-nio-8080-exec-7] org.apache.tomcat.util.net.NioEndpoint   : Registered read interest for [org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper@41619f8a:org.apache.tomcat.util.net.NioChannel@4bdb56f2:java.nio.channels.SocketChannel[connected local=/[0:0:0:0:0:0:0:1]:8080 remote=/[0:0:0:0:0:0:0:1]:61596]]
+2021-08-14 20:37:54.763 DEBUG 15728 --- [http-nio-8080-exec-5] org.apache.tomcat.util.net.NioEndpoint   : Registered write interest for [org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper@40bd456:org.apache.tomcat.util.net.NioChannel@5baff44e:java.nio.channels.SocketChannel[connected local=/[0:0:0:0:0:0:0:1]:8080 remote=/[0:0:0:0:0:0:0:1]:58439]]
+2021-08-14 20:37:54.762 DEBUG 15728 --- [http-nio-8080-exec-9] o.a.t.util.http.Rfc6265CookieProcessor   : Cookies: Parsing b[]: Idea-2825574c=f24336ef-1e75-4bda-907d-a5d2aa3f6748
+2021-08-14 20:37:54.763 DEBUG 15728 --- [http-nio-8080-exec-8] org.apache.tomcat.util.net.NioEndpoint   : Registered write interest for [org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper@636c39ca:org.apache.tomcat.util.net.NioChannel@6dabcbd7:java.nio.channels.SocketChannel[connected local=/[0:0:0:0:0:0:0:1]:8080 remote=/[0:0:0:0:0:0:0:1]:59982]]
+2021-08-14 20:37:54.766 DEBUG 15728 --- [http-nio-8080-exec-8] o.a.tomcat.util.net.SocketWrapperBase    : Socket: [org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper@636c39ca:org.apache.tomcat.util.net.NioChannel@6dabcbd7:java.nio.channels.SocketChannel[connected local=/[0:0:0:0:0:0:0:1]:8080 remote=/[0:0:0:0:0:0:0:1]:59982]], Read from buffer: [0]
+2021-08-14 20:37:54.767 DEBUG 15728 --- [http-nio-8080-exec-8] org.apache.tomcat.util.net.NioEndpoint   : Socket: [org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper@636c39ca:org.apache.tomcat.util.net.NioChannel@6dabcbd7:java.nio.channels.SocketChannel[connected local=/[0:0:0:0:0:0:0:1]:8080 remote=/[0:0:0:0:0:0:0:1]:59982]], Read direct from socket: [0]
+2021-08-14 20:37:54.767 DEBUG 15728 --- [http-nio-8080-exec-8] org.apache.tomcat.util.net.NioEndpoint   : Registered read interest for [org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper@636c39ca:org.apache.tomcat.util.net.NioChannel@6dabcbd7:java.nio.channels.SocketChannel[connected local=/[0:0:0:0:0:0:0:1]:8080 remote=/[0:0:0:0:0:0:0:1]:59982]]
+2021-08-14 20:37:54.763 DEBUG 15728 --- [http-nio-8080-exec-6] org.apache.tomcat.util.net.NioEndpoint   : Socket: [org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper@17e80c5e:org.apache.tomcat.util.net.NioChannel@192fe0d3:java.nio.channels.SocketChannel[connected local=/[0:0:0:0:0:0:0:1]:8080 remote=/[0:0:0:0:0:0:0:1]:50438]], Read direct from socket: [0]
+2021-08-14 20:37:54.771 DEBUG 15728 --- [http-nio-8080-exec-6] org.apache.tomcat.util.net.NioEndpoint   : Registered read interest for [org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper@17e80c5e:org.apache.tomcat.util.net.NioChannel@192fe0d3:java.nio.channels.SocketChannel[connected local=/[0:0:0:0:0:0:0:1]:8080 remote=/[0:0:0:0:0:0:0:1]:50438]]
+2021-08-14 20:37:54.764 DEBUG 15728 --- [http-nio-8080-exec-10] org.apache.tomcat.util.net.NioEndpoint   : Registered write interest for [org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper@3bb1465b:org.apache.tomcat.util.net.NioChannel@3576af5d:java.nio.channels.SocketChannel[connected local=/[0:0:0:0:0:0:0:1]:8080 remote=/[0:0:0:0:0:0:0:1]:55484]]
+2021-08-14 20:37:54.764 DEBUG 15728 --- [http-nio-8080-exec-9] o.a.c.authenticator.AuthenticatorBase    : Security checking request GET /js/libs/vue.js
+2021-08-14 20:37:54.764 DEBUG 15728 --- [http-nio-8080-exec-5] o.a.tomcat.util.net.SocketWrapperBase    : Socket: [org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper@40bd456:org.apache.tomcat.util.net.NioChannel@5baff44e:java.nio.channels.SocketChannel[connected local=/[0:0:0:0:0:0:0:1]:8080 remote=/[0:0:0:0:0:0:0:1]:58439]], Read from buffer: [0]
+2021-08-14 20:37:54.773 DEBUG 15728 --- [http-nio-8080-exec-5] org.apache.tomcat.util.net.NioEndpoint   : Socket: [org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper@40bd456:org.apache.tomcat.util.net.NioChannel@5baff44e:java.nio.channels.SocketChannel[connected local=/[0:0:0:0:0:0:0:1]:8080 remote=/[0:0:0:0:0:0:0:1]:58439]], Read direct from socket: [0]
+2021-08-14 20:37:54.776 DEBUG 15728 --- [http-nio-8080-exec-5] org.apache.tomcat.util.net.NioEndpoint   : Registered read interest for [org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper@40bd456:org.apache.tomcat.util.net.NioChannel@5baff44e:java.nio.channels.SocketChannel[connected local=/[0:0:0:0:0:0:0:1]:8080 remote=/[0:0:0:0:0:0:0:1]:58439]]
+2021-08-14 20:37:54.772 DEBUG 15728 --- [http-nio-8080-exec-9] org.apache.catalina.realm.RealmBase      :   No applicable constraints defined
+2021-08-14 20:37:54.777 DEBUG 15728 --- [http-nio-8080-exec-9] o.a.c.authenticator.AuthenticatorBase    : Not subject to any constraint
+2021-08-14 20:37:54.777 DEBUG 15728 --- [http-nio-8080-exec-10] o.a.tomcat.util.net.SocketWrapperBase    : Socket: [org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper@3bb1465b:org.apache.tomcat.util.net.NioChannel@3576af5d:java.nio.channels.SocketChannel[connected local=/[0:0:0:0:0:0:0:1]:8080 remote=/[0:0:0:0:0:0:0:1]:55484]], Read from buffer: [0]
+2021-08-14 20:37:54.779 DEBUG 15728 --- [http-nio-8080-exec-10] org.apache.tomcat.util.net.NioEndpoint   : Socket: [org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper@3bb1465b:org.apache.tomcat.util.net.NioChannel@3576af5d:java.nio.channels.SocketChannel[connected local=/[0:0:0:0:0:0:0:1]:8080 remote=/[0:0:0:0:0:0:0:1]:55484]], Read direct from socket: [0]
+2021-08-14 20:37:54.780 DEBUG 15728 --- [http-nio-8080-exec-10] org.apache.tomcat.util.net.NioEndpoint   : Registered read interest for [org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper@3bb1465b:org.apache.tomcat.util.net.NioChannel@3576af5d:java.nio.channels.SocketChannel[connected local=/[0:0:0:0:0:0:0:1]:8080 remote=/[0:0:0:0:0:0:0:1]:55484]]
+2021-08-14 20:37:54.793 DEBUG 15728 --- [http-nio-8080-exec-9] org.apache.tomcat.util.net.NioEndpoint   : Registered write interest for [org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper@33d074a1:org.apache.tomcat.util.net.NioChannel@3d178cab:java.nio.channels.SocketChannel[connected local=/[0:0:0:0:0:0:0:1]:8080 remote=/[0:0:0:0:0:0:0:1]:56738]]
+2021-08-14 20:37:54.796 DEBUG 15728 --- [http-nio-8080-exec-9] org.apache.tomcat.util.net.NioEndpoint   : Registered write interest for [org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper@33d074a1:org.apache.tomcat.util.net.NioChannel@3d178cab:java.nio.channels.SocketChannel[connected local=/[0:0:0:0:0:0:0:1]:8080 remote=/[0:0:0:0:0:0:0:1]:56738]]
+2021-08-14 20:37:54.798 DEBUG 15728 --- [http-nio-8080-exec-9] o.a.tomcat.util.net.SocketWrapperBase    : Socket: [org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper@33d074a1:org.apache.tomcat.util.net.NioChannel@3d178cab:java.nio.channels.SocketChannel[connected local=/[0:0:0:0:0:0:0:1]:8080 remote=/[0:0:0:0:0:0:0:1]:56738]], Read from buffer: [0]
+2021-08-14 20:37:54.798 DEBUG 15728 --- [http-nio-8080-exec-9] org.apache.tomcat.util.net.NioEndpoint   : Socket: [org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper@33d074a1:org.apache.tomcat.util.net.NioChannel@3d178cab:java.nio.channels.SocketChannel[connected local=/[0:0:0:0:0:0:0:1]:8080 remote=/[0:0:0:0:0:0:0:1]:56738]], Read direct from socket: [0]
+2021-08-14 20:37:54.799 DEBUG 15728 --- [http-nio-8080-exec-9] org.apache.tomcat.util.net.NioEndpoint   : Registered read interest for [org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper@33d074a1:org.apache.tomcat.util.net.NioChannel@3d178cab:java.nio.channels.SocketChannel[connected local=/[0:0:0:0:0:0:0:1]:8080 remote=/[0:0:0:0:0:0:0:1]:56738]]
+2021-08-14 20:37:54.828 DEBUG 15728 --- [http-nio-8080-exec-2] o.a.tomcat.util.net.SocketWrapperBase    : Socket: [org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper@33d074a1:org.apache.tomcat.util.net.NioChannel@3d178cab:java.nio.channels.SocketChannel[connected local=/[0:0:0:0:0:0:0:1]:8080 remote=/[0:0:0:0:0:0:0:1]:56738]], Read from buffer: [0]
+2021-08-14 20:37:54.829 DEBUG 15728 --- [http-nio-8080-exec-2] org.apache.tomcat.util.net.NioEndpoint   : Socket: [org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper@33d074a1:org.apache.tomcat.util.net.NioChannel@3d178cab:java.nio.channels.SocketChannel[connected local=/[0:0:0:0:0:0:0:1]:8080 remote=/[0:0:0:0:0:0:0:1]:56738]], Read direct from socket: [489]
+2021-08-14 20:37:54.830 DEBUG 15728 --- [http-nio-8080-exec-2] o.a.t.util.http.Rfc6265CookieProcessor   : Cookies: Parsing b[]: Idea-2825574c=f24336ef-1e75-4bda-907d-a5d2aa3f6748
+2021-08-14 20:37:54.831 DEBUG 15728 --- [http-nio-8080-exec-2] o.a.c.authenticator.AuthenticatorBase    : Security checking request GET /css/libs/bootstrap.css.map
+2021-08-14 20:37:54.831 DEBUG 15728 --- [http-nio-8080-exec-2] org.apache.catalina.realm.RealmBase      :   No applicable constraints defined
+2021-08-14 20:37:54.832 DEBUG 15728 --- [http-nio-8080-exec-2] o.a.c.authenticator.AuthenticatorBase    : Not subject to any constraint
+2021-08-14 20:37:54.841 DEBUG 15728 --- [http-nio-8080-exec-2] o.a.c.c.C.[Tomcat].[localhost]           : Processing ErrorPage[errorCode=0, location=/error]
+2021-08-14 20:37:54.894 DEBUG 15728 --- [http-nio-8080-exec-2] org.apache.tomcat.util.net.NioEndpoint   : Registered write interest for [org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper@33d074a1:org.apache.tomcat.util.net.NioChannel@3d178cab:java.nio.channels.SocketChannel[connected local=/[0:0:0:0:0:0:0:1]:8080 remote=/[0:0:0:0:0:0:0:1]:56738]]
+2021-08-14 20:37:54.896 DEBUG 15728 --- [http-nio-8080-exec-2] org.apache.tomcat.util.net.NioEndpoint   : Registered write interest for [org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper@33d074a1:org.apache.tomcat.util.net.NioChannel@3d178cab:java.nio.channels.SocketChannel[connected local=/[0:0:0:0:0:0:0:1]:8080 remote=/[0:0:0:0:0:0:0:1]:56738]]
+2021-08-14 20:37:54.897 DEBUG 15728 --- [http-nio-8080-exec-2] org.apache.tomcat.util.net.NioEndpoint   : Registered write interest for [org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper@33d074a1:org.apache.tomcat.util.net.NioChannel@3d178cab:java.nio.channels.SocketChannel[connected local=/[0:0:0:0:0:0:0:1]:8080 remote=/[0:0:0:0:0:0:0:1]:56738]]
+2021-08-14 20:37:54.900 DEBUG 15728 --- [http-nio-8080-exec-2] o.a.c.c.C.[.[.[/].[dispatcherServlet]    :  Disabling the response for further output
+2021-08-14 20:37:54.903 DEBUG 15728 --- [http-nio-8080-exec-2] o.a.tomcat.util.net.SocketWrapperBase    : Socket: [org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper@33d074a1:org.apache.tomcat.util.net.NioChannel@3d178cab:java.nio.channels.SocketChannel[connected local=/[0:0:0:0:0:0:0:1]:8080 remote=/[0:0:0:0:0:0:0:1]:56738]], Read from buffer: [0]
+2021-08-14 20:37:54.911 DEBUG 15728 --- [http-nio-8080-exec-2] org.apache.tomcat.util.net.NioEndpoint   : Socket: [org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper@33d074a1:org.apache.tomcat.util.net.NioChannel@3d178cab:java.nio.channels.SocketChannel[connected local=/[0:0:0:0:0:0:0:1]:8080 remote=/[0:0:0:0:0:0:0:1]:56738]], Read direct from socket: [0]
+2021-08-14 20:37:54.913 DEBUG 15728 --- [http-nio-8080-exec-2] org.apache.tomcat.util.net.NioEndpoint   : Registered read interest for [org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper@33d074a1:org.apache.tomcat.util.net.NioChannel@3d178cab:java.nio.channels.SocketChannel[connected local=/[0:0:0:0:0:0:0:1]:8080 remote=/[0:0:0:0:0:0:0:1]:56738]]
+2021-08-14 20:37:54.928 DEBUG 15728 --- [http-nio-8080-exec-1] o.a.tomcat.util.net.SocketWrapperBase    : Socket: [org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper@33d074a1:org.apache.tomcat.util.net.NioChannel@3d178cab:java.nio.channels.SocketChannel[connected local=/[0:0:0:0:0:0:0:1]:8080 remote=/[0:0:0:0:0:0:0:1]:56738]], Read from buffer: [0]
+2021-08-14 20:37:54.929 DEBUG 15728 --- [http-nio-8080-exec-1] org.apache.tomcat.util.net.NioEndpoint   : Socket: [org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper@33d074a1:org.apache.tomcat.util.net.NioChannel@3d178cab:java.nio.channels.SocketChannel[connected local=/[0:0:0:0:0:0:0:1]:8080 remote=/[0:0:0:0:0:0:0:1]:56738]], Read direct from socket: [494]
+2021-08-14 20:37:54.933 DEBUG 15728 --- [http-nio-8080-exec-1] o.a.t.util.http.Rfc6265CookieProcessor   : Cookies: Parsing b[]: Idea-2825574c=f24336ef-1e75-4bda-907d-a5d2aa3f6748
+2021-08-14 20:37:54.937 DEBUG 15728 --- [http-nio-8080-exec-1] o.a.c.authenticator.AuthenticatorBase    : Security checking request GET /js/libs/bootstrap.bundle.js.map
+2021-08-14 20:37:54.937 DEBUG 15728 --- [http-nio-8080-exec-1] org.apache.catalina.realm.RealmBase      :   No applicable constraints defined
+2021-08-14 20:37:54.938 DEBUG 15728 --- [http-nio-8080-exec-1] o.a.c.authenticator.AuthenticatorBase    : Not subject to any constraint
+2021-08-14 20:37:54.950 DEBUG 15728 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost]           : Processing ErrorPage[errorCode=0, location=/error]
+2021-08-14 20:37:54.957 DEBUG 15728 --- [http-nio-8080-exec-1] org.apache.tomcat.util.net.NioEndpoint   : Registered write interest for [org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper@33d074a1:org.apache.tomcat.util.net.NioChannel@3d178cab:java.nio.channels.SocketChannel[connected local=/[0:0:0:0:0:0:0:1]:8080 remote=/[0:0:0:0:0:0:0:1]:56738]]
+2021-08-14 20:37:54.960 DEBUG 15728 --- [http-nio-8080-exec-1] org.apache.tomcat.util.net.NioEndpoint   : Registered write interest for [org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper@33d074a1:org.apache.tomcat.util.net.NioChannel@3d178cab:java.nio.channels.SocketChannel[connected local=/[0:0:0:0:0:0:0:1]:8080 remote=/[0:0:0:0:0:0:0:1]:56738]]
+2021-08-14 20:37:54.967 DEBUG 15728 --- [http-nio-8080-exec-1] org.apache.tomcat.util.net.NioEndpoint   : Registered write interest for [org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper@33d074a1:org.apache.tomcat.util.net.NioChannel@3d178cab:java.nio.channels.SocketChannel[connected local=/[0:0:0:0:0:0:0:1]:8080 remote=/[0:0:0:0:0:0:0:1]:56738]]
+2021-08-14 20:37:54.971 DEBUG 15728 --- [http-nio-8080-exec-1] o.a.c.c.C.[.[.[/].[dispatcherServlet]    :  Disabling the response for further output
+2021-08-14 20:37:54.977 DEBUG 15728 --- [http-nio-8080-exec-1] o.a.tomcat.util.net.SocketWrapperBase    : Socket: [org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper@33d074a1:org.apache.tomcat.util.net.NioChannel@3d178cab:java.nio.channels.SocketChannel[connected local=/[0:0:0:0:0:0:0:1]:8080 remote=/[0:0:0:0:0:0:0:1]:56738]], Read from buffer: [0]
+2021-08-14 20:37:54.979 DEBUG 15728 --- [http-nio-8080-exec-1] o.apache.tomcat.util.threads.LimitLatch  : Counting down[http-nio-8080-exec-1] latch=7
+2021-08-14 20:37:54.979 DEBUG 15728 --- [http-nio-8080-exec-1] org.apache.tomcat.util.net.NioEndpoint   : Calling [org.apache.tomcat.util.net.NioEndpoint@5d1471d5].closeSocket([org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper@33d074a1:org.apache.tomcat.util.net.NioChannel@3d178cab:java.nio.channels.SocketChannel[connected local=/[0:0:0:0:0:0:0:1]:8080 remote=/[0:0:0:0:0:0:0:1]:56738]])
+2021-08-14 20:37:55.013 DEBUG 15728 --- [http-nio-8080-exec-3] o.a.tomcat.util.net.SocketWrapperBase    : Socket: [org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper@17e80c5e:org.apache.tomcat.util.net.NioChannel@192fe0d3:java.nio.channels.SocketChannel[connected local=/[0:0:0:0:0:0:0:1]:8080 remote=/[0:0:0:0:0:0:0:1]:50438]], Read from buffer: [0]
+2021-08-14 20:37:55.015 DEBUG 15728 --- [http-nio-8080-exec-3] org.apache.tomcat.util.net.NioEndpoint   : Socket: [org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper@17e80c5e:org.apache.tomcat.util.net.NioChannel@192fe0d3:java.nio.channels.SocketChannel[connected local=/[0:0:0:0:0:0:0:1]:8080 remote=/[0:0:0:0:0:0:0:1]:50438]], Read direct from socket: [674]
+2021-08-14 20:37:55.017 DEBUG 15728 --- [http-nio-8080-exec-3] o.a.t.util.http.Rfc6265CookieProcessor   : Cookies: Parsing b[]: Idea-2825574c=f24336ef-1e75-4bda-907d-a5d2aa3f6748
+2021-08-14 20:37:55.018 DEBUG 15728 --- [http-nio-8080-exec-3] o.a.c.authenticator.AuthenticatorBase    : Security checking request GET /phoneBook/rpc/api/v1/getAllContacts
+2021-08-14 20:37:55.019 DEBUG 15728 --- [http-nio-8080-exec-3] org.apache.catalina.realm.RealmBase      :   No applicable constraints defined
+2021-08-14 20:37:55.020 DEBUG 15728 --- [http-nio-8080-exec-3] o.a.c.authenticator.AuthenticatorBase    : Not subject to any constraint
+2021-08-14 20:37:55.022  INFO 15728 --- [http-nio-8080-exec-3] r.a.n.phonebook.PhoneBookController      : Called method getAllContacts in PhoneBookController
+2021-08-14 20:37:55.026 DEBUG 15728 --- [http-nio-8080-exec-3] org.apache.tomcat.util.net.NioEndpoint   : Registered write interest for [org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper@17e80c5e:org.apache.tomcat.util.net.NioChannel@192fe0d3:java.nio.channels.SocketChannel[connected local=/[0:0:0:0:0:0:0:1]:8080 remote=/[0:0:0:0:0:0:0:1]:50438]]
+2021-08-14 20:37:55.029 DEBUG 15728 --- [http-nio-8080-exec-3] org.apache.tomcat.util.net.NioEndpoint   : Registered write interest for [org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper@17e80c5e:org.apache.tomcat.util.net.NioChannel@192fe0d3:java.nio.channels.SocketChannel[connected local=/[0:0:0:0:0:0:0:1]:8080 remote=/[0:0:0:0:0:0:0:1]:50438]]
+2021-08-14 20:37:55.032 DEBUG 15728 --- [http-nio-8080-exec-3] o.a.tomcat.util.net.SocketWrapperBase    : Socket: [org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper@17e80c5e:org.apache.tomcat.util.net.NioChannel@192fe0d3:java.nio.channels.SocketChannel[connected local=/[0:0:0:0:0:0:0:1]:8080 remote=/[0:0:0:0:0:0:0:1]:50438]], Read from buffer: [0]
+2021-08-14 20:37:55.033 DEBUG 15728 --- [http-nio-8080-exec-3] org.apache.tomcat.util.net.NioEndpoint   : Socket: [org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper@17e80c5e:org.apache.tomcat.util.net.NioChannel@192fe0d3:java.nio.channels.SocketChannel[connected local=/[0:0:0:0:0:0:0:1]:8080 remote=/[0:0:0:0:0:0:0:1]:50438]], Read direct from socket: [0]
+2021-08-14 20:37:55.034 DEBUG 15728 --- [http-nio-8080-exec-3] org.apache.tomcat.util.net.NioEndpoint   : Registered read interest for [org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper@17e80c5e:org.apache.tomcat.util.net.NioChannel@192fe0d3:java.nio.channels.SocketChannel[connected local=/[0:0:0:0:0:0:0:1]:8080 remote=/[0:0:0:0:0:0:0:1]:50438]]
+2021-08-14 20:37:55.153 DEBUG 15728 --- [http-nio-8080-exec-4] o.a.tomcat.util.net.SocketWrapperBase    : Socket: [org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper@17e80c5e:org.apache.tomcat.util.net.NioChannel@192fe0d3:java.nio.channels.SocketChannel[connected local=/[0:0:0:0:0:0:0:1]:8080 remote=/[0:0:0:0:0:0:0:1]:50438]], Read from buffer: [0]
+2021-08-14 20:37:55.154 DEBUG 15728 --- [http-nio-8080-exec-4] org.apache.tomcat.util.net.NioEndpoint   : Socket: [org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper@17e80c5e:org.apache.tomcat.util.net.NioChannel@192fe0d3:java.nio.channels.SocketChannel[connected local=/[0:0:0:0:0:0:0:1]:8080 remote=/[0:0:0:0:0:0:0:1]:50438]], Read direct from socket: [698]
+2021-08-14 20:37:55.155 DEBUG 15728 --- [http-nio-8080-exec-4] o.a.t.util.http.Rfc6265CookieProcessor   : Cookies: Parsing b[]: Idea-2825574c=f24336ef-1e75-4bda-907d-a5d2aa3f6748
+2021-08-14 20:37:55.156 DEBUG 15728 --- [http-nio-8080-exec-4] o.a.c.authenticator.AuthenticatorBase    : Security checking request GET /images/unchecked_checkbox.ico
+2021-08-14 20:37:55.157 DEBUG 15728 --- [http-nio-8080-exec-4] org.apache.catalina.realm.RealmBase      :   No applicable constraints defined
+2021-08-14 20:37:55.158 DEBUG 15728 --- [http-nio-8080-exec-4] o.a.c.authenticator.AuthenticatorBase    : Not subject to any constraint
+2021-08-14 20:37:55.169 DEBUG 15728 --- [http-nio-8080-exec-4] org.apache.tomcat.util.net.NioEndpoint   : Registered write interest for [org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper@17e80c5e:org.apache.tomcat.util.net.NioChannel@192fe0d3:java.nio.channels.SocketChannel[connected local=/[0:0:0:0:0:0:0:1]:8080 remote=/[0:0:0:0:0:0:0:1]:50438]]
+2021-08-14 20:37:55.172 DEBUG 15728 --- [http-nio-8080-exec-4] org.apache.tomcat.util.net.NioEndpoint   : Registered write interest for [org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper@17e80c5e:org.apache.tomcat.util.net.NioChannel@192fe0d3:java.nio.channels.SocketChannel[connected local=/[0:0:0:0:0:0:0:1]:8080 remote=/[0:0:0:0:0:0:0:1]:50438]]
+2021-08-14 20:37:55.176 DEBUG 15728 --- [http-nio-8080-exec-4] o.a.tomcat.util.net.SocketWrapperBase    : Socket: [org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper@17e80c5e:org.apache.tomcat.util.net.NioChannel@192fe0d3:java.nio.channels.SocketChannel[connected local=/[0:0:0:0:0:0:0:1]:8080 remote=/[0:0:0:0:0:0:0:1]:50438]], Read from buffer: [0]
+2021-08-14 20:37:55.177 DEBUG 15728 --- [http-nio-8080-exec-4] org.apache.tomcat.util.net.NioEndpoint   : Socket: [org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper@17e80c5e:org.apache.tomcat.util.net.NioChannel@192fe0d3:java.nio.channels.SocketChannel[connected local=/[0:0:0:0:0:0:0:1]:8080 remote=/[0:0:0:0:0:0:0:1]:50438]], Read direct from socket: [0]
+2021-08-14 20:37:55.181 DEBUG 15728 --- [http-nio-8080-exec-4] org.apache.tomcat.util.net.NioEndpoint   : Registered read interest for [org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper@17e80c5e:org.apache.tomcat.util.net.NioChannel@192fe0d3:java.nio.channels.SocketChannel[connected local=/[0:0:0:0:0:0:0:1]:8080 remote=/[0:0:0:0:0:0:0:1]:50438]]
+2021-08-14 20:37:56.322 DEBUG 15728 --- [http-nio-8080-exec-7] o.a.tomcat.util.net.SocketWrapperBase    : Socket: [org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper@40bd456:org.apache.tomcat.util.net.NioChannel@5baff44e:java.nio.channels.SocketChannel[connected local=/[0:0:0:0:0:0:0:1]:8080 remote=/[0:0:0:0:0:0:0:1]:58439]], Read from buffer: [0]
+2021-08-14 20:37:56.322 DEBUG 15728 --- [http-nio-8080-exec-8] o.a.tomcat.util.net.SocketWrapperBase    : Socket: [org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper@17e80c5e:org.apache.tomcat.util.net.NioChannel@192fe0d3:java.nio.channels.SocketChannel[connected local=/[0:0:0:0:0:0:0:1]:8080 remote=/[0:0:0:0:0:0:0:1]:50438]], Read from buffer: [0]
+2021-08-14 20:37:56.322 DEBUG 15728 --- [http-nio-8080-exec-10] o.a.tomcat.util.net.SocketWrapperBase    : Socket: [org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper@3bb1465b:org.apache.tomcat.util.net.NioChannel@3576af5d:java.nio.channels.SocketChannel[connected local=/[0:0:0:0:0:0:0:1]:8080 remote=/[0:0:0:0:0:0:0:1]:55484]], Read from buffer: [0]
+2021-08-14 20:37:56.322 DEBUG 15728 --- [http-nio-8080-exec-5] o.a.tomcat.util.net.SocketWrapperBase    : Socket: [org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper@636c39ca:org.apache.tomcat.util.net.NioChannel@6dabcbd7:java.nio.channels.SocketChannel[connected local=/[0:0:0:0:0:0:0:1]:8080 remote=/[0:0:0:0:0:0:0:1]:59982]], Read from buffer: [0]
+2021-08-14 20:37:56.322 DEBUG 15728 --- [http-nio-8080-exec-6] o.a.tomcat.util.net.SocketWrapperBase    : Socket: [org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper@41619f8a:org.apache.tomcat.util.net.NioChannel@4bdb56f2:java.nio.channels.SocketChannel[connected local=/[0:0:0:0:0:0:0:1]:8080 remote=/[0:0:0:0:0:0:0:1]:61596]], Read from buffer: [0]
+2021-08-14 20:37:56.326 DEBUG 15728 --- [http-nio-8080-exec-7] o.apache.tomcat.util.threads.LimitLatch  : Counting down[http-nio-8080-exec-7] latch=3
+2021-08-14 20:37:56.326 DEBUG 15728 --- [http-nio-8080-exec-10] o.apache.tomcat.util.threads.LimitLatch  : Counting down[http-nio-8080-exec-10] latch=3
+2021-08-14 20:37:56.326 DEBUG 15728 --- [http-nio-8080-exec-5] o.apache.tomcat.util.threads.LimitLatch  : Counting down[http-nio-8080-exec-5] latch=2
+2021-08-14 20:37:56.326 DEBUG 15728 --- [http-nio-8080-exec-6] o.apache.tomcat.util.threads.LimitLatch  : Counting down[http-nio-8080-exec-6] latch=3
+2021-08-14 20:37:56.326 DEBUG 15728 --- [http-nio-8080-exec-8] o.apache.tomcat.util.threads.LimitLatch  : Counting down[http-nio-8080-exec-8] latch=3
+2021-08-14 20:37:56.327 DEBUG 15728 --- [http-nio-8080-exec-10] org.apache.tomcat.util.net.NioEndpoint   : Calling [org.apache.tomcat.util.net.NioEndpoint@5d1471d5].closeSocket([org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper@3bb1465b:org.apache.tomcat.util.net.NioChannel@3576af5d:java.nio.channels.SocketChannel[connected local=/[0:0:0:0:0:0:0:1]:8080 remote=/[0:0:0:0:0:0:0:1]:55484]])
+2021-08-14 20:37:56.327 DEBUG 15728 --- [http-nio-8080-exec-6] org.apache.tomcat.util.net.NioEndpoint   : Calling [org.apache.tomcat.util.net.NioEndpoint@5d1471d5].closeSocket([org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper@41619f8a:org.apache.tomcat.util.net.NioChannel@4bdb56f2:java.nio.channels.SocketChannel[connected local=/[0:0:0:0:0:0:0:1]:8080 remote=/[0:0:0:0:0:0:0:1]:61596]])
+2021-08-14 20:37:56.327 DEBUG 15728 --- [http-nio-8080-exec-5] org.apache.tomcat.util.net.NioEndpoint   : Calling [org.apache.tomcat.util.net.NioEndpoint@5d1471d5].closeSocket([org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper@636c39ca:org.apache.tomcat.util.net.NioChannel@6dabcbd7:java.nio.channels.SocketChannel[connected local=/[0:0:0:0:0:0:0:1]:8080 remote=/[0:0:0:0:0:0:0:1]:59982]])
+2021-08-14 20:37:56.327 DEBUG 15728 --- [http-nio-8080-exec-7] org.apache.tomcat.util.net.NioEndpoint   : Calling [org.apache.tomcat.util.net.NioEndpoint@5d1471d5].closeSocket([org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper@40bd456:org.apache.tomcat.util.net.NioChannel@5baff44e:java.nio.channels.SocketChannel[connected local=/[0:0:0:0:0:0:0:1]:8080 remote=/[0:0:0:0:0:0:0:1]:58439]])
+2021-08-14 20:37:56.327 DEBUG 15728 --- [http-nio-8080-exec-8] org.apache.tomcat.util.net.NioEndpoint   : Calling [org.apache.tomcat.util.net.NioEndpoint@5d1471d5].closeSocket([org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper@17e80c5e:org.apache.tomcat.util.net.NioChannel@192fe0d3:java.nio.channels.SocketChannel[connected local=/[0:0:0:0:0:0:0:1]:8080 remote=/[0:0:0:0:0:0:0:1]:50438]])
+2021-08-14 20:38:03.490 DEBUG 15728 --- [http-nio-8080-Acceptor] o.apache.tomcat.util.threads.LimitLatch  : Counting up[http-nio-8080-Acceptor] latch=2
+2021-08-14 20:38:03.491 DEBUG 15728 --- [http-nio-8080-exec-9] o.a.tomcat.util.net.SocketWrapperBase    : Socket: [org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper@39281fd1:org.apache.tomcat.util.net.NioChannel@192fe0d3:java.nio.channels.SocketChannel[connected local=/[0:0:0:0:0:0:0:1]:8080 remote=/[0:0:0:0:0:0:0:1]:56145]], Read from buffer: [0]
+2021-08-14 20:38:03.491 DEBUG 15728 --- [http-nio-8080-exec-9] org.apache.tomcat.util.net.NioEndpoint   : Socket: [org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper@39281fd1:org.apache.tomcat.util.net.NioChannel@192fe0d3:java.nio.channels.SocketChannel[connected local=/[0:0:0:0:0:0:0:1]:8080 remote=/[0:0:0:0:0:0:0:1]:56145]], Read direct from socket: [834]
+2021-08-14 20:38:03.492 DEBUG 15728 --- [http-nio-8080-exec-9] o.a.t.util.http.Rfc6265CookieProcessor   : Cookies: Parsing b[]: Idea-2825574c=f24336ef-1e75-4bda-907d-a5d2aa3f6748
+2021-08-14 20:38:03.493 DEBUG 15728 --- [http-nio-8080-exec-9] o.a.c.authenticator.AuthenticatorBase    : Security checking request POST /phoneBook/rpc/api/v1/addContact
+2021-08-14 20:38:03.494 DEBUG 15728 --- [http-nio-8080-exec-9] org.apache.catalina.realm.RealmBase      :   No applicable constraints defined
+2021-08-14 20:38:03.494 DEBUG 15728 --- [http-nio-8080-exec-9] o.a.c.authenticator.AuthenticatorBase    : Not subject to any constraint
+2021-08-14 20:38:03.613  INFO 15728 --- [http-nio-8080-exec-9] r.a.n.phonebook.PhoneBookController      : Called method addContact in PhoneBookController
+2021-08-14 20:38:03.614  INFO 15728 --- [http-nio-8080-exec-9] ru.academits.nikolenko.dao.ContactDao    : Contacts count = 2
+2021-08-14 20:38:03.623 DEBUG 15728 --- [http-nio-8080-exec-9] org.apache.tomcat.util.net.NioEndpoint   : Registered write interest for [org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper@39281fd1:org.apache.tomcat.util.net.NioChannel@192fe0d3:java.nio.channels.SocketChannel[connected local=/[0:0:0:0:0:0:0:1]:8080 remote=/[0:0:0:0:0:0:0:1]:56145]]
+2021-08-14 20:38:03.627 DEBUG 15728 --- [http-nio-8080-exec-9] org.apache.tomcat.util.net.NioEndpoint   : Registered write interest for [org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper@39281fd1:org.apache.tomcat.util.net.NioChannel@192fe0d3:java.nio.channels.SocketChannel[connected local=/[0:0:0:0:0:0:0:1]:8080 remote=/[0:0:0:0:0:0:0:1]:56145]]
+2021-08-14 20:38:03.630 DEBUG 15728 --- [http-nio-8080-exec-9] o.a.tomcat.util.net.SocketWrapperBase    : Socket: [org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper@39281fd1:org.apache.tomcat.util.net.NioChannel@192fe0d3:java.nio.channels.SocketChannel[connected local=/[0:0:0:0:0:0:0:1]:8080 remote=/[0:0:0:0:0:0:0:1]:56145]], Read from buffer: [0]
+2021-08-14 20:38:03.630 DEBUG 15728 --- [http-nio-8080-exec-9] org.apache.tomcat.util.net.NioEndpoint   : Socket: [org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper@39281fd1:org.apache.tomcat.util.net.NioChannel@192fe0d3:java.nio.channels.SocketChannel[connected local=/[0:0:0:0:0:0:0:1]:8080 remote=/[0:0:0:0:0:0:0:1]:56145]], Read direct from socket: [0]
+2021-08-14 20:38:03.632 DEBUG 15728 --- [http-nio-8080-exec-9] org.apache.tomcat.util.net.NioEndpoint   : Registered read interest for [org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper@39281fd1:org.apache.tomcat.util.net.NioChannel@192fe0d3:java.nio.channels.SocketChannel[connected local=/[0:0:0:0:0:0:0:1]:8080 remote=/[0:0:0:0:0:0:0:1]:56145]]
+2021-08-14 20:38:03.645 DEBUG 15728 --- [http-nio-8080-exec-2] o.a.tomcat.util.net.SocketWrapperBase    : Socket: [org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper@39281fd1:org.apache.tomcat.util.net.NioChannel@192fe0d3:java.nio.channels.SocketChannel[connected local=/[0:0:0:0:0:0:0:1]:8080 remote=/[0:0:0:0:0:0:0:1]:56145]], Read from buffer: [0]
+2021-08-14 20:38:03.646 DEBUG 15728 --- [http-nio-8080-exec-2] org.apache.tomcat.util.net.NioEndpoint   : Socket: [org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper@39281fd1:org.apache.tomcat.util.net.NioChannel@192fe0d3:java.nio.channels.SocketChannel[connected local=/[0:0:0:0:0:0:0:1]:8080 remote=/[0:0:0:0:0:0:0:1]:56145]], Read direct from socket: [674]
+2021-08-14 20:38:03.647 DEBUG 15728 --- [http-nio-8080-exec-2] o.a.t.util.http.Rfc6265CookieProcessor   : Cookies: Parsing b[]: Idea-2825574c=f24336ef-1e75-4bda-907d-a5d2aa3f6748
+2021-08-14 20:38:03.647 DEBUG 15728 --- [http-nio-8080-exec-2] o.a.c.authenticator.AuthenticatorBase    : Security checking request GET /phoneBook/rpc/api/v1/getAllContacts
+2021-08-14 20:38:03.648 DEBUG 15728 --- [http-nio-8080-exec-2] org.apache.catalina.realm.RealmBase      :   No applicable constraints defined
+2021-08-14 20:38:03.648 DEBUG 15728 --- [http-nio-8080-exec-2] o.a.c.authenticator.AuthenticatorBase    : Not subject to any constraint
+2021-08-14 20:38:03.650  INFO 15728 --- [http-nio-8080-exec-2] r.a.n.phonebook.PhoneBookController      : Called method getAllContacts in PhoneBookController
+2021-08-14 20:38:03.656 DEBUG 15728 --- [http-nio-8080-exec-2] org.apache.tomcat.util.net.NioEndpoint   : Registered write interest for [org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper@39281fd1:org.apache.tomcat.util.net.NioChannel@192fe0d3:java.nio.channels.SocketChannel[connected local=/[0:0:0:0:0:0:0:1]:8080 remote=/[0:0:0:0:0:0:0:1]:56145]]
+2021-08-14 20:38:03.658 DEBUG 15728 --- [http-nio-8080-exec-2] org.apache.tomcat.util.net.NioEndpoint   : Registered write interest for [org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper@39281fd1:org.apache.tomcat.util.net.NioChannel@192fe0d3:java.nio.channels.SocketChannel[connected local=/[0:0:0:0:0:0:0:1]:8080 remote=/[0:0:0:0:0:0:0:1]:56145]]
+2021-08-14 20:38:03.661 DEBUG 15728 --- [http-nio-8080-exec-2] o.a.tomcat.util.net.SocketWrapperBase    : Socket: [org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper@39281fd1:org.apache.tomcat.util.net.NioChannel@192fe0d3:java.nio.channels.SocketChannel[connected local=/[0:0:0:0:0:0:0:1]:8080 remote=/[0:0:0:0:0:0:0:1]:56145]], Read from buffer: [0]
+2021-08-14 20:38:03.662 DEBUG 15728 --- [http-nio-8080-exec-2] org.apache.tomcat.util.net.NioEndpoint   : Socket: [org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper@39281fd1:org.apache.tomcat.util.net.NioChannel@192fe0d3:java.nio.channels.SocketChannel[connected local=/[0:0:0:0:0:0:0:1]:8080 remote=/[0:0:0:0:0:0:0:1]:56145]], Read direct from socket: [0]
+2021-08-14 20:38:03.663 DEBUG 15728 --- [http-nio-8080-exec-2] org.apache.tomcat.util.net.NioEndpoint   : Registered read interest for [org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper@39281fd1:org.apache.tomcat.util.net.NioChannel@192fe0d3:java.nio.channels.SocketChannel[connected local=/[0:0:0:0:0:0:0:1]:8080 remote=/[0:0:0:0:0:0:0:1]:56145]]
+2021-08-14 20:38:06.331 DEBUG 15728 --- [http-nio-8080-exec-1] o.a.tomcat.util.net.SocketWrapperBase    : Socket: [org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper@39281fd1:org.apache.tomcat.util.net.NioChannel@192fe0d3:java.nio.channels.SocketChannel[connected local=/[0:0:0:0:0:0:0:1]:8080 remote=/[0:0:0:0:0:0:0:1]:56145]], Read from buffer: [0]
+2021-08-14 20:38:06.332 DEBUG 15728 --- [http-nio-8080-exec-1] o.apache.tomcat.util.threads.LimitLatch  : Counting down[http-nio-8080-exec-1] latch=2
+2021-08-14 20:38:06.333 DEBUG 15728 --- [http-nio-8080-exec-1] org.apache.tomcat.util.net.NioEndpoint   : Calling [org.apache.tomcat.util.net.NioEndpoint@5d1471d5].closeSocket([org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper@39281fd1:org.apache.tomcat.util.net.NioChannel@192fe0d3:java.nio.channels.SocketChannel[connected local=/[0:0:0:0:0:0:0:1]:8080 remote=/[0:0:0:0:0:0:0:1]:56145]])
+2021-08-14 20:38:12.055  INFO 15728 --- [scheduling-1] r.a.n.schedule.DeleteContactScheduler    : Called scheduled function deleteAnyContact is called in DeleteContactScheduler
+2021-08-14 20:38:12.057  INFO 15728 --- [scheduling-1] ru.academits.nikolenko.dao.ContactDao    : Deleted contact with id = 2
+2021-08-14 20:38:12.057  INFO 15728 --- [scheduling-1] ru.academits.nikolenko.dao.ContactDao    : Contacts count = 1
+2021-08-14 20:38:41.289 DEBUG 15728 --- [Catalina-utility-1] org.apache.catalina.session.ManagerBase  : Start expire sessions StandardManager at 1628948321231 sessioncount 0
+2021-08-14 20:38:41.290 DEBUG 15728 --- [Catalina-utility-1] org.apache.catalina.session.ManagerBase  : End expire sessions StandardManager processingTime 59 expired sessions: 0
+2021-08-14 20:38:42.071  INFO 15728 --- [scheduling-1] r.a.n.schedule.DeleteContactScheduler    : Called scheduled function deleteAnyContact is called in DeleteContactScheduler
+2021-08-14 20:38:42.071  INFO 15728 --- [scheduling-1] ru.academits.nikolenko.dao.ContactDao    : Deleted contact with id = 1
+2021-08-14 20:38:42.071  INFO 15728 --- [scheduling-1] ru.academits.nikolenko.dao.ContactDao    : Contacts count = 0
+2021-08-14 20:38:49.742 DEBUG 15728 --- [http-nio-8080-exec-3] o.apache.tomcat.util.threads.LimitLatch  : Counting down[http-nio-8080-exec-3] latch=1
+2021-08-14 20:38:49.743 DEBUG 15728 --- [http-nio-8080-exec-3] org.apache.tomcat.util.net.NioEndpoint   : Calling [org.apache.tomcat.util.net.NioEndpoint@5d1471d5].closeSocket([org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper@58b31d6f:org.apache.tomcat.util.net.NioChannel@5674e809:java.nio.channels.SocketChannel[connected local=/127.0.0.1:8080 remote=/127.0.0.1:59594]])
+2021-08-14 20:39:12.076  INFO 15728 --- [scheduling-1] r.a.n.schedule.DeleteContactScheduler    : Called scheduled function deleteAnyContact is called in DeleteContactScheduler
+2021-08-14 20:39:41.364 DEBUG 15728 --- [Catalina-utility-1] org.apache.catalina.session.ManagerBase  : Start expire sessions StandardManager at 1628948381361 sessioncount 0
+2021-08-14 20:39:41.365 DEBUG 15728 --- [Catalina-utility-1] org.apache.catalina.session.ManagerBase  : End expire sessions StandardManager processingTime 3 expired sessions: 0
+2021-08-14 20:39:42.082  INFO 15728 --- [scheduling-1] r.a.n.schedule.DeleteContactScheduler    : Called scheduled function deleteAnyContact is called in DeleteContactScheduler
+2021-08-14 20:40:12.086  INFO 15728 --- [scheduling-1] r.a.n.schedule.DeleteContactScheduler    : Called scheduled function deleteAnyContact is called in DeleteContactScheduler
