@@ -51,20 +51,23 @@ public class ContactDao implements PhoneBookDao {
             }
         }
 
+        logger.info("Find filtered contacts count = " + result.size());
+
         return result;
     }
 
     public void add(Contact contact) {
         contact.setId(getNewId());
         contactList.add(contact);
-        logContactsCount();
+        logger.info("Contact added. Contacts count = " + contactList.size());
     }
 
     public boolean deleteContact(int contactId) {
         Contact contact = findContact(contactId);
 
         boolean result = contactList.remove(contact);
-        logContactsCount();
+
+        logger.info("Delete contact with id = " + contactId + " deleted: " + result + ". Contacts count = " + contactList.size());
 
         return result;
     }
@@ -79,10 +82,6 @@ public class ContactDao implements PhoneBookDao {
         return null;
     }
 
-    private void logContactsCount() {
-        logger.info("Contacts count = " + contactList.size());
-    }
-
     public void deleteAnyContact() {
         if (contactList.size() > 0) {
             int randomContactIndex = (int) (Math.random() * contactList.size());
@@ -90,8 +89,7 @@ public class ContactDao implements PhoneBookDao {
             Contact deletedContact = contactList.remove(randomContactIndex);
 
             if (deletedContact != null) {
-                logger.info("Deleted contact with id = " + deletedContact.getId());
-                logContactsCount();
+                logger.info("Deleted contact with id = " + deletedContact.getId() + ". Contacts count = " + contactList.size());
             }
         }
     }

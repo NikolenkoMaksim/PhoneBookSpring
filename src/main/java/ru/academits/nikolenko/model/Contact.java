@@ -55,4 +55,9 @@ public class Contact {
     public void setImportant(boolean important) {
         this.important = important;
     }
+
+    @Override
+    public String toString() {
+        return "{firstName = " + firstName + "; lastName = " + lastName + "; phone = " + phone + "}";
+    }
 }

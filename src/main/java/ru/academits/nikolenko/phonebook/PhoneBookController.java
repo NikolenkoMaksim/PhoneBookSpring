@@ -14,6 +14,7 @@ import ru.academits.nikolenko.model.Filter;
 import ru.academits.nikolenko.service.ContactService;
 import ru.academits.nikolenko.service.PhoneBookService;
 
+import java.util.Arrays;
 import java.util.List;
 
 @Controller
@@ -37,21 +38,21 @@ public class PhoneBookController implements PhoneBookInterface {
     @RequestMapping(value = "addContact", method = RequestMethod.POST)
     @ResponseBody
     public ContactValidation addContact(@RequestBody Contact contact) {
-        logger.info("Called method addContact in PhoneBookController");
+        logger.info("Called method addContact in PhoneBookController. contact = " + contact.toString());
         return contactService.addContact(contact);
     }
 
     @RequestMapping(value = "deleteContacts", method = RequestMethod.POST)
     @ResponseBody
     public DeleteResults deleteContacts(@RequestBody int[] contactsIds) {
-        logger.info("Called method deleteContacts in PhoneBookController");
+        logger.info("Called method deleteContacts in PhoneBookController. contactsIds = " + Arrays.toString(contactsIds));
         return contactService.deleteContacts(contactsIds);
     }
 
     @RequestMapping(value = "getFilteredContacts", method = RequestMethod.POST)
     @ResponseBody
     public List<Contact> getFilteredContacts(@RequestBody Filter filter) {
-        logger.info("Called method getFilteredContacts in PhoneBookController");
+        logger.info("Called method getFilteredContacts in PhoneBookController. filter = " + filter.getFilter());
         return contactService.getFilteredContacts(filter.getFilter());
     }
 }
