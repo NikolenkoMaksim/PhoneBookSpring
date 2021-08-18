@@ -13,7 +13,7 @@ import ru.academits.nikolenko.service.PhoneBookService;
 @Component
 public class DeleteContactScheduler {
     private static final Logger logger = LoggerFactory.getLogger(DeleteContactScheduler.class);
-    private final int delay = 30000;
+    private final int delay = 3600000;
 
     private final PhoneBookService contactService;
 
